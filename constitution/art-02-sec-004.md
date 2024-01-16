@@ -1,0 +1,2 @@
+# Article 2, Section 4
+Time of state election; absentee voting. The election of Senators and Representatives shall be on the Tuesday following the first Monday of November biennially forever and the election of Governor shall be on the Tuesday following the first Monday of November every 4 years. The Legislature under proper enactment shall authorize and provide for voting by citizens of the State absent therefrom in the Armed Forces of the United States or of this State and for voting by other citizens absent or physically incapacitated for reasons deemed sufficient.

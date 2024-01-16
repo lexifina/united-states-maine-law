@@ -1,0 +1,2 @@
+# Article 9, Section 23
+State park land. State park land, public lots or other real estate held by the State for conservation or recreation purposes and designated by legislation implementing this section may not be reduced or its uses substantially altered except on the vote of 2/3 of all the members elected to each House. The proceeds from the sale of such land must be used to purchase additional real estate in the same county for the same purposes.

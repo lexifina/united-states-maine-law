@@ -1,0 +1,2 @@
+# Article 4, Part 3, Section 3
+Each House the judge of its elections; majority, a quorum. Each House shall be the judge of the elections and qualifications of its own members, and a majority shall constitute a quorum to do business; but a smaller number may adjourn from day to day, and may compel the attendance of absent members, in such manner and under such penalties as each House shall provide.

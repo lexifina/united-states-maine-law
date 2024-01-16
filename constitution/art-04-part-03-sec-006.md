@@ -1,0 +1,2 @@
+# Article 4, Part 3, Section 6
+May punish for contempt. Each House, during its session, may punish by imprisonment any person, not a member, for disrespectful or disorderly behavior in its presence, for obstructing any of its proceedings, threatening, assaulting or abusing any of its members for anything said, done, or doing in either House; provided, that no imprisonment shall extend beyond the period of the same session.

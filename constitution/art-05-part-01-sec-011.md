@@ -1,0 +1,2 @@
+# Article 5, Part 1, Section 11
+Power to pardon and remit penalties, etc.; conditions. The Governor shall have power to remit after conviction all forfeitures and penalties, and to grant reprieves, commutations and pardons, except in cases of impeachment, upon such conditions, and with such restrictions and limitations as may be deemed proper, subject to such regulations as may be provided by law, relative to the manner of applying for pardons. Such power to grant reprieves, commutations and pardons shall include offenses of juvenile delinquency.

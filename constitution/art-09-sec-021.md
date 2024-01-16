@@ -1,0 +1,3 @@
+# Article 9, Section 21
+State mandates. For the purpose of more fairly apportioning the cost of government and providing local property tax relief, the State may not require a local unit of government to expand or modify that unit's activities so as to necessitate additional expenditures from local revenues unless the State provides annually 90% of the funding for these expenditures from State funds not previously appropriated to that local unit of
+government. Legislation implementing this section or requiring a specific expenditure as an exception to this requirement may be enacted upon the vote of 2/3 of all members elected to each House. This section must be liberally construed.

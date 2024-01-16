@@ -1,0 +1,2 @@
+# Article 1, Section 5
+Unreasonable searches prohibited. The people shall be secure in their persons, houses, papers and possessions from all unreasonable searches and seizures; and no warrant to search any place, or seize any person or thing, shall issue without a special designation of the place to be searched, and the person or thing to be seized, nor without probable cause -- supported by oath or affirmation.

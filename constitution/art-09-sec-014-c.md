@@ -1,0 +1,3 @@
+# Article 9, Section 14-C
+Authority to insure mortgage loans for Indian housing. For the purpose of fostering and encouraging the acquisition, construction, repair and remodeling of houses owned or to be owned by members of the 2 tribes on the several Indian reservations, the Legislature by proper enactment may insure the payment of mortgage loans on such houses not exceeding in the aggregate $1,000,000 in amount at any one time
+and may also appropriate moneys and authorize the issuance of bonds on behalf of the State at such times and in such amounts as it may determine to make payments insured as aforesaid.

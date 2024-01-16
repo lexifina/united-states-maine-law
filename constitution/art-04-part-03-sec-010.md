@@ -1,0 +1,2 @@
+# Article 4, Part 3, Section 10
+Members not to be appointed to certain offices. No Senator or Representative shall, during the term for which the Senator or Representative shall have been elected, be appointed to any civil office of profit under this State, which requires the approval of the Legislature for appointment or which shall have been created, or the emoluments of which increased during such term, except such offices as may be filled by elections by the people.

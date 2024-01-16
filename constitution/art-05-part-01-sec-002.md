@@ -1,0 +1,2 @@
+# Article 5, Part 1, Section 2
+Term of office; reelection eligibility. The Governor shall be elected by the qualified electors, and shall hold the office for 4 years from the first Wednesday after the first Tuesday of January next following the election and until the successor to the Governor has been duly elected and qualified. The person who has served 2 consecutive popular elective 4-year terms of office as Governor shall be ineligible to succeed himself or herself.

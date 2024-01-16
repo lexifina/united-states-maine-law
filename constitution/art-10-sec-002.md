@@ -1,0 +1,2 @@
+# Article 10, Section 2
+Duration of the first Legislature. The period for which the Governor, Senators and Representatives, Counsellors, Secretary and Treasurer, first elected or appointed, are to serve in their respective offices and places, shall commence on the last Wednesday in May, in the year of our Lord one thousand eight hundred and twenty, and continue until the first Wednesday of January, in the year of our Lord one thousand eight hundred and twenty two.

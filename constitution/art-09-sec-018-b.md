@@ -1,0 +1,2 @@
+# Article 9, Section 18-B
+Payment of unfunded liabilities of the Maine State Retirement System. Each fiscal year beginning with the fiscal year starting July 1, 1997, the Legislature shall appropriate funds that will retire in 31 years or less the unfunded liabilities of the Maine State Retirement System that are attributable to state employees and teachers. The unfunded liabilities referred to in this section are those determined by the Maine State Retirement System's actuaries and certified by the Board of Trustees of the Maine State Retirement System as of June 30, 1996.

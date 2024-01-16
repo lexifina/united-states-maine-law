@@ -1,0 +1,3 @@
+# Article 4, Part 3, Section 7
+Compensation; traveling expenses. The Senators and Representatives shall receive such compensation, as shall be established by law; but no law increasing their compensation shall take effect during the existence of the Legislature, which enacted it. The expenses of the members of the House of Representatives in traveling to the Legislature, and returning therefrom, once in each week of each session and no more, shall
+be paid by the State out of the public treasury to every member, who shall seasonably attend, in the judgment of the House, and does not depart therefrom without leave.

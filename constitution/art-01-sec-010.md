@@ -1,0 +1,2 @@
+# Article 1, Section 10
+Bailable offenses; habeas corpus. No person before conviction shall be bailable for any of the crimes which now are, or have been denominated capital offenses since the adoption of the Constitution, when the proof is evident or the presumption great, whatever the punishment of the crimes may be. And the privilege of the writ of habeas corpus shall not be suspended, unless when in cases of rebellion or invasion the public safety may require it.

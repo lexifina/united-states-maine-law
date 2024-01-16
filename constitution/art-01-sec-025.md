@@ -1,0 +1,2 @@
+# Article 1, Section 25
+Right to food. All individuals have a natural, inherent and unalienable right to food, including the right to save and exchange seeds and the right to grow, raise, harvest, produce and consume the food of their own choosing for their own nourishment, sustenance, bodily health and well-being, as long as an individual does not commit trespassing, theft, poaching or other abuses of private property rights, public lands or natural resources in the harvesting, production or acquisition of food.

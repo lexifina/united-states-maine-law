@@ -1,0 +1,2 @@
+# Article 4, Part 3, Section 9
+Either House may originate bills; revenue bills. Bills, orders or resolutions, may originate in either House, and may be altered, amended or rejected in the other; but all bills for raising a revenue shall originate in the House of Representatives, but the Senate may propose amendments as in other cases; provided, that they shall not, under color of amendment, introduce any new matter, which does not relate to raising a revenue.

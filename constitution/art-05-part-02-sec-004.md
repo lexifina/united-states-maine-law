@@ -1,0 +1,2 @@
+# Article 5, Part 2, Section 4
+Records of executive and legislative departments. The Secretary of State shall carefully keep and preserve the records of all the official acts and proceedings of the Governor, Senate and House of Representatives, and, when required, lay the same before either branch of the Legislature, and perform such other duties as are enjoined by this Constitution, or shall be required by law.

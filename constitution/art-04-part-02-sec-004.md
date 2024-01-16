@@ -1,0 +1,2 @@
+# Article 4, Part 2, Section 4
+Lists of votes examined by Governor; summons to persons who appear to be elected. The Governor shall, as soon as may be, examine the copies of such lists, and at least 7 days before the said first Wednesday of December, issue a summons to such persons, as shall appear to be elected by a plurality of the votes in each senatorial district, to attend that day and take their seats.

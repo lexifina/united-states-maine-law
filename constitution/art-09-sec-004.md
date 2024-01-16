@@ -1,0 +1,2 @@
+# Article 9, Section 4
+Elections on the first Wednesday after first Tuesday of January may be adjourned from day to day. In case the elections, required by this Constitution on the first Wednesday after the first Tuesday of January biennially, by the 2 Houses of the Legislature, shall not be completed on that day, the same may be adjourned from day to day, until completed, in the following order: The vacancies in the Senate shall first be filled; and the Governor shall then be elected, if there be no choice by the people.

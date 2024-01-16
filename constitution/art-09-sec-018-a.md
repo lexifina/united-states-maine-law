@@ -1,0 +1,2 @@
+# Article 9, Section 18-A
+Funding of retirement benefits under the Maine Public Employees Retirement System. Beginning with the fiscal year starting July 1, 1997, the normal cost of all retirement and ancillary benefits provided to participants under the Maine Public Employees Retirement System must be funded annually on an actuarially sound basis. Unfunded liabilities may not be created except those resulting from experience losses. Unfunded liability resulting from experience losses must be retired over a period not exceeding 20 years.

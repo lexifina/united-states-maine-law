@@ -1,0 +1,2 @@
+# Article 9, Section 5
+Removal by impeachment or address. Every person holding any civil office under this State, may be removed by impeachment, for misdemeanor in office; and every person holding any office, may be removed by the Governor on the address of both branches of the Legislature. But before such address shall pass either House, the causes of removal shall be stated and entered on the journal of the House in which it originated, and a copy thereof served on the person in office, that the person may be admitted to a hearing in that person's own defense.

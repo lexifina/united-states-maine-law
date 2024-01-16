@@ -1,0 +1,3 @@
+# Article 9, Section 18
+Limitation on use of funds of Maine State Retirement System. All of the assets, and proceeds or income therefrom, of the Maine State Retirement System or any successor system and all contributions and payments made to the system to provide for retirement and related benefits shall be held, invested or disbursed as in trust for the
+exclusive purpose of providing for such benefits and shall not be encumbered for, or diverted to, other purposes. Funds appropriated by the Legislature for the Maine State Retirement System are assets of the system and may not be diverted or deappropriated by any subsequent action.

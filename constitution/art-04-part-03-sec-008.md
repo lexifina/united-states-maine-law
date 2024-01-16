@@ -1,0 +1,2 @@
+# Article 4, Part 3, Section 8
+Members exempt from arrest; freedom of debate. The Senators and Representatives shall, in all cases except treason, felony or breach of the peace, be privileged from arrest during their attendance at, going to, and returning from each session of the Legislature, and no member shall be liable to answer for anything spoken in debate in either House, in any court or place elsewhere.

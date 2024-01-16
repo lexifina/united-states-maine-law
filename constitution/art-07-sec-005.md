@@ -1,0 +1,2 @@
+# Article 7, Section 5
+Persons exempt from military duty. Persons of the denominations of Quakers and Shakers, Justices of the Supreme Judicial Court, Ministers of the Gospel and persons exempted by the laws of the United States may be exempted from military duty, but no other able-bodied person of the age of 18 and under the age of 45 years, excepting officers of the militia who have been honorably discharged, shall be so exempted.
