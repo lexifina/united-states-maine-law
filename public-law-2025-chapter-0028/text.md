@@ -1,0 +1,9 @@
+An Act Regarding the Emptying of Elver Fyke Nets
+Emergency preamble.  Whereas, acts and resolves of the Legislature do not become effective until 90 days after adjournment unless enacted as emergencies; and
+Whereas, this legislation amends the law governing the emptying of elver fyke nets; and
+Whereas, it is important that this legislation take effect immediately in order for these changes to be in place before the beginning of the next elver fishing season in March 2025; and
+Whereas, in the judgment of the Legislature, these facts create an emergency within the meaning of the Constitution of Maine and require the following legislation as immediately necessary for the preservation of the public peace, health and safety; now, therefore,
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  12 MRSA §6505-A, sub-§1-A, as amended by PL 2023, c. 81, §1, is further amended to read:
+1-A.  Licensed activity.  The holder of an elver fishing license or elver fishing license with crew may fish for, take or possess elvers.  The holder of an elver fishing license or elver fishing license with crew may transport and sell within state limits elvers that the license holder has taken.  The holder of an elver fishing license with crew is liable for the licensed activities under this subsection of an unlicensed crew member assisting that license holder pursuant to subsection 1‑B.  The license holder to whom a tag is issued or the unlicensed crew member may empty an elver fyke net.  <ins>The license holder to whom a tag is issued may allow an individual who also holds an elver fishing license to empty the elver fyke net of the license holder whose tag is on the net while under that license holder's direct supervision.</ins>
+Emergency clause.  In view of the emergency cited in the preamble, this legislation takes effect when approved.
