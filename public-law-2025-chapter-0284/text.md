@@ -1,0 +1,13 @@
+An Act to Amend the Law Governing Watercraft Franchisor Warranty Reimbursements
+Emergency preamble.  Whereas, acts and resolves of the Legislature do not become effective until 90 days after adjournment unless enacted as emergencies; and
+Whereas, approximately 80% of watercraft sold in Maine are equipped with an outboard motor; and
+Whereas, the outboard motor manufacturer industry has recently been consolidated to primarily 2 companies that share the market; and
+Whereas, warranty repairs currently performed on watercraft are reimbursed with a flat rate for the labor performed based upon a manufacturer's estimate of the repair duration, which is not fitting for the marine industry; and
+Whereas, the upcoming summer months generally correlate with an increase in watercraft warranty repairs; and
+Whereas, in the judgment of the Legislature, these facts create an emergency within the meaning of the Constitution of Maine and require the following legislation as immediately necessary for the preservation of the public peace, health and safety; now, therefore,
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  10 MRSA §1197, sub-§1, as enacted by PL 1991, c. 631, is amended to read:
+1.  Parts or labor; satisfaction of warranty.  If a franchisor requires or permits a franchisee to perform labor or provide parts to satisfy a warranty created by the franchisor, the franchisor shall properly and promptly fulfill its warranty obligations and:
+A.  Reimburse the franchisee at the retail rate customarily charged for <del>any</del> <ins>all</ins> parts <del>provided</del> <ins>used</ins> by the franchisee to satisfy the warranty<ins>. If the franchisor provides a part to the franchisee for a specific warranty repair, the franchisor shall compensate the franchisee for the difference between the cost of the part to the franchisee and the full retail price of the part, which may not exceed 100% of the total reimbursement cost under paragraph B of the labor required to perform the repair</ins>; and
+B.  Reimburse the franchisee for <del>any</del> <ins>actual</ins> labor performed by the franchisee to satisfy the warranty<ins>, which must be reasonable and supported by the franchisee's records</ins>.  Reimbursement for labor may not be less than the retail rate customarily charged by that franchisee for the same labor when not performed to satisfy a warranty.  To be entitled to reimbursement under this section, a franchisee must post in a place conspicuous to service customers the rate for labor not performed to satisfy a warranty.
+Emergency clause.  In view of the emergency cited in the preamble, this legislation takes effect when approved.
