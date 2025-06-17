@@ -1,0 +1,19 @@
+An Act to Amend Election Polling Place Candidate Restrictions
+Emergency preamble.  Whereas, acts and resolves of the Legislature do not become effective until 90 days after adjournment unless enacted as emergencies; and
+Whereas, many municipalities in the State will hold elections in June; and
+Whereas, this legislation makes changes to polling place restrictions on candidates, and those changes need to be in place prior to those elections; and
+Whereas, in the judgment of the Legislature, these facts create an emergency within the meaning of the Constitution of Maine and require the following legislation as immediately necessary for the preservation of the public peace, health and safety; now, therefore,
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  21-A MRSA §682, sub-§1-A is enacted to read:
+<ins>1-A.  Definition.  For the purposes of this section, unless the context otherwise indicates, "candidate" has the same meaning as in section 1, subsection 5 and includes a write-in candidate, as defined in section 1, subsection 51.  "Candidate" includes a candidate of any party designation and a candidate that is not enrolled in a political party.</ins>
+Sec. 2.  21-A MRSA §682, sub-§2, as amended by PL 2023, c. 109, §1, is further amended to read:
+2.  Influence prohibited.  On public property within 250 feet of the entrance to the voting place as well as within the voting place itself, a person may not:
+A.  Influence another person's decision regarding a candidate for an office <ins>that is on the ballot for the election that day, whether or not the candidate's name is on the ballot,</ins> or <ins>a</ins> question that is on the ballot for the election that day; or
+B.  Attempt to influence another person's decision regarding a candidate for an office <ins>that is on the ballot for the election that day, whether or not the candidate's name is on the ballot,</ins> or <ins>a</ins> question that is on the ballot for the election that day.
+These limitations do not prohibit a candidate, or no more than one representative of a candidate, from greeting a voter if the candidate or representative of the candidate does not state the name of the office that the candidate is seeking in that election year or wear any button, name tag, apparel or label or have or use any item or sign displaying the candidate's name or the name of the office the candidate is seeking<ins>, engage in the conduct described in subsection 7</ins> or otherwise express support for or opposition to a party, a candidate or a ballot question.
+Sec. 3.  21-A MRSA §682, sub-§7 is enacted to read:
+<ins>7.  Other political activities prohibited by candidates; collection of signatures; funding.  On public property within 250 feet of the entrance to the voting place as well as within the voting place itself, a candidate or a representative of a candidate may not:</ins>
+<ins>A.  Collect or solicit voter signatures on a petition in support of the candidate's candidacy for an office the candidate is seeking in that election year; </ins>
+<ins>B.  Collect or solicit contributions in support of the candidate's candidacy for an office the candidate is seeking in that election year.  For the purposes of this paragraph, "contribution" has the same meaning as in section 1012, subsection 2; or</ins>
+<ins>C.  Collect or solicit qualifying contributions under the Maine Clean Election Act in support of the participating candidate's candidacy for an office the candidate is seeking in that election year.  For the purposes of this paragraph, "participating candidate" has the same meaning as in section 1122, subsection 6 and "qualifying contribution" has the same meaning as in section 1122, subsection 7.</ins>
+Emergency clause.  In view of the emergency cited in the preamble, this legislation takes effect when approved.
