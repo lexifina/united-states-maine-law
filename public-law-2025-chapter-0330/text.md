@@ -1,0 +1,10 @@
+An Act to Clarify the Release of Information by the Department of Health and Human Services in the Law Regarding Automatic Referrals
+Emergency preamble.  Whereas, acts and resolves of the Legislature do not become effective until 90 days after adjournment unless enacted as emergencies; and
+Whereas, individuals who are eligible to enroll in certain state programs will be referred to other programs for which they are eligible through an automatic referral project created by Public Law 2023, chapter 412; and
+Whereas, individuals must be able to opt out of information sharing, and establishing that ability requires a statutory change; and
+Whereas, the Department of Health and Human Services and other state agencies, quasi-state agencies and other entities are currently developing and implementing the project, and this legislation must take effect immediately to avoid any delays; and
+Whereas, in the judgment of the Legislature, these facts create an emergency within the meaning of the Constitution of Maine and require the following legislation as immediately necessary for the preservation of the public peace, health and safety; now, therefore,
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  22 MRSA §3110, sub-§2, as enacted by PL 2023, c. 412, Pt. VV, §1, is amended to read:
+2.  Authorization required.  Before providing any information pursuant to this section, the department must receive <del>express</del> authorization from the recipient <ins>of assistance</ins> agreeing to the release of that information in accordance with <del>federal and state law</del> <ins>this section</ins>.  The department shall develop a simplified process to give the recipient <ins>of assistance</ins> the choice <ins>to opt out</ins> of authorizing <del>the</del> <ins>a</ins> release of information pursuant to this section at the time of application or recertification for assistance under this subtitle or at another time of the individual's choice.  
+Emergency clause.  In view of the emergency cited in the preamble, this legislation takes effect when approved.
