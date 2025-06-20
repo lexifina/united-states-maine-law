@@ -1,0 +1,4 @@
+An Act to Rename the Administrator of the Office of Chief Medical Examiner the Director of Medical Examiner Operations
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  22 MRSA §3022, sub-§2-A, as amended by PL 2023, c. 412, Pt. FF, §1, is further amended to read:
+2-A.  Appointment of office administrator Director of Medical Examiner Operations.  The Chief Medical Examiner may appoint one office administrator a Director of Medical Examiner Operations, who shall serve at the pleasure of the Chief Medical Examiner.  The office administrator Director of Medical Examiner Operations shall perform such duties as may be delegated by the Chief Medical Examiner.  Notwithstanding any other provisions provision of law to the contrary, the compensation of the Chief Medical Examiner's office administrator Director of Medical Examiner Operations must be fixed by the Chief Medical Examiner subject to approval by the Attorney General.
