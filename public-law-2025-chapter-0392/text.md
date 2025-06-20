@@ -1,0 +1,49 @@
+An Act to Direct the Public Utilities Commission to Conduct Procurements for Energy or Renewable Energy Credits
+Emergency preamble.  Whereas, acts and resolves of the Legislature do not become effective until 90 days after adjournment unless enacted as emergencies; and
+Whereas, it is critically important that Maine citizens have continued access to low-cost, locally generated power through the timely procurement of long-term contracts administered by the Public Utilities Commission; and
+Whereas, delays in the procurement process will jeopardize rural jobs in the forest products industry and place at risk applications to connect in a cost-effective manner to the New England grid unless the Public Utilities Commission acts prior to the expiration of the 90-day period; and
+Whereas, in the judgment of the Legislature, these facts create an emergency within the meaning of the Constitution of Maine and require the following legislation as immediately necessary for the preservation of the public peace, health and safety; now, therefore,
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  35-A MRSA §3149 is enacted to read:
+<ins>§3149.  Negative pricing</ins>
+<ins>The commission may not approve a contract for energy resulting from a competitive solicitation conducted by the commission under this Title unless the contract includes a provision that requires the reduction of payments to the bidder by the stranded costs arising from energy produced during negative price intervals. The commission may grant an exception from the inclusion of such a negative price provision if the bidder demonstrates good cause for the exception and the commission finds that the contract is cost-effective, includes other price protections for ratepayers and will avoid to the maximum extent possible the curtailment of existing renewable resource generators.</ins>
+Sec. 2.  35-A MRSA §3210, sub-§12, as enacted by PL 2023, c. 321, §2, is repealed.
+Sec. 3.  35-A MRSA §3210-J, sub-§2, as enacted by PL 2023, c. 321, §3, is amended to read:
+2.  Competitive procurement.  The commission shall direct investor-owned transmission and distribution utilities to enter into one or more contracts for energy <del>and</del> <ins>or</ins> renewable energy credits from eligible Class IA resources or combined projects in accordance with this section.  Customers who have made an election pursuant to section 3210, subsection 10 are subject to prohibitions on bidding on or obtaining a contract under this section as provided in section 3210, subsection 10 for contracts under section 3210‑G.
+A.  The commission shall <del>initiate</del> <ins>conduct</ins> competitive solicitations for contracts under this <del>paragraph</del> <ins>subsection</ins> for energy <del>and</del> <ins>or</ins> renewable energy credits equal to 5% of the retail electricity sales in this State for the period from January 1, 2021 to December 31, 2021 plus any amount determined pursuant to paragraph B.
+B.  The commission shall determine the amount of energy or renewable energy credits from Class IA resources selected for contracts pursuant to section 3210‑G that have not been fulfilled and shall add this amount to the amount of energy and renewable energy credits to be contracted under paragraph A.
+<del>C.  The commission shall initiate the first competitive solicitation to select eligible Class IA resources or combined projects for contract under this section by January 1, 2024.</del>
+<ins>C-1.  The commission shall initiate a competitive solicitation for energy or renewable energy credits described in paragraph A and shall select eligible Class IA resources or combined projects as expeditiously as possible, taking into account a bidder’s ongoing interconnection costs and ability to receive federal tax credits.</ins>
+D.  For any amount of energy or renewable energy credits required to be procured under paragraph A that are not procured in the <del>first</del> competitive solicitation <ins>required by paragraph C-1</ins>, the commission <del>shall</del> <ins>may</ins> initiate <del>a 2nd</del> <ins>an additional</ins> competitive solicitation within 12 months of the conclusion of the <del>first</del> solicitation <ins>required by paragraph C-1</ins>. The commission <del>shall</del> <ins>may</ins> initiate additional solicitations in the same manner until contracts have been approved to procure eligible Class IA resources or combined projects in accordance with paragraph A.
+E.  The commission shall require each bidder to demonstrate in the bid proposal the economic and community benefits the proposal will provide, including but not limited to:
+(1)  Jobs that will be created;
+(2)  Excise, income, property and sales taxes that will be paid; and
+(3)  Goods and services that will be purchased.
+F.  In conducting a solicitation and selecting eligible Class IA resources or combined projects for contracts under this section, the commission shall:
+(1)  Consider the expected effect of eligible Class IA resources on other renewable resources, as defined in section 3210, subsection 2, paragraph C, due to congestion and curtailment;
+(2)  Select only those eligible Class IA resources or combined projects for contracts that will benefit ratepayers<ins>, as determined by the commission in accordance with subsection 2-A</ins>; and
+(3)  Of those eligible Class IA resources or combined projects that benefit ratepayers, give preference to eligible Class IA resources or combined projects as follows:
+(a)  Primary preference to those eligible Class IA resources or combined projects that are located on contaminated land; and
+(b)  Secondary preference to those eligible Class IA resources or combined projects that minimize use of farmland that is not contaminated land and minimize use of forested land.
+G.  In conducting a solicitation and selecting combined projects for contracts under this section, the commission shall:
+(1)  Require 2 separate bid proposals, one with the energy storage system and one without; and
+(2)  Require an energy storage system selected for a contract to remain stationary and under the same ownership throughout the contract term.
+H.  The commission may establish a process by rule to allow an energy storage system to apply to the commission to be paired with and added to a contract awarded to an eligible Class IA resource after that resource has been awarded a contract.
+Sec. 4.  35-A MRSA §3210-J, sub-§2-A is enacted to read:
+<ins>2-A.  Ratepayer benefits.  The commission may not make a determination that a contract will benefit ratepayers as required by subsection 2, paragraph F, subparagraph (2), unless the commission determines that the contract is more likely than not to produce benefits to ratepayers that exceed the costs to ratepayers associated with the contract.</ins>
+Sec. 5.  35-A MRSA §3210-J, sub-§4, as enacted by PL 2023, c. 321, §3, is repealed.
+Sec. 6.  35-A MRSA §3210-J, sub-§5, as enacted by PL 2023, c. 321, §3, is amended to read:
+5.  Rules.  The commission <del>shall</del> <ins>may</ins> adopt rules to implement this section. Rules adopted in accordance with this subsection are routine technical rules pursuant to Title 5, chapter 375, subchapter 2‑A.
+Sec. 7.  35-A MRSA §3210-K is enacted to read:
+<ins>§3210-K.  Renewable energy procurement; repowering and continued maintenance of existing resources</ins>
+<ins>The commission shall direct investor-owned transmission and distribution utilities to enter into one or more contracts for energy or renewable energy credits from eligible Class IA resources in accordance with this section.</ins>
+<ins>1. Definition. As used in this section, "eligible Class IA resource" means a Class IA resource as defined in section 3210, subsection 2, paragraph A-3 that began commercial operation on or before June 30, 2019.  </ins>
+<ins>2. Competitive procurement. The commission shall conduct one competitive solicitation in order to select eligible Class IA resources for contracts under this section. The commission shall initiate the competitive solicitation by December 31, 2025. </ins>
+<ins>A. Through a competitive solicitation under this section, the commission shall procure an amount of energy or renewable energy credits or a combination of energy and renewable energy credits from eligible Class IA resources that is equal to 5% of the retail electricity sales in this State for the period from January 1, 2023 to December 31, 2023, as determined by the commission. </ins>
+<ins>B. In conducting the solicitation and selecting eligible Class IA resources for contracts under this section, the commission shall consider the benefits to ratepayers and to the economy as set forth in section 3210-G, subsection 1, paragraph C, subparagraph (2) and must determine that the contract award is more likely than not to produce benefits to ratepayers that exceed costs to ratepayers in the State. </ins>
+<ins>C. If the commission concludes that the solicitation is not competitive or, following a review of bids received, that approval of a contract or contracts is not in the public interest, the commission must make a determination not to award a contract. </ins>
+<ins>3. Contract requirements. A contract entered into pursuant to this section must:</ins>
+<ins>A. Be for a term of 10 years unless the commission finds a contract for a longer term to be prudent; and</ins>
+<ins>B. Require that payments to the bidder under the contract be reduced by the stranded costs arising from energy produced during negative price intervals.</ins>
+Sec. 8.  Commission procurement; timing.  The Public Utilities Commission shall initiate the competitive solicitation required by the Maine Revised Statutes, Title 35-A, section 3210-J, subsection 2, paragraph C-1 within 30 days of the effective date of this Act.
+Emergency clause.  In view of the emergency cited in the preamble, this legislation takes effect when approved.
