@@ -1,0 +1,4 @@
+An Act Regarding the Disposal of Abandoned Human Remains
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  22 MRSA §3028-A, 2nd ¶, as enacted by PL 2017, c. 335, §1, is amended to read:
+The Chief Medical Examiner may assume responsibility for the disposal of identified human remains of a deceased resident of this State that are the subject of a medical examiner case if no one takes custody and control of the human remains for a period of 30 15 days after the Chief Medical Examiner has both completed an autopsy or necessary examination of the human remains and made reasonable inquiry under section 3028‑D, subsection 1.  Such abandoned remains may be interred or cremated.  The Chief Medical Examiner shall file or cause to be filed a certificate of abandonment in the municipality where the human remains were recovered that indicates the means of disposal.
