@@ -1,0 +1,4 @@
+An Act to Increase Seed Money Contribution Limits for Gubernatorial Candidates Under the Maine Clean Election Act
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  21-A MRSA §1122, sub-§9, as amended by PL 2007, c. 571, §10, is further amended to read:
+9.  Seed money contribution.  "Seed money contribution" means<ins>, for a gubernatorial participating candidate, a contribution of no more than $250 per individual made to the participating candidate, including the candidate or the candidate's spouse or domestic partner. For any other participating candidate, "seed money contribution" means</ins> a contribution of no more than $100 per individual made to <del>a</del> <ins>the</ins> participating candidate, including the candidate or the candidate's spouse or domestic partner.
