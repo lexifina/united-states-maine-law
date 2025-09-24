@@ -1,0 +1,7 @@
+An Act to Require Health Insurance Carriers to Provide Contact Information for Employees Responsible for Negotiating Health Care Provider Contracts
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  24-A MRSA §4303, sub-§18, ¶B, as enacted by PL 2013, c. 399, §1, is amended to read:
+B.  Upon the provider's request at the time a contract for a preferred provider arrangement is offered, the following must be provided to a provider for review:
+(1)  The fee schedule or, if there is not a fee schedule for one or more of the services covered under the contract, the terms under which payment is determined.  A carrier may require a provider to execute a nondisclosure agreement covering the information provided under this subparagraph; <del>and</del>
+(2)  The identity of all carriers for which the provider is agreeing to provide services to health plan enrollees<del>.</del><ins>; and</ins>
+<ins>(3)  Contact information for the carrier's employee responsible for negotiating all contract terms with the provider, including, but not limited to, the fee schedule.  Contact information provided under this subparagraph must include, at a minimum, the position title of the carrier's employee, the employee's telephone number and the employee's e-mail address.  A carrier shall update this contact information on the carrier's electronic portal for providers or, if the carrier does not have an electronic portal, by other means of electronic notification to providers.</ins>
