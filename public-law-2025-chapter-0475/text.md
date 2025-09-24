@@ -1,0 +1,5 @@
+An Act to Amend the Statutory Balance Limit on the Finance Authority of Maine's Loan Insurance Reserves for General Fund Transfers
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  5 MRSA §1511, as corrected by RR 2023, c. 2, Pt. A, §12, is amended to read:
+§1511.  Loan Insurance Reserve
+The State Controller may, at the close of each fiscal year, as the next priority after the transfers authorized pursuant to section 1507, transfer from the unappropriated surplus of the General Fund to the Loan Insurance Reserve amounts as may be available from time to time, up to an amount of $1,000,000 per year after the transfers have been made pursuant to section 1507.  The balance of this reserve must be paid to the Finance Authority of Maine if such payment does not cause the balance in the reserve fund maintained by the authority, when added to amounts held in the Finance Authority of Maine Mortgage Insurance Fund that are not committed or encumbered for another purpose, to exceed <del>$50,000,000</del> <ins>$65,000,000</ins>.  Any balance in the Loan Insurance Reserve is appropriated for this purpose.
