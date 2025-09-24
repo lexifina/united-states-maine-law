@@ -1,0 +1,5 @@
+An Act Regarding the Brunswick Naval Air Station Job Increment Financing Fund
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  5 MRSA §13083-S-1, sub-§3, ¶F, as enacted by PL 2009, c. 641, §9, is amended to read:
+F.  Payments to the fund are not allowed for calendar years beginning on or after January 1, <del>2031</del> <ins>2035</ins>.  If at least <del>5,000</del> <ins>8,000</ins> net new jobs are created in the base area prior to <del>2031</del> <ins>2035</ins>, the services funded under paragraphs A and B must be reviewed by the joint standing committee of the Legislature having jurisdiction over economic development matters in order to determine whether continuance of the fund is necessary.
+Sec. 2. Annual financial report; strategic plan. The Midcoast Regional Redevelopment Authority shall include in its annual financial report for fiscal year 2025-26 pursuant to the Maine Revised Statutes, Title 5, section 13083-S, subsection 1 a strategic plan for the transfer of properties from the possession of the authority to a public or private party.
