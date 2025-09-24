@@ -1,0 +1,4 @@
+An Act to Require Energy Efficiency Disclosure Statements for Certain Rental Housing in the State
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  14 MRSA §6030-C, sub-§3 is enacted to read:
+<ins>3.  Failure to provide energy efficiency disclosure statement.  Beginning January 1, 2030, a tenant under subsection 2 who does not receive a signed energy efficiency disclosure statement as required by this section may terminate the tenant’s lease by providing the landlord a 30-day written notice. Except as provided in section 6033, a landlord may not retain any fee, any security deposit or a portion of a security deposit for a lease or tenancy at will terminated as a result of a failure to provide a signed energy efficiency disclosure statement in accordance with this section.</ins>
