@@ -1,0 +1,21 @@
+An Act to Reform the Midcoast Regional Redevelopment Authority
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  5 MRSA §13083-G, sub-§2, as enacted by PL 2009, c. 641, §1, is amended to read:
+2.  Intermediate goal.  Recover economic losses and total job losses in the primary impact community resulting from the base closure; <del>and</del>
+Sec. 2.  5 MRSA §13083-G, sub-§3, as enacted by PL 2009, c. 641, §1, is amended to read:
+3.  Long-term goal.  Facilitate the maximum redevelopment of base properties<del>.</del><ins>; and</ins>
+Sec. 3.  5 MRSA §13083-G, sub-§4 is enacted to read:
+<ins>4.  Environmental stewardship.  Engage in environmental stewardship to protect against harm to the environment and residents of the primary impact community.</ins> 
+Sec. 4.  5 MRSA §13083-I, sub-§2, as enacted by PL 2005, c. 599, §1, is amended to read:
+2.  Membership; appointment.  The authority is governed by a board of trustees composed of <del>11</del> <ins>12</ins> voting members appointed <ins>pursuant to paragraphs C and D</ins> by the Governor and subject to review by the joint standing committee of the Legislature having jurisdiction over economic development matters and to confirmation by the Senate <ins>and one additional trustee who serves as a voting member appointed pursuant to paragraph F by the Governor</ins>.
+A.  <del>Trustees</del> <ins>Except for the trustee appointed pursuant to paragraph F, trustees</ins> are appointed for 4-year terms, except that, for initial appointments, 3 trustees are appointed to one-year terms, 3 trustees are appointed to 2-year terms, 2 trustees are appointed to 3-year terms, 2 trustees are appointed to 4-year terms and the <del>commissioner</del> <ins>commissioners</ins> designated pursuant to paragraph D <del>serves</del> <ins>serve</ins> at the pleasure of the Governor.  A vacancy must be filled in the same manner as the original appointment for the balance of the unexpired term.
+B.  A trustee continues to hold office until a successor is appointed and qualified, but the term of the successor is not altered from the original expiration date of the holdover trustee's term.
+C.  The Governor shall <del>make 10 appointments</del> <ins>appoint 10 trustees, who serve as voting members</ins>, of which <del>no fewer than 7 must be from candidates who are residents of Androscoggin County, Cumberland County and Sagadahoc County and are nominated by the primary impact communities</del> <ins>at least 3 are residents of Brunswick, Brunswick town officials or Brunswick business owners and at least one is a resident of Topsham, a staff member of the Topsham town administration or a Topsham business owner</ins>.  The Governor shall appoint members who reflect the diversity of interests represented by these communities.
+D.  The Governor shall designate <del>a commissioner</del> <ins>2 commissioners</ins> of <del>a department</del> <ins>2 different departments</ins> of State Government to be <del>a</del> voting, ex officio <del>member</del> <ins>members</ins> of the board of trustees.
+<del>E.  A member appointed to the board of trustees may not hold an elected office in municipal, county or state government.</del>
+<ins>F.  The Governor shall appoint one trustee, who serves as a voting member, from a preapproved list of candidates for the trustee seat provided by the Brunswick town council.</ins>
+Sec. 5.  5 MRSA §13083-K, sub-§5 is enacted to read:
+<ins>5.  Uniform Environmental Covenants Act.  Notwithstanding any provision of law to the contrary, all property held by the authority is subject to the Uniform Environmental Covenants Act.</ins>
+Sec. 6.  38 MRSA §488, sub-§15, as amended by PL 2011, c. 551, §2, is further amended by enacting at the end a new last blocked paragraph to read:
+<ins>The provisions of this subsection do not apply to a proposed development to be located on property owned or controlled by the Midcoast Regional Redevelopment Authority established in Title 5, section 13083-G.</ins>
+Sec. 7.  Establishment of environmental covenants.  No later than January 1, 2027, the board of trustees of the Midcoast Regional Redevelopment Authority shall enter into environmental covenants pursuant to the Uniform Environmental Covenants Act for all property held by the authority.  
