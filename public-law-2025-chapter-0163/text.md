@@ -1,0 +1,5 @@
+An Act to Preserve Traditional Driver's Licenses and Nondriver Identification Cards
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  29-A MRSA §1260, as enacted by PL 2017, c. 27, §1 and affected by §10, is amended to read:
+§1260.  REAL ID compliant driver's license or nondriver identification card
+The Secretary of State may issue, upon request of the applicant, a driver's license under this subchapter or a nondriver identification card under section 1410 that meets the standards of the federal REAL ID Act of 2005, Public Law 109-13.  A person may not hold a REAL ID compliant driver's license simultaneously with another license with the same class or restriction indicated on the license.  The Secretary of State shall provide an option for the applicant to be issued a driver's license under this subchapter or a nondriver identification card under section 1410 that does not meet the standards of the federal REAL ID Act of 2005 and that is valid for all state identification requirements.
