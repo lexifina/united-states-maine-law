@@ -1,0 +1,4 @@
+An Act to Establish Certain Positions Within the Maine Bureau of Veterans' Services 
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  37-B MRSA §503, sub-§1, as amended by PL 2009, c. 406, §8, is further amended to read:
+1.  Employment of personnel.  The director may employ, subject to approval of the appointing authority and the Civil Service Law, the personnel necessary to administer this chapter.  The director may employ a deputy director, a superintendent of the cemetery system, a veteran claims specialist and veteran service officers a deputy superintendent of the cemetery system, a supervisor of veterans' services, a deputy supervisor of veterans' services and veterans' services officers.  The director and other employees referred to in this subsection must be veterans as defined by 38 United States Code, Section 101 (2) 101(2) who were separated with an honorable discharge.
