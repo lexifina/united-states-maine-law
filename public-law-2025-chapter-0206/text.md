@@ -1,0 +1,14 @@
+An Act to Allow Federal Civil Service to Count for Purposes of Maine Public Employees Retirement System Benefits
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  5 MRSA §17759-A is enacted to read:
+<ins>§17759-A.  Nonmilitary public employee of the United States Government service</ins>
+<ins>1.  Service before becoming member.  Notwithstanding section 17759, a member who served as a nonmilitary public employee of the United States Government service before becoming a member is entitled under this subsection to purchase service credit for the period of time that the member served as a nonmilitary public employee of the United States Government service by complying with the applicable provisions of subsection 2.  Service credit purchased under this section is limited to 5 years.</ins>
+<ins>2.  Members qualified for credit at actuarial cost.  A member qualified under subsection 1 to purchase service credit at the cost set forth in this subsection is entitled to service credit if the member pays an amount that, together with regular interest on that amount, is the actuarial equivalent, at the effective date of the retirement benefit, of the portion of the retirement benefit based on the additional creditable service.</ins>
+<ins>A.  Payment must be made before any retirement benefit becomes effective for that member.</ins>
+<ins>B.  Payment may be made to the retirement system by a single direct payment or by annual direct payments in accordance with section 17701, subsection 4.</ins>
+Sec. 2.  5 MRSA §18364 is enacted to read:
+<ins>§18364.  Nonmilitary public employee of the United States Government service</ins>
+<ins>1.  Service before becoming member.  A member who served as a nonmilitary public employee of the United States Government before becoming a member is entitled under this subsection to purchase service credit for the period of time that the member served as a nonmilitary public employee of the United States Government by complying with the applicable provisions of subsection 2. Service credit purchased under this section is limited to 5 years.</ins>
+<ins>2.  Members qualified for credit at actuarial cost.  A member qualified under subsection 1 to purchase service credit at the cost set forth in this subsection is entitled to service credit if the member pays an amount that, together with regular interest on that amount, is the actuarial equivalent, at the effective date of the retirement benefit, of the portion of the retirement benefit based on the additional creditable service.</ins>
+<ins>A.  Payment must be made before any retirement benefit becomes effective for that member.</ins>
+<ins>B.  Payment may be made to the retirement system by a single direct payment or by annual direct payments in accordance with section 18301, subsection 4.</ins>
