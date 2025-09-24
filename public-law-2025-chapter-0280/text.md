@@ -1,0 +1,38 @@
+An Act to Allow Electric Vehicle Charging Stations by Condominium and Residential Associations
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  33 MRSA §576-A is enacted to read:
+<ins>§576-A.  Electric vehicle charging stations allowed</ins>
+<ins>1. Definitions. As used in this section, unless the context otherwise indicates, the following terms have the following meanings.</ins>
+<ins>A. "Bylaw" means the instrument, however denominated, that contains the procedures for conduct of the affairs of the association of unit owners regardless of the form in which the association of unit owners is organized, including any amendments to the instrument.</ins>
+<ins>B. "Common interest community" has the same meaning as in Title 38, section 3002, subsection 3.</ins>
+<ins>C. "Electric vehicle charging station" means an electric component assembly or cluster of component assemblies designed specifically to charge batteries within electric vehicles by permitting the transfer of electric energy to a battery or other storage device in an electric vehicle.</ins>
+<ins>D. "Executive board" means the body, regardless of name, designated in the declaration to act on behalf of the association of unit owners.</ins>
+<ins>E. "Limited common element" has the same meaning as in section 1601-103, subsection (16).</ins>
+<ins>F. "Purchaser" means a person, other than a declarant or a dealer, that by means of a voluntary transfer acquires a legal or equitable interest in a unit, other than: a leasehold interest, including renewal options, of less than 20 years; or as security for an obligation.</ins>
+<ins>G. "Rule" means a policy, guideline, restriction, procedure or regulation of an association of unit owners, however denominated, that is adopted by an association of unit owners, that is not set forth in the declaration or bylaws and that regulates conduct occurring within the common interest community for the use, maintenance, repair, replacement, modification or appearance of the common interest community of an association of unit owners.</ins>
+<ins>H. "Unreasonable restriction" means a restriction that significantly increases the cost of the electric vehicle charging station or significantly decreases its efficiency or specified performance.</ins>
+<ins>2. Unenforceable provisions. Beginning January 1, 2026, any provision of a declaration or bylaw that either prohibits or places an unreasonable restriction on the installation or use of an electric vehicle charging station in a unit parking space or limited common element parking space or is otherwise in conflict with the provisions of this section is void and unenforceable.</ins>
+<ins>3. Application to install. A unit owner may submit an application to the executive board to install an electric vehicle charging station in a unit parking space or in a limited common element parking space with the written approval of the unit owner of each unit to which use of the limited common element parking space is reserved. The executive board shall acknowledge, in writing, the receipt of an application not later than 30 days after receipt of the application and process the application in the same manner as an application for an addition, alteration or improvement pursuant to the declaration or bylaws. The approval or denial of the application must be in writing and must be issued not later than 60 days after the date of receipt of the application. Unless the executive board reasonably requests additional information not later than 60 days from the date of receipt of the application, the application is deemed approved if a denial in writing has not been received within 60 days of the date the application was received.</ins>
+<ins>4. Installation requirements. A unit owner may not install an electric vehicle charging station in a unit parking space or limited common element parking space unless the unit owner complies with the requirements of this subsection.</ins>
+<ins>A. The unit owner shall obtain approval from the executive board to install the electric vehicle charging station. The executive board shall approve the application for the installation if the unit owner agrees in writing to:</ins>
+<ins>(1) Comply with the provisions of the declaration or bylaws regarding an addition, alteration or improvement;</ins>
+<ins>(2) Provide a certificate of insurance, within 14 days of approval, that demonstrates insurance coverage in amounts determined sufficient by the executive board;</ins>
+<ins>(3) Pay for the costs associated with the installation of the electric vehicle charging station, including, but not limited to, increased master insurance policy premiums, attorney's fees incurred by the association of unit owners, engineering fees, professional fees, permits and applicable zoning compliance costs; and</ins>
+<ins>(4) Pay the electricity usage costs associated with the electric vehicle charging station.</ins>
+<ins>B. The unit owner, and each successive unit owner, of the electric vehicle charging station is responsible for:</ins>
+<ins>(1) The cost of any damage to the electric vehicle charging station, common elements or units resulting from the installation, use, maintenance, repair, removal or replacement of the electric vehicle charging station;</ins>
+<ins>(2) The cost of any maintenance, repair and replacement of the electric vehicle charging station until it has been removed;</ins>
+<ins>(3) The cost of any restoration of the physical space where the electric vehicle charging station was installed after it is removed;</ins>
+<ins>(4) The cost of electricity associated with the electric vehicle charging station;</ins>
+<ins>(5) The common expenses as a result of uninsured losses pursuant to any master insurance policy held by the association of unit owners; and</ins>
+<ins>(6) Making disclosures to prospective purchasers regarding:</ins>
+<ins>(a) The existence of the electric vehicle charging station;</ins>
+<ins>(b) The associated responsibilities of the unit owner under this section; and</ins>
+<ins>(c) The requirement that the purchaser accept the electric vehicle charging station unless it is removed prior to the transfer of the unit.</ins>
+<ins>An electric vehicle charging station installed pursuant to this section must meet all applicable health and safety standards and requirements under any state or federal law or municipal ordinance, except that a unit owner is not required to maintain a liability coverage policy for an existing National Electrical Manufacturers Association or successor organization standard alternating current power plug.</ins>
+<ins>5. Association authority. An association of unit owners may:</ins>
+<ins>A. Install an electric vehicle charging station in the common elements for the use of all unit owners and develop appropriate rules for such use;</ins>
+<ins>B. Create a new parking space where one did not previously exist to facilitate the installation of an electric vehicle charging station;</ins>
+<ins>C. Require a unit owner to remove the unit owner's electric vehicle charging station prior to the unit owner's sale of the property unless the purchaser of the property agrees to take ownership of the electric vehicle charging station; and</ins>
+<ins>D. Assess the unit owner for any uninsured portion of a loss associated with an electric vehicle charging station, whether resulting from a deductible or otherwise, regardless of whether the association of unit owners submits an insurance claim.</ins>
+<ins>6. Attorney's fees. In any action seeking to enforce compliance with this section, the prevailing party must be awarded reasonable attorney's fees.</ins>
