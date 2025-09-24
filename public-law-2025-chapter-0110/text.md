@@ -1,0 +1,26 @@
+An Act to Clarify, Align and Amend Provisions of the Maine Revised Statutes, Title 35-A
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  35-A MRSA §107, sub-§2, ¶F, as enacted by PL 2023, c. 307, §2, is repealed and the following enacted in its place:
+<ins>F.  The interconnection ombudsman is:</ins>
+<ins>(1) For interconnection-related activities undertaken by the interconnection ombudsman, funded through fees assessed under section 3474, federal money and contributions from private and public sources; and</ins>
+<ins>(2) For activities undertaken by the interconnection ombudsman pursuant to section 3474, subsection 4, paragraph A, subparagraph (6), funded in accordance with section 116.</ins>
+Sec. 2.  35-A MRSA §120, sub-§7, ¶D-1 is enacted to read:
+<ins>D-1.  Section 3805, subsection 1;</ins>
+Sec. 3.  35-A MRSA §901, 2nd ¶, as enacted by PL 2023, c. 325, §2, is amended to read:
+<del>The</del> <ins>Notwithstanding any provision of law to the contrary, the</ins> requirements of this chapter do not apply to a consumer-owned water utility as defined in section 6101, subsection 1‑A.
+Sec. 4.  35-A MRSA §3214, sub-§6, ¶B, as amended by PL 2023, c. 201, §2, is further amended to read:
+B.  For each month of the program year, the dollar amount of low-income assistance program benefits, the dollar amount of oxygen pump benefits and the dollar amount of ventilator benefits; <ins>and</ins>
+Sec. 5.  35-A MRSA §3214, sub-§6, ¶C, as amended by PL 2023, c. 201, §2, is repealed.
+Sec. 6.  35-A MRSA §4516-A, sub-§1, as amended by PL 2021, c. 318, §15, is further amended to read:
+1.  Violation of this Title.  The commission may impose an administrative penalty on a natural gas pipeline utility that violates any provision of this Title relating to safety of pipeline facilities or transportation of gas or any rule issued under this Title in an amount not to exceed <del>$223,000</del> <ins>the administrative penalty adopted by the commission by rule, which may not exceed the administrative penalty established in 49 Code of Federal Regulations, Section 190.223, as amended,</ins> for each violation.  Each day of violation constitutes a separate offense.
+Sec. 7.  35-A MRSA §4516-A, sub-§2, as amended by PL 2021, c. 318, §16, is further amended to read:
+2.  Maximum administrative penalty.  The maximum administrative penalty <del>may not exceed $2,227,000</del> for any related series of violations <ins>may not exceed the maximum administrative penalty adopted by the commission by rule, which may not exceed the maximum administrative penalty established in 49 Code of Federal Regulations, Section 190.223, as amended</ins>.
+Sec. 8.  35-A MRSA §4705-A, sub-§1, as amended by PL 2021, c. 318, §18, is further amended to read:
+1.  Violation of this Title.  The commission may impose an administrative penalty on a gas utility that violates any provision of this Title relating to safety of gas facilities or any rule issued under this Title in an amount not to exceed <del>$223,000</del> <ins>the administrative penalty adopted by the commission by rule, which may not exceed the administrative penalty established in 49 Code of Federal Regulations, Section 190.223, as amended,</ins> for each violation.  Each day of violation constitutes a separate offense.
+Sec. 9.  35-A MRSA §4705-A, sub-§2, as amended by PL 2021, c. 318, §19, is further amended to read:
+2.  Maximum administrative penalty.  The maximum administrative penalty <del>may not exceed $2,227,000</del> for any related series of violations <ins>may not exceed the maximum administrative penalty adopted by the commission by rule, which may not exceed the maximum administrative penalty established in 49 Code of Federal Regulations, Section 190.223, as amended</ins>.
+Sec. 10.  35-A MRSA §6104-B, sub-§2, as enacted by PL 2023, c. 325, §8, is amended to read:
+2.  Maximum rate adjustment.  The maximum rate adjustment that a consumer-owned water utility may propose under this section is 1.5% of current <del>total annual revenue</del> <ins>rates</ins>. A consumer-owned water utility may not propose a rate adjustment under this section more than once every 11 months.
+Sec. 11.  35-A MRSA §7104-B, sub-§2, as amended by PL 2023, c. 144, §4, is further amended to read:
+2.  Authority.  Pursuant to the authority granted in section 7104 and in order to carry out the policy goals established by section 7101, subsections 1, 2 and 4, the commission shall establish a telecommunications education access fund, referred to in this section as "the fund," and require <del>all</del> voice network service providers <del>providing service in the State</del> using numbers placed in service for the State's numbering plan area from the North American Numbering Plan Administrator or its successor to contribute to the fund.  A voice network service provider is not required to contribute to the fund for telephone numbers that are acquired by the provider but are not placed in service.  The fund must be available, with any accumulated interest, to qualified libraries, qualified schools and the Raymond H. Fogler Library at the University of Maine to assist in paying the costs of acquiring and using advanced telecommunications technologies.
+The commission may investigate a voice network service provider to ensure compliance with this section.
