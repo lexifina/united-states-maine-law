@@ -1,0 +1,18 @@
+An Act Regarding the Bind-over and Detention of Juveniles
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  15 MRSA §3101, sub-§4, ¶E-2, as amended by PL 2015, c. 409, §3, is further amended to read:
+E-2.  <del>If</del> <ins>Except as provided in paragraph E-3, if</ins> the Juvenile Court binds a juvenile over for prosecution as an adult and has directed the detention of the juvenile, if the juvenile attains 18 years of age and is being detained, the juvenile must be detained in an adult section of a jail.
+Sec. 2.  15 MRSA §3101, sub-§4, ¶E-3 is enacted to read:
+<ins>E-3.  The following provisions govern a stay of detention of a juvenile in an adult section of a jail pending indictment.</ins>
+<ins>(1) The Department of Corrections may request that a juvenile who would otherwise be detained in an adult section of a jail be detained in a detention facility approved or operated by the department exclusively for juveniles, referred to in this paragraph as a "juvenile facility," under the following conditions:</ins>
+<ins>(a) The juvenile is ordered detained pending the return of an indictment, including any period of time the juvenile is detained pending an appeal of the order binding the juvenile over for prosecution as an adult taken following the issuance of the bind-over order;</ins>
+<ins>(b) The request is made to the Juvenile Court at least 14 days prior to the bind-over hearing or, if the juvenile will not have attained 18 years of age at the time of the hearing, at least 30 days prior to the juvenile attaining 18 years of age; and</ins>
+<ins>(c) Notice of the request is provided by the department to the prosecuting attorney and the attorney for the juvenile.</ins>
+<ins>(2) The Juvenile Court that conducts the bind-over hearing may grant a request made pursuant to subparagraph (1). If the request is made to the Juvenile Court prior to the bind-over hearing, the Juvenile Court shall include its decision in the bind-over order if the State's motion for bind-over is granted. If the juvenile will not have attained 18 years of age at the time of the hearing, and the request is made subsequently, the Juvenile Court shall decide whether to grant the request prior to the juvenile attaining 18 years of age.</ins>
+<ins>(3) The Juvenile Court shall consider the following factors in deciding whether to permit a bound-over juvenile to remain within a juvenile facility pending the return of an indictment:</ins>
+<ins>(a) Whether the juvenile's behavior at the juvenile facility creates a risk of harm to others at the facility;</ins>
+<ins>(b) Whether the juvenile has behavioral health needs that would be better addressed at the juvenile facility; and</ins>
+<ins>(c) Whether the juvenile is engaged in education or treatment programs at the juvenile facility that would be disrupted by detention in the adult section of a jail.</ins>
+<ins>(4) The Juvenile Court shall grant the request made pursuant to subparagraph (1) if it finds, by a preponderance of the evidence, that it would be appropriate for the juvenile to remain in a juvenile facility pending indictment.</ins>
+<ins>(5) If the Juvenile Court grants the request made pursuant to subparagraph (1), the department may at any time request that the Juvenile Court rescind the order if detention at a juvenile facility is no longer appropriate for the juvenile considering the factors described in subparagraph (3).</ins>
+<ins>(6) A person may not be detained in a detention facility approved or operated by the department exclusively for juveniles if the person has attained 18 years of age and an indictment is returned or if the person attains 21 years of age.</ins>
