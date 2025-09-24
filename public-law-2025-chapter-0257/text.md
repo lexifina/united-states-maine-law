@@ -1,0 +1,4 @@
+An Act to Require Training on Textured Hair for Aestheticians, Barber Hair Stylists, Cosmetologists and Hair Designers
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  32 MRSA §14212-A, sub-§2, ¶B, as enacted by PL 2009, c. 369, Pt. B, §10, is amended to read:
+B.  Requirements for licensing, operating and inspecting schools.  At a minimum, the rules must include standards relating to educational programs, <ins>including the styling and treatment of textured hair,</ins> instructor qualifications, school operation, academic and student records and record keeping, health, safety and sanitation, physical facilities of the school and off-site classrooms, payment of refunds, notices and information to be provided to students and credit for education obtained in subjects that are considered substantially equivalent to applied courses offered and consistent with this chapter;
