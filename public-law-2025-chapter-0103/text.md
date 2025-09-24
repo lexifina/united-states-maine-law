@@ -1,0 +1,6 @@
+An Act to Amend the Law Governing Zoning Ordinance Variances for Persons with Permanent Disabilities
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  30-A MRSA §4353, sub-§4-A, ¶B, as enacted by PL 2009, c. 342, §1, is amended to read:
+B.  If authorized by the zoning ordinance establishing the board, the board may grant a variance to an owner of a dwelling who resides in the dwelling and who is responsible to transport a person with a permanent disability for the construction of a place of storage and parking for a noncommercial vehicle owned by that person and no other purpose used to transport a person with a permanent disability.  The width and length of the structure may not be larger than 2 times the width and length of the noncommercial vehicle.  The owner shall submit proposed plans for the structure with the request for the variance pursuant to this paragraph to the board.
+The person with the permanent disability shall prove by a preponderance of the evidence that the person's disability is permanent.
+For purposes of this paragraph, "noncommercial vehicle" means a motor vehicle as defined in Title 29‑A, section 101, subsection 42 with a gross vehicle weight of no more than 6,000 pounds, bearing a disability registration plate issued pursuant to Title 29‑A, section 521 and  owned by the person with the permanent disability.
