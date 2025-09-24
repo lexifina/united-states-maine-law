@@ -1,0 +1,10 @@
+An Act to Ensure Rent-to-own Protections Apply to Mobile Home Park Tenants
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  14 MRSA §6203-H, sub-§1, ¶A, as enacted by PL 2021, c. 350, §2, is amended by enacting at the end a new first blocked paragraph to read:
+"Option contract for the purchase of real property or rent-to-own real property" includes an agreement under this paragraph for which the residential real property subject to the agreement is a mobile home as defined in Title 10, section 9091, subsection 1.
+Sec. 2.  14 MRSA §6203-H, sub-§2, ¶B, as enacted by PL 2021, c. 350, §2, is amended to read:
+B.  Include a statement that the vendor has inspected the property to be conveyed and certifies that the property is in compliance with sections 6021 and 6021‑A, subject to the provisions of section 6021, subsection 5 authorizing a waiver for a stated reduction in payment or other specified fair consideration, and, if applicable, that the property is in compliance with Title 10, section 9099, subject to the provisions of Title 10, section 9099, subsection 4 authorizing a waiver for a stated reduction in payment or other specified fair consideration;
+Sec. 3.  14 MRSA §6203-H, sub-§2, ¶C, as enacted by PL 2021, c. 350, §2, is amended to read:
+C.  Identify the party required to maintain the premises in compliance with sections 6021 and 6021‑A and, if applicable, Title 10, section 9099;
+Sec. 4.  14 MRSA §6203-H, sub-§4, ¶A, as enacted by PL 2021, c. 350, §2, is amended by amending subparagraph (3) to read:
+(3)  The option contract for the purchase of real property or rent-to-own real property requires the vendor to maintain the real property pursuant to the provisions of section 6021, unless a waiver pursuant to the provisions of section 6021, subsection 5 has been entered into, and the provisions of section 6021‑A and, if applicable, the provisions of Title 10, section 9099, unless a waiver pursuant to Title 10, section 9099, subsection 4 has been entered into; and
