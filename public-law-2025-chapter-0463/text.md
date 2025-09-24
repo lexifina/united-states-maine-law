@@ -1,0 +1,399 @@
+An Act to Fund the Aroostook County Drug Treatment Court
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  Transfer to Department of Health and Human Services, Office of Behavioral Health.  Notwithstanding any provision of law to the contrary, on or before June 30, 2027, the State Controller shall transfer $561,283 from the Department of Health and Human Services, Opioid Use Disorder Prevention and Treatment Fund, Other Special Revenue Funds account to the Department of Health and Human Services, Office of Behavioral Health, Other Special Revenue Funds account.
+Sec. 2.  Transfer to unappropriated surplus of General Fund.  Notwithstanding any provision of law to the contrary, on or before June 30, 2027, the State Controller shall transfer $179,500 from the Department of Health and Human Services, Opioid Use Disorder Prevention and Treatment Fund, Other Special Revenue Funds account to the unappropriated surplus of the General Fund.
+Sec. 3.  Appropriations and allocations.  The following appropriations and allocations are made.
+ATTORNEY GENERAL, DEPARTMENT OF THE
+District Attorneys Salaries 0409
+Initiative: Appropriates one-time funds to establish one limited-period Assistant District Attorney position to facilitate the creation of a drug treatment court in Aroostook County.
+<table>
+<tr>
+<td>
+GENERAL FUND
+</td>
+<td>
+2025-26
+</td>
+<td>
+2026-27
+</td>
+</tr>
+<tr>
+<td>
+Personal Services
+</td>
+<td>
+$0
+</td>
+<td>
+$140,500
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+__________
+</td>
+<td>
+__________
+</td>
+</tr>
+<tr>
+<td>
+GENERAL FUND TOTAL
+</td>
+<td>
+$0
+</td>
+<td>
+$140,500
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+ATTORNEY GENERAL, DEPARTMENT OF THE
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+DEPARTMENT TOTALS
+</td>
+<td>
+2025-26
+</td>
+<td>
+2026-27
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+GENERAL FUND
+</td>
+<td>
+$0
+</td>
+<td>
+$140,500
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+__________
+</td>
+<td>
+__________
+</td>
+</tr>
+<tr>
+<td>
+DEPARTMENT TOTAL - ALL FUNDS
+</td>
+<td>
+$0
+</td>
+<td>
+$140,500
+</td>
+</tr>
+</table>
+HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+Office of Behavioral Health Z199
+Initiative: Provides one-time allocation for the Office of Behavioral Health to contract with an entity to provide the required pretrial services for the new drug treatment court in Aroostook County.
+<table>
+<tr>
+<td>
+OTHER SPECIAL REVENUE FUNDS
+</td>
+<td>
+2025-26
+</td>
+<td>
+2026-27
+</td>
+</tr>
+<tr>
+<td>
+All Other
+</td>
+<td>
+$0
+</td>
+<td>
+$561,283
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+__________
+</td>
+<td>
+__________
+</td>
+</tr>
+<tr>
+<td>
+OTHER SPECIAL REVENUE FUNDS TOTAL
+</td>
+<td>
+$0
+</td>
+<td>
+$561,283
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+DEPARTMENT TOTALS
+</td>
+<td>
+2025-26
+</td>
+<td>
+2026-27
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+OTHER SPECIAL REVENUE FUNDS
+</td>
+<td>
+$0
+</td>
+<td>
+$561,283
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+__________
+</td>
+<td>
+__________
+</td>
+</tr>
+<tr>
+<td>
+DEPARTMENT TOTAL - ALL FUNDS
+</td>
+<td>
+$0
+</td>
+<td>
+$561,283
+</td>
+</tr>
+</table>
+PUBLIC DEFENSE SERVICES, MAINE COMMISSION ON
+Maine Commission on Public Defense Services Z112
+Initiative: Appropriates one-time funds to provide legal representation to participants in the new drug treatment court in Aroostook County.
+<table>
+<tr>
+<td>
+GENERAL FUND
+</td>
+<td>
+2025-26
+</td>
+<td>
+2026-27
+</td>
+</tr>
+<tr>
+<td>
+All Other
+</td>
+<td>
+$0
+</td>
+<td>
+$39,000
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+__________
+</td>
+<td>
+__________
+</td>
+</tr>
+<tr>
+<td>
+GENERAL FUND TOTAL
+</td>
+<td>
+$0
+</td>
+<td>
+$39,000
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+PUBLIC DEFENSE SERVICES, MAINE COMMISSION ON
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+DEPARTMENT TOTALS
+</td>
+<td>
+2025-26
+</td>
+<td>
+2026-27
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+GENERAL FUND
+</td>
+<td>
+$0
+</td>
+<td>
+$39,000
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+__________
+</td>
+<td>
+__________
+</td>
+</tr>
+<tr>
+<td>
+DEPARTMENT TOTAL - ALL FUNDS
+</td>
+<td>
+$0
+</td>
+<td>
+$39,000
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+SECTION TOTALS
+</td>
+<td>
+2025-26
+</td>
+<td>
+2026-27
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+GENERAL FUND
+</td>
+<td>
+$0
+</td>
+<td>
+$179,500
+</td>
+</tr>
+<tr>
+<td>
+OTHER SPECIAL REVENUE FUNDS
+</td>
+<td>
+$0
+</td>
+<td>
+$561,283
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+__________
+</td>
+<td>
+__________
+</td>
+</tr>
+<tr>
+<td>
+SECTION TOTAL - ALL FUNDS
+</td>
+<td>
+$0
+</td>
+<td>
+$740,783
+</td>
+</tr>
+</table>
