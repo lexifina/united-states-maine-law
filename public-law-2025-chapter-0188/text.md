@@ -1,0 +1,6 @@
+An Act to Protect the Confidentiality of Personally Identifiable Information in Records of the Permanent Commission on the Status of Racial, Indigenous and Tribal Populations
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  5 MRSA §25012 is enacted to read:
+<ins>§25012.  Confidentiality</ins>
+<ins>Personally identifiable information obtained in furtherance of the commission's duties pursuant to section 25007, subsection 1, paragraph A is confidential, except that the executive director may authorize disclosure of personally identifiable information if the executive director has obtained the consent of the individual to whom the personally identifiable information applies. "Personally identifiable information" includes, but is not limited to, name, address, date of birth, e-mail address, Internet protocol address and any other information that permits the identity of an individual to whom the information applies to be able to be reasonably inferred or known by either direct or indirect means.</ins>
+<ins>Notwithstanding section 95-C, subsection 1, paragraph C, personally identifiable information made confidential under this section must remain confidential until the relevant records have been in existence for 100 years.</ins>
