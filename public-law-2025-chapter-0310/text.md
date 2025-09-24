@@ -1,0 +1,6 @@
+An Act to Expand Opportunities to Invest Municipal Tax Increment Financing Revenues
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  30-A MRSA §5225, sub-§1, ¶C, as amended by PL 2023, c. 142, §§1 to 3, is further amended by amending subparagraph (9) to read:
+(9)  Costs related to the construction<ins>, renovation</ins> or operation of municipal or plantation public safety facilities, <ins>including facilities used as emergency shelters,</ins> the need for which is related to general economic development within the municipality or plantation, not to exceed <del>15%</del> <ins>25%</ins> of the captured assessed value of the development district;
+Sec. 2.  30-A MRSA §5225, sub-§1, ¶C, as amended by PL 2023, c. 142, §§1 to 3, is further amended by amending subparagraph (12) to read:
+(12)  Up to 50% of the capital costs related to the construction or renovation of <del>a municipality's or plantation's central administrative office</del> <ins>facilities owned by a municipality or plantation and used to provide municipal or plantation services</ins>, the need for which is related to general economic development within the municipality or plantation, not to exceed <del>15%</del> <ins>25%</ins> of the captured assessed value of the development district;
