@@ -1,0 +1,4 @@
+An Act to Increase the Number of Children a Child Care Provider May Care for Without Having to Be Licensed by the Department of Health and Human Services
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  22 MRSA §8301-A, sub-§1-A, ¶C, as amended by PL 2021, c. 35, §17, is further amended to read:
+C.  "Family child care provider" means a person who provides day care in that person's home on a regular basis, for consideration, for 3 4 to 12 children under 13 years of age who are not the children of the provider or who are not residing in the provider's home.  If a provider is caring for children living in that provider's home and is caring for no more than 2 3 other children, or 4 other children if at least 2 of the children are siblings, and no more than 3 of the total number of children in the provider's care are under 2 years of age, the provider is not required to be licensed as a family child care provider.
