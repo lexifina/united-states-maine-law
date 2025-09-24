@@ -1,0 +1,14 @@
+An Act Regarding the Permitting of Projects Affecting Public-use Airports Under the Natural Resources Protection Act and the Site Location of Development Laws
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  38 MRSA §480-E, sub-§19 is enacted to read:
+<ins>19.  Public-use airports.  Notwithstanding any provision of this article to the contrary, the department may not include in any permit issued pursuant to this article any conditions that, as determined by the department, would decrease safety within the air operations area at a public-use airport.</ins>
+<ins>As used in this subsection, the following terms have the following meanings.</ins>
+<ins>A.  "Air operations area" has the same meaning as in 14 Code of Federal Regulations, Section 153.3, except that, for a public-use airport that does not have an airport security program, "air operations area" means those portions of the public-use airport that, as determined by the department, are substantially similar to those portions of an airport described in 14 Code of Federal Regulations, Section 153.3, including aircraft movement areas, aircraft parking areas, loading ramps and safety areas for use by aircraft and any adjacent areas not separated by adequate security systems, measures or procedures.</ins>
+<ins>B.  "Airport security program" means a security program approved by the United States Transportation Services Administration under 49 Code of Federal Regulations, Section 1542.101.</ins>
+<ins>C.  "Public-use airport" has the same meaning as in 49 United States Code, Section 47102(22).</ins>
+Sec. 2.  38 MRSA §485-A, sub-§1-E is enacted to read:
+<ins>1-E.  Public-use airports.  Notwithstanding any provision of this article to the contrary, the department may not include in any permit issued pursuant to this article any conditions that, as determined by the department, would decrease safety within the air operations area at a public-use airport.</ins>
+<ins>As used in this subsection, the following terms have the following meanings.</ins>
+<ins>A.  "Air operations area" has the same meaning as in 14 Code of Federal Regulations, Section 153.3, except that, for a public-use airport that does not have an airport security program, "air operations area" means those portions of the public-use airport that, as determined by the department, are substantially similar to those portions of an airport described in 14 Code of Federal Regulations, Section 153.3, including aircraft movement areas, aircraft parking areas, loading ramps and safety areas for use by aircraft and any adjacent areas not separated by adequate security systems, measures or procedures.</ins>
+<ins>B.  "Airport security program" means a security program approved by the United States Transportation Services Administration under 49 Code of Federal Regulations, Section 1542.101.</ins>
+<ins>C.  "Public-use airport" has the same meaning as in 49 United States Code, Section 47102(22).</ins>
