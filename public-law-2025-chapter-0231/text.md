@@ -1,0 +1,4 @@
+An Act to Reduce the Time Period for Challenging the Validity of a Property Tax Lien on Commercial Real Estate
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  36 MRSA §946-B, sub-§5 is enacted to read:
+<ins>5.  Tax liens on commercial real estate.  Notwithstanding subsection 1, a person may not commence an action against the validity of a governmental taking of commercial real estate for nonpayment of property taxes upon the expiration of a 2-year period immediately following the expiration of the period of redemption. For the purposes of this subsection, "commercial real estate" means real estate that is either used or held for use primarily for a business purpose including, without limitation, apartment buildings with 5 or more rental or lease units, mobile home parks, office buildings and recreational facilities. This subsection applies to a tax lien recorded on commercial real estate after June 30, 2026.</ins>
