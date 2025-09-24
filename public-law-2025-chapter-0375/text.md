@@ -1,0 +1,12 @@
+An Act to Amend the Maine Death with Dignity Act to Ensure Access by Qualified Patients
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  22 MRSA §2140, sub-§11, as enacted by PL 2019, c. 271, §4, is repealed and the following enacted in its place:
+<ins>11.  Written and oral requests; waiting periods.  To receive a prescription for medication that the qualified patient may self-administer under this Act, a qualified patient must make 2 oral requests, at least 15 days apart, and a written request to the qualified patient's attending physician.  At the time the qualified patient makes the qualified patient's 2nd oral request, the attending physician shall offer the qualified patient an opportunity to rescind the request.  The date the qualified patient signs the written request must be no earlier than 15 days after the initial oral request.  At least 48 hours must elapse between the date the qualified patient signs the written request and the writing of a prescription under this Act.</ins>
+<ins>The attending physician may waive a portion of the waiting periods required in this subsection if, in the attending physician's medical opinion, it is in the best interests of the qualified patient, given the qualified patient's condition, as long as the waiting period in total is no less than 7 days.</ins>
+Sec. 2.  22 MRSA §2140, sub-§13, as enacted by PL 2019, c. 271, §4, is repealed.
+Sec. 3.  22 MRSA §2140, sub-§14, ¶F, as enacted by PL 2019, c. 271, §4, is amended to read:
+F.  The attending physician's offer to the patient to rescind the patient's request at the time of the patient's 2nd oral request under subsection 11; <del>and</del>
+Sec. 4.  22 MRSA §2140, sub-§14, ¶G, as enacted by PL 2019, c. 271, §4, is amended to read:
+G.  A note by the attending physician indicating that all requirements under this Act have been met, including the requirements of subsection 6, and indicating the steps taken to carry out the patient's request, including a notation of the medication prescribed<del>.</del><ins>; and</ins>
+Sec. 5.  22 MRSA §2140, sub-§14, ¶H is enacted to read:
+<ins>H.  When a portion of the waiting periods under this section has been waived pursuant to subsection 11, a note by the attending physician that, in the attending physician's medical opinion, it is in the best interests of the qualified patient to waive a portion of the waiting periods, given the qualified patient's condition, and what portion of the waiting periods has been waived. The waiting period in total may not be less than 7 days.</ins>
