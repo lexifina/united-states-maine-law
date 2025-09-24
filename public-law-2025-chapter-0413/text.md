@@ -1,0 +1,72 @@
+An Act to Provide Reduced Interest Rates for Logging and Fishing Operations
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  10 MRSA §1023-Q is enacted to read:
+<ins>§1023-Q.  Improvements to Logging and Fishing Enterprises Loan Program</ins>
+<ins>1. Definitions. As used in this section, unless the context otherwise indicates, the following terms have the following meanings.</ins>
+<ins>A. "Fishing enterprise" means any enterprise directly or indirectly concerned with the commercial harvest of wild or aquacultured marine organisms whose primary source of income is derived from such harvesting. "Fishing enterprise" includes licensed persons who fish commercially, aquaculturists and cooperatives for persons who fish commercially.</ins>
+<ins>B. "Fund" means the Improvements to Logging and Fishing Enterprises Loan Fund.</ins>
+<ins>C. "Logging enterprise" means a person who qualifies as an independent contractor under Title 26, section 1043, subsection 11, paragraph E and who is engaged in harvesting or hauling trees from forest land for a forest landowner.</ins>
+<ins>2.  Program authorized.  In accordance with this section, the authority shall establish and oversee the Improvements to Logging and Fishing Enterprises Loan Program to increase the availability of capital by financing loans to a logging enterprise or fishing enterprise.</ins>
+<ins>3.  Improvements to Logging and Fishing Enterprises Loan Fund.  The Improvements to Logging and Fishing Enterprises Loan Fund is established within the authority.  The authority may receive, invest and expend on behalf of the fund money from gifts, grants, bequests, loans and donations in addition to money appropriated or allocated by the State. Deposits to the fund must be made to and maintained by the authority. Any money credited to the fund may be used to finance loans only to an eligible logging enterprise or fishing enterprise for the purposes set forth in subsection 4. Repayment of these loans and interest on these loans must be credited to the fund.  Interest earned on money in the fund and interest earned on loans made from the fund may be used to pay the administrative costs of processing loan applications and servicing and administering the fund and loans. </ins>
+<ins>4.  Purposes of loans. A loan under this section may be made only for the following purposes:</ins>
+<ins>A. To provide assistance to an existing logging enterprise or fishing enterprise in this State for the purchase of capital equipment used in commercial harvesting;</ins>
+<ins>B. For the purchase of new or used equipment used in commercial harvesting in connection with an existing logging enterprise or fishing enterprise;</ins>
+<ins>C. For refinancing existing loans used to finance eligible uses as described in this subsection; or</ins>
+<ins>D. If the authority approves at the time of loan commitment, to pledge money in the fund as security for, and to apply money in the fund to, payment of principal, interest and other amounts due on any term loans insured by the authority to an eligible logging enterprise or fishing enterprise.</ins>
+<ins>5. Conditions.  Logging enterprise and fishing enterprise loans are subject to the following conditions.</ins>
+<ins>A.  A loan for any project under this section, the total cost of which exceeds $200,000, may not exceed 90% of the total cost of the project.  A loan from the fund may not be provided for such a project unless the applicant demonstrates a commitment of private funds of at least 5% of the total cost of the project; except that, in order to encourage the undertaking of cooperative projects by 2 or more logging enterprises or fishing enterprises, a loan may not be provided unless the cooperating logging enterprises or fishing enterprises as a group demonstrate a commitment of private funds of at least 5% of the total cost of the project.</ins>
+<ins>B.  A loan for any project under this section, the total cost of which is $200,000 or less, may not exceed 90% of the total cost of the project.</ins>
+<ins>C.  A loan must be at the interest rate established pursuant to subsection 6.</ins>
+<ins>6.  Interest rate. The interest rate for loans under this section is the federal prime rate on the date of loan commitment but may not be greater than 2%. A loan current on the effective date of this subsection may be refinanced at the borrower's request to an interest rate of the federal prime rate but not greater than 2%.</ins>
+<ins>7.  Administrative costs.  The authority may charge the fund for its reasonable administrative costs, not to exceed 3% annually of the fund balance, for administration of the fund.</ins>
+<ins>8.  Report.  The authority shall include in its annual report pursuant to section 974 a summary of loans made under this section during the previous fiscal year, loans outstanding categorized by the types of enterprises receiving the loans and the effectiveness of the program.  Effectiveness measures may include, but are not limited to, evaluation of the number of logging enterprises or fishing enterprises retained, expanded or created; the increase in the number of jobs created or retained; any increased business revenues and new capital raised; any improved wages paid to employees; and any new capital investment and increase in profitability.</ins>
+<ins>9.  Rules.  The authority may adopt rules as necessary to implement this section. Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.</ins>
+Sec. 2.  Appropriations and allocations.  The following appropriations and allocations are made.
+FINANCE AUTHORITY OF MAINE
+Improvements to Logging and Fishing Enterprises Loan Fund N543
+Initiative: Provides base allocations to authorize expenditures of funds in the event that money is received for the Improvements to Logging and Fishing Enterprises Loan Program.
+<table>
+<tr>
+<td>
+OTHER SPECIAL REVENUE FUNDS
+</td>
+<td>
+2025-26
+</td>
+<td>
+2026-27
+</td>
+</tr>
+<tr>
+<td>
+All Other
+</td>
+<td>
+$500
+</td>
+<td>
+$500
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+__________
+</td>
+<td>
+__________
+</td>
+</tr>
+<tr>
+<td>
+OTHER SPECIAL REVENUE FUNDS TOTAL
+</td>
+<td>
+$500
+</td>
+<td>
+$500
+</td>
+</tr>
+</table>
