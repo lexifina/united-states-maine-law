@@ -1,0 +1,7 @@
+ An Act to Amend the Laws Governing the Commercial Large Game Shooting Area License Transfer Process
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  7 MRSA §1342, sub-§5, as enacted by PL 1999, c. 765, §3, is repealed.
+Sec. 2.  7 MRSA §1342, sub-§5-A is enacted to read:
+5-A.  Transfer of license.  A person may not transfer a commercial large game shooting area license without obtaining approval of the commissioner for the transfer. Department approval must be obtained prior to the transfer of the license. The department, at its discretion, may require that the proposed new licensee apply for a new license or may approve the transfer of the existing license upon a satisfactory showing that the proposed new licensee can abide by the license terms and conditions and comply with subsection 2.
+Sec. 3.  7 MRSA §1342-A, sub-§3, as enacted by PL 2009, c. 249, §6, is amended by amending the first blocked paragraph to read:
+A license issued under this section is for a specific parcel of land and only for the genus and species of large game specified in the license.  The requirements and restrictions under section 1342, subsections 3, 4, 5 5-A, 6 and 7 and rules adopted under subsection 8 apply to licenses issued under this section.  A person issued a license under this section shall establish and maintain the licensed commercial large game shooting area in accordance with section 1342, subsection 2, paragraphs A to E.
