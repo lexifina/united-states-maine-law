@@ -1,0 +1,4 @@
+An Act to Ensure Consistency of Income Tax Deductions for Retired Members of the Uniformed Services
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  36 MRSA §5122, sub-§2, ¶M-2, as amended by PL 2023, c. 523, Pt. B, §1, is further amended by amending subparagraph (2), division (c) to read:
+(c)  "Military retirement plan" means retirement plan benefits received as a result of service in the active or reserve components of the United States Army, Navy, Air Force, Marines, Coast Guard or Space Force.  <ins>For tax years beginning on or after January 1, 2026, "military retirement plan" means retirement plan benefits received as a result of service in the active or reserve components of the uniformed services of the United States as defined in 37 United States Code, Section 101(3).</ins>
