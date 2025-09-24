@@ -1,0 +1,4 @@
+An Act to Update the Provision of Law Concerning Student Codes of Conduct in Order to Reflect Best Practices Regarding Behavioral Threat Assessment and Response
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  20-A MRSA §1001, sub-§15, ¶F, as amended by PL 2005, c. 307, §1, is further amended to read:
+F.  Establish policies and procedures concerning the removal of disruptive or violent students or students threatening death or bodily harm to others from a classroom or a school bus, as well as student disciplinary and placement decisions, when to identify, assess and intervene with students who may pose a threat of violence to themselves or others within the school community, including policies and procedures regarding student supports, disciplinary actions and placement decisions if and when appropriate, up to and including removal from a classroom or a school bus;
