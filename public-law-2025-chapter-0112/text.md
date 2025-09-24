@@ -1,0 +1,21 @@
+An Act to Update the Laws Regarding Education
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  20-A MRSA §1, sub-§13-A, ¶B-1, as enacted by PL 2003, c. 477, §2, is amended by amending subparagraph (1) to read:
+(1)  Who is sharing the housing of other persons due to loss of housing or economic hardship or a similar reason; is living in a motel, hotel, trailer park or camping ground due to the lack of alternative adequate accommodation; is living in an emergency or transitional shelter; <ins>or</ins> is abandoned in a hospital<del>; or is awaiting foster care placement</del>;
+Sec. 2.  20-A MRSA §1651, sub-§4, as enacted by PL 1981, c. 693, §§5 and 8, is amended to read:
+4.  District school committee to act as district board of trustees.  A community school district may vote at any time <del>on the article in section 1602, subsection 1, paragraph C,</del> to <del>see</del> <ins>determine</ins> if the district school committee <del>shall be</del> <ins>is</ins> authorized to perform the function of the district board of trustees.  If the municipalities vote affirmatively <del>on that article</del>, the district school committee <del>shall</del> <ins>must</ins> perform the duties of the district board of trustees under this chapter.
+Sec. 3.  20-A MRSA §1653, sub-§1, ¶C, as amended by PL 1993, c. 668, §1, is further amended to read:
+C.  Notwithstanding paragraphs A and B, the voters of a district may vote on an appropriate article at meetings called by the municipal officers of the respective member towns<del>, in accordance with section 1602,</del> to establish a fixed common date for all newly elected school committee members to assume their terms of office.  The common date must be subsequent to the last annual municipal election within the district, but may be no later than July 1st of the next fiscal year.  The adoption of such a common date is conditional upon the favorable passage of this article at each of the meetings of the member towns.  This paragraph does not apply to commencement of terms of office of members elected to fill vacancies.  Vacancies are filled for the remainder of the unexpired term as provided in subsection 2, paragraph A.
+Sec. 4.  20-A MRSA §1751-A is enacted to read:
+<ins>§1751-A.  Withdrawal from community school district</ins>
+<ins>The residents of a participating municipality within a community school district may petition and vote to withdraw from the district in the same manner as a participating municipality within a regional school unit may petition to withdraw in accordance with section 1466.</ins>
+Sec. 5.  20-A MRSA §2951, sub-§2, as enacted by PL 1981, c. 693, §§5 and 8, is repealed.
+Sec. 6.  20-A MRSA §3804, as amended by PL 2019, c. 219, §3, is further amended to read:
+§3804.  Audit
+An education service center shall adhere to generally accepted accounting principles and shall annually engage an external auditor to do an independent audit of the education service center's finances. The education service center shall submit the audit to its members and to the department. The audit must be conducted in the same manner as a school administrative unit audit in accordance with chapter 221, subchapter 2.  <ins>An education service center under the fiscal authority of a school administrative unit may be included in the audit of that school administrative unit and is not required to file an additional audit under this section.</ins>
+Sec. 7.  20-A MRSA §6051, sub-§4, as amended by PL 2007, c. 668, §32, is further amended to read:
+4.  Initial report to commissioner.  <del>On or before November 1st,</del> <ins>An initial report to the commissioner must be included as part of the audit under subsection 1. In the report</ins> the school board shall provide the commissioner with:
+C.  Written determination of whether or not proper budgetary controls are in place;
+D.  A written determination of whether or not the annual financial data submitted to the department is correct, including submission of an audited reconciliation of the annual financial data prepared and certified by the auditor; and
+E.  A written determination as to whether the school administrative unit has complied with applicable provisions of the Essential Programs and Services Funding Act.
+Sec. 8.  20-A MRSA c. 608, as amended, is repealed.
