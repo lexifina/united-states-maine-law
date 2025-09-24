@@ -1,0 +1,23 @@
+An Act to Amend and Simplify Certain Inland Fisheries and Wildlife Licensing and Permitting Laws
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  12 MRSA §11108, sub-§1, as amended by PL 2023, c. 239, §16, is further amended to read:
+1.  On certain land.  Notwithstanding section 11109, subsection 1 as it applies to this subchapter, and subject to all other applicable laws and rules, a resident and a member of the resident's immediate family, as long as the hunter's license to hunt is not under suspension or revocation, may hunt without a license, including, but not limited to, a license to hunt with a firearm, an archery hunting license and a muzzle-loading permit, on a single plot of land:
+A.  To which they are legally entitled to possession;
+B.  On which they are actually domiciled; and
+C.  That is used exclusively for agricultural purposes; and
+D.  That is in excess of 10 or more contiguous acres in size.
+Sec. 2.  12 MRSA §11154, sub-§15, as corrected by RR 2021, c. 2, Pt. B, §75, is amended to read:
+15.  Moose permit transfer; family members.  The commissioner, in cases involving exceptional extenuating circumstances as determined by the commissioner, may authorize a person who holds a valid moose permit to transfer that permit to a family member who meets the eligibility and permit requirements under this section and who is not otherwise prohibited from holding the moose permit, except that the commissioner shall transfer a moose permit to a family member who meets the eligibility and permit requirements under this section and who is not otherwise prohibited from holding the moose permit if the permit holder dies at any time prior to or during the moose hunting season if a moose has not yet been harvested under that permit.  A transferor and a transferee are subject to the elimination of any accumulated points under subsection 8 and the 3-year ineligibility period under subsection 5.  For purposes of this subsection, "family member" means the transferor's spouse, domestic partner, child, stepchild, grandchild, parent, grandparent, stepparent, sibling, half-sibling or adopted child stepgrandchild; the transferor's sibling's child; the transferor's spouse's sibling's child; or the transferor's parent's sibling or that sibling's spouse.
+The commissioner shall adopt rules to implement this subsection and may establish a transfer fee to recover administrative costs associated with transferring moose permits.  Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+Sec. 3.  12 MRSA §11154, sub-§18, as enacted by PL 2023, c. 127, §1, is amended to read:
+18.  Moose permit deferment; multiple permits in single household.  The commissioner may authorize a person who holds a valid moose permit to defer the permit until the next moose hunting season in circumstances in which a member of that permit holder's household also holds a valid moose permit for the same hunting season. For the purposes of this subsection, members of a household are limited to a spouse, domestic partner, grandparent, parent, stepparent, child, stepchild, grandchild, sibling and stepgrandchild sharing the same legal address. Under this subsection, the person is ineligible to be selected for another moose permit in accordance with subsection 5 beginning in the calendar year that the person uses a permit deferred.
+For the purposes of this subsection, "next moose hunting season" means the moose hunting season in the calendar year immediately following a person's selection under subsection 9.
+Sec. 4.  12 MRSA §12202, sub-§3, as enacted by PL 2003, c. 414, Pt. A, §2 and affected by c. 614, §9, is repealed.
+Sec. 5.  12 MRSA §12202, sub-§4 is enacted to read:
+4.  Minimum acreage.  That is 10 or more contiguous acres in size.
+Sec. 6.  12 MRSA §12503, sub-§2, as amended by PL 2023, c. 405, Pt. A, §31, is further amended to read:
+2.  Land used for agricultural purposes legally possessed by resident; domicile; 10 or more contiguous acres in size.  Notwithstanding section 12501, subsection 1 and subject to all other applicable laws and rules, any resident and any member of the resident's immediate family, as long as the angler's license to fish is not under suspension or revocation, may fish without a license in open inland waters from land:
+A.  To which they are legally entitled to possession;
+B.  On which they are actually domiciled; and
+C.  That is used exclusively for agricultural purposes.
+D.  That is 10 or more contiguous acres in size.
