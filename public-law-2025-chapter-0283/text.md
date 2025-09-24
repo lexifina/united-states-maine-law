@@ -1,0 +1,6 @@
+An Act to Establish the Make Change for Wildlife Program to Support the Maine Endangered and Nongame Wildlife Fund
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  12 MRSA §10253, sub-§5, as enacted by PL 2003, c. 414, Pt. A, §2 and affected by c. 614, §9, is repealed.
+Sec. 2.  12 MRSA §10253, sub-§6 is enacted to read:
+<ins>6.  Make Change for Wildlife program.  The Make Change for Wildlife program is established to encourage voluntary support for the fund from businesses that collect voluntary customer contributions at the point of sale.  Businesses shall deposit contributions collected under this subsection with the Treasurer of State and designate those contributions for deposit in the fund.  The Treasurer of State shall credit all contributions to the fund and all money generated pursuant to this subsection must be used only for the purposes described in subsection 1.</ins>
+Sec. 3. Report.  The Department of Inland Fisheries and Wildlife shall submit a report regarding the Make Change for Wildlife program, established in the Maine Revised Statutes, Title 12, section 10253, subsection 6, including any suggested legislation, to the Joint Standing Committee on Inland Fisheries and Wildlife no later than January 1, 2026. The committee may report out a bill based on the report to the Second Regular Session of the 132nd Legislature.
