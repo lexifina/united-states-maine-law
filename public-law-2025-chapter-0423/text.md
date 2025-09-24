@@ -1,0 +1,9 @@
+An Act to Modify Certification Standards for Full-time Teachers in Public Charter Schools and Standards for Reissuance of Educational Technician Certificates
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  20-A MRSA §2412, sub-§6, ¶B, as enacted by PL 2011, c. 414, §5, is amended to read:
+B.  All full-time teachers in a public charter school must either hold an appropriate teaching certificate or become certified within 3 years of the date they are hired, except for those with an advanced degree, professional certification or unique expertise or experience in the curricular area in which they teach.
+<ins>This paragraph is repealed August 1, 2026.</ins>
+Sec. 2.  20-A MRSA §2412, sub-§6, ¶B-1 is enacted to read:
+<ins>B-1.  Beginning August 1, 2026, all full-time teachers in a public charter school must hold an appropriate teaching certificate.</ins>
+Sec. 3.  20-A MRSA §13019-H, sub-§6, as enacted by PL 2023, c. 442, §2 and reallocated by RR 2023, c. 1, Pt. A, §7, is amended to read:
+6.  Reissuance; retired educational technician.  The commissioner may issue an educational technician certificate to a person who has been receiving a retirement benefit from the State Employee and Teacher Retirement Program established under Title 5, section 17602 for no more than 5 years <ins>until July 31, 2026 and for no more than 3 years beginning August 1, 2026</ins> and who, immediately prior to receiving that benefit, possessed an active educational technician certificate in good standing that has subsequently lapsed.  An educational technician certificate issued under this subsection is for the same period and subject to the same renewal standards as specified in subsection 3.  State board rules may further govern qualifications for an educational technician certificate issued under this subsection.
