@@ -1,0 +1,4 @@
+An Act to Clarify Performance Standards for Quarries
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  38 MRSA §490-X, as amended by PL 2007, c. 297, §8 and PL 2011, c. 682, §38, is further amended by enacting at the end a new paragraph to read:
+Notwithstanding any provision of this article to the contrary, a person exempt from the requirements of this article that is operating a quarry one acre in size or less; that is operating a quarry that has a total excavated area, including adjacent parcels under a common owner or operator, that is one acre in size or less; or that is operating a quarry and conducting an excavation or grading preliminary to a construction project shall comply with the blasting notification requirements under section 490-Z, subsection 14, paragraph O if the person intends to conduct blasting at that quarry or as part of that excavation or grading.
