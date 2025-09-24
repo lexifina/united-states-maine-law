@@ -1,0 +1,6 @@
+An Act to Promote the Production of Natural Resources Bioproducts by Amending the Renewable Chemicals Tax Credit
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  36 MRSA §5219-XX, sub-§2, as amended by PL 2021, c. 181, Pt. A, §13, is further amended to read:
+2.  Credit allowed.  A taxpayer engaged in the production of renewable chemicals in the State who has complied with subsection 5 and the rules adopted under that subsection is allowed a credit against the tax imposed by this Part on income derived during the taxable year from the production of renewable chemicals in the amount of 8¢ per pound of renewable chemical produced in the State <del>as long as the taxpayer demonstrates to the Department of Economic and Community Development that at least 75% of the employees of the contractors hired or retained to harvest renewable biomass used in the production of the renewable chemicals meet the eligibility conditions specified in the Employment Security Law</del>.
+<del>If the taxpayer does not contract directly with those hired or retained to harvest the renewable biomass, the taxpayer may obtain the necessary documentation under this subsection from the landowner or other entity that contracts directly.</del>
+Sec. 2.  Application. This Act applies to tax years beginning on or after January 1, 2026.
