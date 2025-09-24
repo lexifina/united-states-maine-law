@@ -1,0 +1,1103 @@
+An Act to Update Waste Discharge License Fees
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  38 MRSA §353-B, sub-§2, ¶A, as amended by PL 2019, c. 631, §1, is further amended to read:
+A.  The fees for waste discharge license groups are the 2019 bill amounts increased by a factor of 1.4<ins>, unless otherwise indicated,</ins> as follows.
+<table>
+<tr>
+<td>
+Discharge group
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+Basis for annual fee
+</td>
+<td>
+Median fee for discharge group
+</td>
+<td>
+Water quality improvement surcharge
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Publicly owned treatment facilities, 10,000 gallons per day or less
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $543
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Publicly owned treatment facilities, more than 10,000 gallons per day to 0.1 million gallons per day
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $689
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Publicly owned treatment facilities, more than 0.1 million gallons per day to 1.0 million gallons per day
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill  amount
+</td>
+<td>
+  $1,063
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Publicly owned treatment facilities, more than 1.0 million gallons per day to 5.0 million gallons per day
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill  amount
+</td>
+<td>
+  $2,241
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Publicly owned treatment facilities, greater than 5 million gallons per day or with significant industrial waste
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill  amount
+</td>
+<td>
+  $7,850
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Major industrial facility, process wastewater (based on EPA list of major source discharges)
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill  amount
+</td>
+<td>
+  $33,919
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Other industrial facility, process wastewater
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $2,093
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Food handling or packaging wastewater
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $1,135
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+<del>Fish-rearing</del> <ins>Terrestrial fish-rearing</ins> facility 0.1 million gallons per day or less
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $538
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+<del>Fish-rearing</del> <ins>Terrestrial fish-rearing</ins> facility over 0.1 million gallons per day
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $1,368
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Marine aquaculture facility
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $529
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+<ins>Marine finfish aquaculture facility</ins>
+</td>
+<td>
+</td>
+<td>
+<ins>annual fee</ins>
+</td>
+<td>
+<ins>$1,682</ins>
+</td>
+<td>
+<ins>$1,682</ins>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Noncontact cooling water
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $330
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Industrial or commercial sources, miscellaneous or incidental nonprocess wastewater
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $626
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Municipal combined sewer overflow
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $711
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Sanitary wastewater, excluding overboard discharge
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $1,268
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Sanitary overboard discharge, commercial sources
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2011 bill amount
+</td>
+<td>
+ $446
+</td>
+<td>
+ $75
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Sanitary overboard discharge, residential sources 600 gallons per day or less
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2011 bill amount
+</td>
+<td>
+ $231
+</td>
+<td>
+ $75
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Sanitary overboard discharge, residential sources more than 600 gallons per day
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2011 bill amount
+</td>
+<td>
+ $313
+</td>
+<td>
+ $75
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Sanitary overboard discharge, public sources
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2011 bill amount
+</td>
+<td>
+ $315
+</td>
+<td>
+ $75
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Aquatic pesticide application
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $1,110
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Snow dumps
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $550
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Salt and sand storage pile
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $738
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Log storage permit
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $727
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+General permit coverage for industrial storm water discharges (except construction)
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $588
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+General permit coverage for marine aquaculture facility
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+<del>2019 bill amount</del> <ins>$1,682</ins>
+</td>
+<td>
+  <del>$230</del> <ins>$1,682</ins>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+<ins>General permit coverage for municipal separate storm sewer system</ins>
+</td>
+<td>
+</td>
+<td>
+<ins>annual fee</ins>
+</td>
+<td>
+<ins>$1,306</ins>
+</td>
+<td>
+<ins>$1,306</ins>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+General permit coverage (other)
+</td>
+<td>
+</td>
+<td>
+annual fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $283
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Experimental discharge license
+</td>
+<td>
+</td>
+<td>
+license fee
+</td>
+<td>
+2019 bill amount
+</td>
+<td>
+  $1,550
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+New or amended mixing zone, in addition to other applicable fees
+</td>
+<td>
+</td>
+<td>
+flat fee
+</td>
+<td>
+$9,254
+</td>
+<td>
+ ---
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Formation of sanitary district
+</td>
+<td>
+</td>
+<td>
+flat fee
+</td>
+<td>
+ $693
+</td>
+<td>
+ ---
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+Transfer of license for residential or commercial sanitary wastewater
+</td>
+<td>
+</td>
+<td>
+flat fee
+</td>
+<td>
+ $140
+</td>
+<td>
+ ---
+</td>
+<td>
+</td>
+</tr>
+</table>
+On an annual basis, municipalities and publicly owned treatment works whose combined sewer overflows have the potential to affect shellfish harvesting areas as determined by the department by virtue of their locations within estuarine or marine waters of the State must be assessed a surcharge on their wastewater discharge licenses in a total amount of $12,000. This amount must be allocated among the municipalities and publicly owned treatment works according to their prior 3-year average annual flows as reported to the department.
+On an annual basis, publicly owned treatment works whose outfalls licensed for the discharge of treated effluent cause adjacent shellfish growing areas to be closed for the purposes of harvesting shellfish must be assessed a license surcharge in a total amount of $25,000. This amount must be allocated among the publicly owned treatment works according to the acreage that each licensed outfall closes. This acreage must be determined by the Department of Marine Resources in consultation with the department.
+Sec. 2.  Appropriations and allocations.  The following appropriations and allocations are made.
+ENVIRONMENTAL PROTECTION, DEPARTMENT OF
+Maine Environmental Protection Fund 0421
+Initiative: Provides allocations for expenditures that support activities for water quality control operations, including licensing, compliance evaluation, monitoring, data acquisition, data management and administration.
+<table>
+<tr>
+<td>
+OTHER SPECIAL REVENUE FUNDS
+</td>
+<td>
+2025-26
+</td>
+<td>
+2026-27
+</td>
+</tr>
+<tr>
+<td>
+All Other
+</td>
+<td>
+$55,791
+</td>
+<td>
+$57,409
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+__________
+</td>
+<td>
+__________
+</td>
+</tr>
+<tr>
+<td>
+OTHER SPECIAL REVENUE FUNDS TOTAL
+</td>
+<td>
+$55,791
+</td>
+<td>
+$57,409
+</td>
+</tr>
+</table>
