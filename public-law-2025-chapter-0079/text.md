@@ -1,0 +1,6 @@
+An Act to Require Reporting on the Expenditure of Opioid Settlement Funds by Certain Municipalities and County Governments
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  5 MRSA §203-D is enacted to read:
+§203-D.  Reporting on funds received by direct share subdivisions pursuant to court settlement of opioid crisis litigation
+A direct share subdivision that receives funds pursuant to settlements described in section II.A of the Memoranda of Understanding shall submit a report to the Attorney General by January 15, 2026, and annually thereafter, detailing the amount of such funds received pursuant to section II.C.2 of each Memoranda of Understanding and expended in the prior calendar year, including a description of each such expenditure.  The Attorney General shall compile these reports and submit them by February 15, 2026 and annually thereafter to the joint standing committee of the Legislature having jurisdiction over health and human services matters.
+As used in this section, "Memoranda of Understanding" has the same meaning as in section 203-C, subsection 1, paragraph C and "direct share subdivision" means a municipality or county that is a subdivision identified in Exhibit 3 of the Memoranda of Understanding.
