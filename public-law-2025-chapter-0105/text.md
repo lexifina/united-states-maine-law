@@ -1,0 +1,5 @@
+An Act to Advance Energy Storage Within the State
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  35-A MRSA §3145, as amended by PL 2023, c. 374, §1, is further amended to read:
+§3145.  State energy storage policy goals
+The state goal for energy storage system development is at least 300 megawatts of installed capacity located within the State by December 31, 2025 and at least 400 megawatts of installed capacity located within the State by December 31, 2030.  Beginning January 1, 2024 15, 2027, and every 2 years thereafter, when updating the state energy plan in accordance with Title 2, section 9, subsection 3, paragraph C, the Governor's Energy Office established in Title 2, section 9 may shall reevaluate and may increase the state goal for energy storage system development and shall, in the state energy plan, report that any increase to the goal to the joint standing committee of the Legislature having jurisdiction over energy and utilities matters.  For the purposes of this section, "energy storage system" has the same meaning as in section 3481, subsection 6.
