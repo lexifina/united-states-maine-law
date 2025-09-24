@@ -1,0 +1,7 @@
+An Act to Establish Lifetime Ferry Passes for Retired Maine State Ferry Service Employees
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  23 MRSA §4408 is enacted to read:
+<ins>§4408.  Lifetime ferry passes for retired ferry service employees</ins>
+<ins>A former state employee who is receiving retirement benefits after at least 15 years of employment with the Maine State Ferry Service and who is a year-round resident of one of the served islands of the Maine State Ferry Service is eligible to receive a lifetime ferry pass and a waiver from any reservation fees if the lifetime ferry pass is presented when making the reservation. For the purposes of this section, "lifetime ferry pass" means a nontransferable pass that provides on a ferry operated by the Maine State Ferry Service:</ins>
+<ins>1.  Walk-on passage.  Unlimited walk-on passage for a passenger to and from the island on which the retiree resides; and</ins>
+<ins>2.  Passenger and vehicle passage.  One round-trip passage per month for a passenger and that passenger's vehicle during peak season as determined by rules adopted by the Department of Transportation and 2 round-trip passages per month during off-peak season as determined by rules adopted by the department.  A reservation for passage described in this subsection must follow rules adopted by the department.  For the purposes of this subsection, "vehicle" means a noncommercial motor vehicle with 4 tires or fewer and an overall length of 20 feet or less.</ins>
