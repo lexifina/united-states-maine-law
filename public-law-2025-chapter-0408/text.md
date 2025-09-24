@@ -1,0 +1,7 @@
+An Act to Support Maine's Public Health Objectives by Increasing Access to Hypodermic Apparatus Exchange Programs
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  22 MRSA §1341, sub-§5 is enacted to read:
+<ins>5.  Authorized service models.  A certified hypodermic apparatus exchange program may:</ins>
+<ins>A.  Operate mobile sites within the municipality where the program is certified, including rotating locations, variable schedules or temporary setups, as long as the program ensures the safe collection and disposal of hypodermic apparatuses and operates within parameters preapproved by the Maine Center for Disease Control and Prevention. For the purposes of this paragraph, "parameters" means a set of general operating conditions, such as geographic zones, time frames or site types, that allows certified hypodermic apparatus exchange programs to operate flexibly within those defined boundaries, rather than being limited to fixed locations; and</ins>
+<ins>B. Provide delivery services of hypodermic apparatuses within the program's service area, as long as the delivery ensures client confidentiality, safe handling and proper disposal. The program may deliver only to locations where it has been expressly invited by an individual or entity with legal authority to authorize access to that location.  </ins>
+<ins>Expansion of sites under this subsection does not entitle a certified hypodermic apparatus exchange program to additional funds under an existing contract with the Maine Center for Disease Control and Prevention.</ins>
