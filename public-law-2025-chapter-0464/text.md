@@ -1,0 +1,4 @@
+An Act to Clarify Residency Requirements for the Maine School of Science and Mathematics
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  20-A MRSA §8202, sub-§2, ¶A, as amended by PL 1995, c. 665, Pt. FF, §1, is further amended to read:
+A.  The amount must be paid in 4 equal quarterly payments during the year of attendance.  The first payment must be made by July 31st.  The amount of tuition and other costs paid for all students is limited to the amount appropriated for this purpose.  To be eligible for state funding under this paragraph, a student must <del>have resided</del> <ins>reside</ins> in Maine with a parent, other relative or guardian <del>for at least 6 months immediately preceding application to the school</del> <ins>at the start of the academic year for which state funding is appropriated</ins>.  <ins>The student's residency must be reaffirmed to the school at the beginning of each school year that the student is enrolled.</ins>
