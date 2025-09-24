@@ -1,0 +1,16 @@
+An Act to Require Insurance Coverage for Covered Dental Services Provided by Licensed Dental Hygienists
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1.  24 MRSA §2317-B, sub-§12-E, as enacted by PL 2009, c. 307, §1 and affected by §6, is amended to read:
+12-E.  Title 24-A, sections 2765 <del>and</del><ins>,</ins> 2847-Q <ins>and 4257</ins>.  Coverage for services provided by independent practice dental hygienists <ins>or dental hygienists</ins>, Title 24‑A, sections 2765 <del>and</del><ins>,</ins> 2847‑Q <ins>and 4257</ins>;
+Sec. 2.  24-A MRSA §2765, as amended by PL 2015, c. 429, §11, is further amended by amending the section headnote to read:
+§2765.  Coverage for services provided by independent practice dental hygienist <ins>or dental hygienist</ins>
+Sec. 3.  24-A MRSA §2765, sub-§1, as amended by PL 2015, c. 429, §11, is further amended to read:
+1.  Services provided by independent practice dental hygienist <ins>or dental hygienist</ins>.  An insurer that issues individual dental insurance or health insurance that includes coverage for dental services shall provide coverage for dental services performed by an independent practice dental hygienist <ins>or dental hygienist</ins> licensed under Title 32, chapter 143 when those services are covered services under the contract and when they are within the lawful scope of practice of the independent practice dental hygienist <ins>or dental hygienist</ins>.
+Sec. 4.  24-A MRSA §2847-Q, as amended by PL 2015, c. 429, §13, is further amended by amending the section headnote to read:
+§2847-Q.  Coverage for services provided by independent practice dental hygienist <ins>or dental hygienist</ins>
+Sec. 5.  24-A MRSA §2847-Q, sub-§1, as amended by PL 2015, c. 429, §13, is further amended to read:
+1.  Services provided by independent practice dental hygienist <ins>or dental hygienist</ins>.  An insurer that issues group dental insurance or health insurance that includes coverage for dental services shall provide coverage for dental services performed by an independent practice dental hygienist <ins>or dental hygienist</ins> licensed under Title 32, chapter 143 when those services are covered services under the contract and when they are within the lawful scope of practice of the independent practice dental hygienist <ins>or dental hygienist</ins>.
+Sec. 6.  24-A MRSA §4257, as amended by PL 2015, c. 429, §15, is further amended by amending the section headnote to read:
+§4257.  Coverage for services provided by independent practice dental hygienist <ins>or dental hygienist</ins>
+Sec. 7.  24-A MRSA §4257, sub-§1, as amended by PL 2015, c. 429, §15, is further amended to read:
+1.  Services provided by independent practice dental hygienist <ins>or dental hygienist</ins>.  All individual and group health maintenance organization contracts that include coverage for dental services shall provide coverage for dental services performed by an independent practice dental hygienist <ins>or dental hygienist</ins> licensed under Title 32, chapter 143 when those services are covered services under the contract and when they are within the lawful scope of practice of the independent practice dental hygienist <ins>or dental hygienist</ins>.
