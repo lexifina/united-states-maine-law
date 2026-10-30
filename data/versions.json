@@ -1,0 +1,61 @@
+{
+ "country": "US-ME",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the State of Maine (2023 arrangement)",
+   "url": "https://legislature.maine.gov/doc/10674",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 153,
+     "source_url": "https://legislature.maine.gov/doc/10674",
+     "sha256": "7a66b6881e2abd792fff6e0fa5221bdc993e2f9a781b21c8235372c13e072172"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-code",
+   "short": "17-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 17-A. Maine Criminal Code",
+   "url": "https://legislature.maine.gov/statutes/17-A/title17-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 398,
+     "source_url": "https://legislature.maine.gov/statutes/17-A/title17-Ach0sec0.html",
+     "sha256": "56a658f1e500a8be6b7260b7a8b3093936efa3110dd562384e7d167f0c849049"
+    }
+   ]
+  },
+  {
+   "slug": "property",
+   "short": "33 M.R.S.",
+   "title": "Maine Revised Statutes, Title 33. Property",
+   "url": "https://legislature.maine.gov/statutes/33/title33ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 504,
+     "source_url": "https://legislature.maine.gov/statutes/33/title33ch0sec0.html",
+     "sha256": "179f6b8eabc0f50cd04ecdcca965293274bff22025806cedfecdda755baeae15"
+    }
+   ]
+  },
+  {
+   "slug": "business-corporation-act",
+   "short": "13-C M.R.S.",
+   "title": "Maine Revised Statutes, Title 13-C. Maine Business Corporation Act",
+   "url": "https://legislature.maine.gov/statutes/13-C/title13-Cch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 252,
+     "source_url": "https://legislature.maine.gov/statutes/13-C/title13-Cch0sec0.html",
+     "sha256": "34ac75b3e0dede7ba063c4bf619274c6be9dec96e2c0c0841c3b7a93c8b4be03"
+    }
+   ]
+  }
+ ]
+}
