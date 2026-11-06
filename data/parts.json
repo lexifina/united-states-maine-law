@@ -57,6 +57,13 @@
     "title-39-a-workers-compensation"
    ],
    "sha256": "3206eaca2f6196ac538687dd279f16a108b48d5cbecb2377b84148b1d224b761"
+  },
+  "82-formula-titles.json": {
+   "acts": [
+    "title-29-a-motor-vehicles-and-traffic",
+    "title-9-a-maine-consumer-credit-code"
+   ],
+   "sha256": "ce4994891b9550d74ae3811f352a8c0f3af7719dcb346a6a3e8647381e0b1a40"
   }
  },
  "schema": 1

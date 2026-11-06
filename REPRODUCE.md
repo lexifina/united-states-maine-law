@@ -10,6 +10,7 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Constitution of Maine (Revisor of Statutes, 2023 arrangement) | <https://legislature.maine.gov/doc/10674> | 2026-10-30 | same |
 | Maine Revised Statutes, official whole-title Word publications | <https://legislature.maine.gov/statutes/> | 2026-11-06 | State of Maine claims copyright; republication requires the Revisor disclaimer. |
 | Maine Revised Statutes, official whole-title Word publications | <https://legislature.maine.gov/statutes/> | 2026-11-06 | State of Maine claims copyright; republication requires the Revisor disclaimer. |
+| Maine Revised Statutes, official whole-title Word publications (Titles 9-A and 29-A) | <https://legislature.maine.gov/statutes/> | 2026-11-06 | State of Maine claims copyright; republication requires the Revisor disclaimer. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -69,12 +70,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-37-b-defense-veterans-and-emergency-managemen` | Maine Revised Statutes, Title 37-B. DEFENSE, VETERANS AND EMERGENCY MANAGEMENT | 1 | 2026-10-01 to 2026-10-01 |
 | `title-38-waters-and-navigation` | Maine Revised Statutes, Title 38. WATERS AND NAVIGATION | 1 | 2026-10-01 to 2026-10-01 |
 | `title-39-a-workers-compensation` | Maine Revised Statutes, Title 39-A. WORKERS' COMPENSATION | 1 | 2026-10-01 to 2026-10-01 |
+| `title-9-a-maine-consumer-credit-code` | Maine Revised Statutes, Title 9-A. MAINE CONSUMER CREDIT CODE | 1 | 2026-10-01 to 2026-10-01 |
+| `title-29-a-motor-vehicles-and-traffic` | Maine Revised Statutes, Title 29-A. MOTOR VEHICLES AND TRAFFIC | 1 | 2026-10-01 to 2026-10-01 |
 
-The build made 52 commits:
+The build made 54 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 52 | first version of an act |
+| 54 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -82,7 +85,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 52 tags.
+- 54 tags.
 
 ## Dates
 
@@ -94,15 +97,15 @@ When a law gives no date of its own, the default rule applies: 1 M.R.S. section 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2870beef4e4013762e752285c0f5da7127e44eb24e50e5fa6117aedaa2706493` (60677522 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `8082d59d99259e2a54b2b8897a9edf000e02549a9733e237971ff5f1211ec398` (62866615 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
 Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 52 history commits and 52 tags (history tip `07197cb40399ec5dbba68660fe872d016f7b563f`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
@@ -116,6 +119,7 @@ A second build from the same corpus into an empty folder gave identical hashes f
 - Additional titles use one complete title file each. The official Word publication supplies all wording, including section-history notes and repealed-section placeholders.
 - Each added title is an oldest-version-available baseline dated by the source disclaimer stating current through 1 October 2026. This does not assert that every provision commenced on that day.
 - Titles with no current section heading, or structured content that has not been independently verified, are excluded from this part.
+- Titles 9-A and 29-A follow the other whole-title files (one text file per title, dated by the disclaimer's current-through date). Each holds one native Word equation (OMML), written in place as linear text: a fraction as numerator/denominator (a side holding a space or an operator in parentheses), a delimiter group inside its own brackets, a superscript as ^(...). Only those brackets and the ^ mark are added; every letter, digit and operator is the publication's. Formulas: 9-A: (((settlement payment)/(payment amount))^(365/(term days))-1); 29-A: W=500(LN/(N-1)+12N+36).
 
 ## What AI did and did not do
 
@@ -129,3 +133,4 @@ Model use at data-build time:
 - Claude Code wrote the fetch and parse scripts; it wrote or changed no legal text. The scripts are deterministic and run no model.
 - GPT-6 wrote deterministic parsing and verification code; no legal words were generated, corrected or translated by a model. No OCR was used.
 - GPT-6 wrote deterministic parsing and verification code; no legal words were generated, corrected or translated by a model. No OCR was used.
+- none

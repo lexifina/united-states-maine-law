@@ -728,6 +728,34 @@
      "sha256": "fdd44bc421408366db0eb8110bafe5395f203bba3ad4c6779d7c5d03f6cf40da"
     }
    ]
+  },
+  {
+   "slug": "title-9-a-maine-consumer-credit-code",
+   "short": "9-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 9-A. MAINE CONSUMER CREDIT CODE",
+   "url": "https://legislature.maine.gov/statutes/9-A/title9-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/9-A/title9-A.docx",
+     "sha256": "e4821603bbd8144c81c72605d4e214cbe1f9fbcd39ebc5053e94fb4ea83bb638"
+    }
+   ]
+  },
+  {
+   "slug": "title-29-a-motor-vehicles-and-traffic",
+   "short": "29-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 29-A. MOTOR VEHICLES AND TRAFFIC",
+   "url": "https://legislature.maine.gov/statutes/29-A/title29-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/29-A/title29-A.docx",
+     "sha256": "e3dfd09bb36257541b956360a55cff4c339aefebc3737baeb216680b5a71d6b4"
+    }
+   ]
   }
  ]
 }
