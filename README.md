@@ -1,5 +1,7 @@
 # Maine: legal texts in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Maine, United States, which global-law reads at `united-states/maine/acts/`.
+
 The Constitution and selected current titles of the Maine Revised Statutes, published by the Maine Legislature, Office of the Revisor of Statutes.
 
 | Folder | Act | Versions | Text |
