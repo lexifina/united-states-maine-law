@@ -1,9 +1,10 @@
 {
   "path": "us-me",
-  "code": "ME",
+  "code": "US-ME",
   "name": "Maine",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-maine-law",
-  "build": "built: Constitution and Maine Revised Statutes Titles 13-C, 17-A and 33, one version each (statutes current through 2026-10-01)",
-  "register_date": "2026-10-30"
+  "build": "52 selected current-text acts, including the Constitution; additional titles use one complete file per title; no earlier consolidated versions added.",
+  "register_date": "2026-10-30",
+  "parent": "US"
 }

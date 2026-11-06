@@ -1,0 +1,63 @@
+{
+ "parts": {
+  "80-q104-titles-a.json": {
+   "acts": [
+    "title-1-general-provisions",
+    "title-10-commerce-and-trade",
+    "title-11-uniform-commercial-code",
+    "title-12-conservation",
+    "title-13-b-maine-nonprofit-corporation-act",
+    "title-13-corporations",
+    "title-14-court-procedure-civil",
+    "title-15-court-procedure-criminal",
+    "title-16-court-procedure-evidence",
+    "title-17-crimes",
+    "title-18-b-trusts",
+    "title-18-c-probate-code",
+    "title-18-decedents-estates-and-fiduciary-relation",
+    "title-19-a-domestic-relations",
+    "title-2-executive",
+    "title-3-legislature",
+    "title-4-judiciary",
+    "title-5-administrative-procedures-and-services",
+    "title-6-aeronautics",
+    "title-7-a-agriculture-conservation-and-forestry",
+    "title-7-agriculture-and-animals",
+    "title-8-amusements-and-sports",
+    "title-9-b-financial-institutions",
+    "title-9-banks-and-financial-institutions"
+   ],
+   "sha256": "ddee2243164d40c635a58789d5aef080ae0a9ccea38e86f76a05e86fefdca8bc"
+  },
+  "81-q104-titles-b.json": {
+   "acts": [
+    "title-20-a-education",
+    "title-20-education",
+    "title-21-a-elections",
+    "title-22-a-health-and-human-services",
+    "title-22-health-and-welfare",
+    "title-23-transportation",
+    "title-24-a-maine-insurance-code",
+    "title-24-insurance",
+    "title-25-internal-security-and-public-safety",
+    "title-26-labor-and-industry",
+    "title-27-libraries-history-culture-and-art",
+    "title-28-a-liquors",
+    "title-28-b-cannabis",
+    "title-30-a-municipalities-and-counties",
+    "title-30-federally-recognized-indian-tribes",
+    "title-31-partnerships-and-associations",
+    "title-32-professions-and-occupations",
+    "title-34-a-corrections",
+    "title-34-b-behavioral-and-developmental-services",
+    "title-35-a-public-utilities",
+    "title-36-taxation",
+    "title-37-b-defense-veterans-and-emergency-managemen",
+    "title-38-waters-and-navigation",
+    "title-39-a-workers-compensation"
+   ],
+   "sha256": "3206eaca2f6196ac538687dd279f16a108b48d5cbecb2377b84148b1d224b761"
+  }
+ },
+ "schema": 1
+}

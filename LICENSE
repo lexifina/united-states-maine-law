@@ -1,4 +1,4 @@
-The legal texts are the Constitution of Maine and the Maine Revised Statutes (Titles 13-C, 17-A and 33) as published by the Office of
+The legal texts are the Constitution of Maine and the Maine Revised Statutes (selected current titles) as published by the Office of
 the Revisor of Statutes, Maine Legislature, at https://legislature.maine.gov/statutes/ and https://legislature.maine.gov/doc/10674.
 
 The State of Maine claims a copyright in its codified statutes and requires that republications include the following disclaimer.
@@ -9,8 +9,7 @@ It is reproduced here exactly as the Revisor publishes it at the foot of every s
 The Revisor also requests that one copy of any statutory publication be sent to the Office of the Revisor of Statutes.
 (Statutes are edicts of government that United States copyright law does not protect; this repository nevertheless complies with the Revisor's stated condition.)
 
-Changes made by Lexifina: one Markdown file per section, one paragraph per line, normalised spaces, quotation marks and hyphens, bracketed
-session-law history notes and repealed sections left out. The wording of the law was not changed. The Revisor of Statutes does not endorse
+Changes made by Lexifina: one Markdown file per section, one paragraph per line, normalised spaces, quotation marks and hyphens, section-history notes retained in the additional whole-title files; the original provision files retain their existing arrangement. The wording of the law was not changed. The Revisor of Statutes does not endorse
 this repository.
 
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are dedicated to the
