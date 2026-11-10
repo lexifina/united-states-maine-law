@@ -109,6 +109,23 @@
     "title-20-education"
    ],
    "sha256": "aaa82ec32a6c3eab27faf23a9d156748f1cc21cb0feb85e1343fde0e506a38c0"
+  },
+  "87-q1581-sections.json": {
+   "acts": [
+    "title-21-a-elections",
+    "title-22-a-health-and-human-services",
+    "title-23-transportation",
+    "title-24-insurance",
+    "title-25-internal-security-and-public-safety",
+    "title-26-labor-and-industry",
+    "title-27-libraries-history-culture-and-art",
+    "title-28-a-liquors",
+    "title-28-b-cannabis",
+    "title-30-federally-recognized-indian-tribes",
+    "title-31-partnerships-and-associations",
+    "title-34-a-corrections"
+   ],
+   "sha256": "3cde862235771e09f19eb5b6046611ed5310e2f0f970c794e7a64450cf4f1d39"
   }
  },
  "schema": 1
