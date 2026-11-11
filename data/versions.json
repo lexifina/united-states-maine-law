@@ -1,0 +1,761 @@
+{
+ "country": "US-ME",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the State of Maine (2023 arrangement)",
+   "url": "https://legislature.maine.gov/doc/10674",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 153,
+     "source_url": "https://legislature.maine.gov/doc/10674",
+     "sha256": "7a66b6881e2abd792fff6e0fa5221bdc993e2f9a781b21c8235372c13e072172"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-code",
+   "short": "17-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 17-A. Maine Criminal Code",
+   "url": "https://legislature.maine.gov/statutes/17-A/title17-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 398,
+     "source_url": "https://legislature.maine.gov/statutes/17-A/title17-Ach0sec0.html",
+     "sha256": "56a658f1e500a8be6b7260b7a8b3093936efa3110dd562384e7d167f0c849049"
+    }
+   ]
+  },
+  {
+   "slug": "property",
+   "short": "33 M.R.S.",
+   "title": "Maine Revised Statutes, Title 33. Property",
+   "url": "https://legislature.maine.gov/statutes/33/title33ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 504,
+     "source_url": "https://legislature.maine.gov/statutes/33/title33ch0sec0.html",
+     "sha256": "179f6b8eabc0f50cd04ecdcca965293274bff22025806cedfecdda755baeae15"
+    }
+   ]
+  },
+  {
+   "slug": "business-corporation-act",
+   "short": "13-C M.R.S.",
+   "title": "Maine Revised Statutes, Title 13-C. Maine Business Corporation Act",
+   "url": "https://legislature.maine.gov/statutes/13-C/title13-Cch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 252,
+     "source_url": "https://legislature.maine.gov/statutes/13-C/title13-Cch0sec0.html",
+     "sha256": "34ac75b3e0dede7ba063c4bf619274c6be9dec96e2c0c0841c3b7a93c8b4be03"
+    }
+   ]
+  },
+  {
+   "slug": "title-1-general-provisions",
+   "short": "1 M.R.S.",
+   "title": "Maine Revised Statutes, Title 1. GENERAL PROVISIONS",
+   "url": "https://legislature.maine.gov/statutes/1/title1ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 316,
+     "source_url": "https://legislature.maine.gov/statutes/1/title1.docx",
+     "sha256": "a72fe84520e6fe12a7955405bc5116742deec241ad7ff973ffb1f4557a573f56"
+    }
+   ]
+  },
+  {
+   "slug": "title-2-executive",
+   "short": "2 M.R.S.",
+   "title": "Maine Revised Statutes, Title 2. EXECUTIVE",
+   "url": "https://legislature.maine.gov/statutes/2/title2ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 29,
+     "source_url": "https://legislature.maine.gov/statutes/2/title2.docx",
+     "sha256": "faa0bdff69542a3d25d409d1d9e546bdefeafbb966baa585c7f2c40c5bcfc47d"
+    }
+   ]
+  },
+  {
+   "slug": "title-3-legislature",
+   "short": "3 M.R.S.",
+   "title": "Maine Revised Statutes, Title 3. LEGISLATURE",
+   "url": "https://legislature.maine.gov/statutes/3/title3ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 296,
+     "source_url": "https://legislature.maine.gov/statutes/3/title3.docx",
+     "sha256": "652122481309d151dcc8b9b400fc535e97d3f8a007f80987da6a7ca891d00ab0"
+    }
+   ]
+  },
+  {
+   "slug": "title-4-judiciary",
+   "short": "4 M.R.S.",
+   "title": "Maine Revised Statutes, Title 4. JUDICIARY",
+   "url": "https://legislature.maine.gov/statutes/4/title4ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 469,
+     "source_url": "https://legislature.maine.gov/statutes/4/title4.docx",
+     "sha256": "23fa3b976bc171c2de76ef8a5c425475579a62ab11ce60ac0d90e90287c74790"
+    }
+   ]
+  },
+  {
+   "slug": "title-5-administrative-procedures-and-services",
+   "short": "5 M.R.S.",
+   "title": "Maine Revised Statutes, Title 5. ADMINISTRATIVE PROCEDURES AND SERVICES",
+   "url": "https://legislature.maine.gov/statutes/5/title5ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 2490,
+     "source_url": "https://legislature.maine.gov/statutes/5/title5.docx",
+     "sha256": "9631ac8608f96a19fec1b82e4b4536fe9e24fa61ebd9483610bd1699b08c7568"
+    }
+   ]
+  },
+  {
+   "slug": "title-6-aeronautics",
+   "short": "6 M.R.S.",
+   "title": "Maine Revised Statutes, Title 6. AERONAUTICS",
+   "url": "https://legislature.maine.gov/statutes/6/title6ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 93,
+     "source_url": "https://legislature.maine.gov/statutes/6/title6.docx",
+     "sha256": "3cf46f79fbf4a2a75175042c3a9440bceb9b7bfa38ae0c5d1bc917c34c99b784"
+    }
+   ]
+  },
+  {
+   "slug": "title-7-agriculture-and-animals",
+   "short": "7 M.R.S.",
+   "title": "Maine Revised Statutes, Title 7. AGRICULTURE AND ANIMALS",
+   "url": "https://legislature.maine.gov/statutes/7/title7ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1257,
+     "source_url": "https://legislature.maine.gov/statutes/7/title7.docx",
+     "sha256": "1c5483d89c2264a1b129be781a553c63dbf5a4e73a614eeff0ae5b52ca01f792"
+    }
+   ]
+  },
+  {
+   "slug": "title-7-a-agriculture-conservation-and-forestry",
+   "short": "7-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 7-A. AGRICULTURE, CONSERVATION AND FORESTRY",
+   "url": "https://legislature.maine.gov/statutes/7-A/title7-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 11,
+     "source_url": "https://legislature.maine.gov/statutes/7-A/title7-A.docx",
+     "sha256": "9efc24a2c85d1a480dab2fdc119c8dcef74a47233c9d51263baa1e2eb9c4195f"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-amusements-and-sports",
+   "short": "8 M.R.S.",
+   "title": "Maine Revised Statutes, Title 8. AMUSEMENTS AND SPORTS",
+   "url": "https://legislature.maine.gov/statutes/8/title8ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 477,
+     "source_url": "https://legislature.maine.gov/statutes/8/title8.docx",
+     "sha256": "ff548a51304d6e1611cb03db35f006ef14159d39013c1379f6f4812aa7088378"
+    }
+   ]
+  },
+  {
+   "slug": "title-9-banks-and-financial-institutions",
+   "short": "9 M.R.S.",
+   "title": "Maine Revised Statutes, Title 9. BANKS AND FINANCIAL INSTITUTIONS",
+   "url": "https://legislature.maine.gov/statutes/9/title9ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 600,
+     "source_url": "https://legislature.maine.gov/statutes/9/title9.docx",
+     "sha256": "126d69d7260992cab31ce587e08e18bd44104796c3981ee3779d516375389075"
+    }
+   ]
+  },
+  {
+   "slug": "title-9-b-financial-institutions",
+   "short": "9-B M.R.S.",
+   "title": "Maine Revised Statutes, Title 9-B. FINANCIAL INSTITUTIONS",
+   "url": "https://legislature.maine.gov/statutes/9-B/title9-Bch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 511,
+     "source_url": "https://legislature.maine.gov/statutes/9-B/title9-B.docx",
+     "sha256": "af311b1b9f19a62f108fc3adefa2c5f61cbc5a0159a1812c10667d43a8b18ef2"
+    }
+   ]
+  },
+  {
+   "slug": "title-10-commerce-and-trade",
+   "short": "10 M.R.S.",
+   "title": "Maine Revised Statutes, Title 10. COMMERCE AND TRADE",
+   "url": "https://legislature.maine.gov/statutes/10/title10ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1563,
+     "source_url": "https://legislature.maine.gov/statutes/10/title10.docx",
+     "sha256": "76f67386a48fae79b01e6bf23083941a147924e9f4041273685c3e77c0c7cc4d"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-uniform-commercial-code",
+   "short": "11 M.R.S.",
+   "title": "Maine Revised Statutes, Title 11. UNIFORM COMMERCIAL CODE",
+   "url": "https://legislature.maine.gov/statutes/11/title11ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 914,
+     "source_url": "https://legislature.maine.gov/statutes/11/title11.docx",
+     "sha256": "0e7519a7a0b95da4c5e9ebc67d5bb12d95f0f47aec420c5e88cdb9a51765e0b7"
+    }
+   ]
+  },
+  {
+   "slug": "title-12-conservation",
+   "short": "12 M.R.S.",
+   "title": "Maine Revised Statutes, Title 12. CONSERVATION",
+   "url": "https://legislature.maine.gov/statutes/12/title12ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/12/title12.docx",
+     "sha256": "2bd621066fadd677590872a68373d49461796d09f1b7211e5e1c7b8f3060cfa4"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-corporations",
+   "short": "13 M.R.S.",
+   "title": "Maine Revised Statutes, Title 13. CORPORATIONS",
+   "url": "https://legislature.maine.gov/statutes/13/title13ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/13/title13.docx",
+     "sha256": "3391dac59386b909067dafea88d6e3551726768696481046d39b647bb1ca0711"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-b-maine-nonprofit-corporation-act",
+   "short": "13-B M.R.S.",
+   "title": "Maine Revised Statutes, Title 13-B. MAINE NONPROFIT CORPORATION ACT",
+   "url": "https://legislature.maine.gov/statutes/13-B/title13-Bch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/13-B/title13-B.docx",
+     "sha256": "eb6cd632e005da815f83a1700cb3b295baf189465827390e08016668bc9b1beb"
+    }
+   ]
+  },
+  {
+   "slug": "title-14-court-procedure-civil",
+   "short": "14 M.R.S.",
+   "title": "Maine Revised Statutes, Title 14. COURT PROCEDURE -- CIVIL",
+   "url": "https://legislature.maine.gov/statutes/14/title14ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/14/title14.docx",
+     "sha256": "c2fbf706dfe1006e0ef4efa3aee94fe0443d7da3dd4c9dc98c782961108e554f"
+    }
+   ]
+  },
+  {
+   "slug": "title-15-court-procedure-criminal",
+   "short": "15 M.R.S.",
+   "title": "Maine Revised Statutes, Title 15. COURT PROCEDURE -- CRIMINAL",
+   "url": "https://legislature.maine.gov/statutes/15/title15ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/15/title15.docx",
+     "sha256": "16f70b1a37b262e79c91f5f07ab1ba2f499d1312bec95a5794117d56090d8367"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-court-procedure-evidence",
+   "short": "16 M.R.S.",
+   "title": "Maine Revised Statutes, Title 16. COURT PROCEDURE -- EVIDENCE",
+   "url": "https://legislature.maine.gov/statutes/16/title16ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/16/title16.docx",
+     "sha256": "b7e99b2a4bf3ef8e3b6502a061b8703142b1a82491321e93add783b59ec429f8"
+    }
+   ]
+  },
+  {
+   "slug": "title-17-crimes",
+   "short": "17 M.R.S.",
+   "title": "Maine Revised Statutes, Title 17. CRIMES",
+   "url": "https://legislature.maine.gov/statutes/17/title17ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/17/title17.docx",
+     "sha256": "1261329fb7ef25c969cea1ab60c7267913cccaa48b7bc21340514cf9f732b90f"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-decedents-estates-and-fiduciary-relation",
+   "short": "18 M.R.S.",
+   "title": "Maine Revised Statutes, Title 18. DECEDENTS' ESTATES AND FIDUCIARY RELATIONS",
+   "url": "https://legislature.maine.gov/statutes/18/title18ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/18/title18.docx",
+     "sha256": "af821407f810ffadb1677c798385b53a3a2973cf53386545c01e038f6eba58f3"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-b-trusts",
+   "short": "18-B M.R.S.",
+   "title": "Maine Revised Statutes, Title 18-B. TRUSTS",
+   "url": "https://legislature.maine.gov/statutes/18-B/title18-Bch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/18-B/title18-B.docx",
+     "sha256": "219511a1f2c77f39cdb7fdcb35756dad89d6ea5a6b285236649f6842849e3702"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-c-probate-code",
+   "short": "18-C M.R.S.",
+   "title": "Maine Revised Statutes, Title 18-C. PROBATE CODE",
+   "url": "https://legislature.maine.gov/statutes/18-C/title18-Cch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/18-C/title18-C.docx",
+     "sha256": "0ceb8710095ca5350d1b38bc1063709629aaf5fd9f8b4e49dd25b273ecac9f23"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-a-domestic-relations",
+   "short": "19-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 19-A. DOMESTIC RELATIONS",
+   "url": "https://legislature.maine.gov/statutes/19-A/title19-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/19-A/title19-A.docx",
+     "sha256": "cd111ff9d8211025f99759f633c323a02e03c1bf08f88f42bb3c302bf621b951"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-education",
+   "short": "20 M.R.S.",
+   "title": "Maine Revised Statutes, Title 20. EDUCATION",
+   "url": "https://legislature.maine.gov/statutes/20/title20ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/20/title20.docx",
+     "sha256": "ed14b60e1e9e378327d73e4ceac97199792f99a0bc06cad2cf2e2395535aab56"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-a-education",
+   "short": "20-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 20-A. EDUCATION",
+   "url": "https://legislature.maine.gov/statutes/20-A/title20-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/20-A/title20-A.docx",
+     "sha256": "8123599d2dbb3ddab905de895f7cba9c1d81fb87d61f9ba560fb611641eb6330"
+    }
+   ]
+  },
+  {
+   "slug": "title-21-a-elections",
+   "short": "21-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 21-A. ELECTIONS",
+   "url": "https://legislature.maine.gov/statutes/21-A/title21-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/21-A/title21-A.docx",
+     "sha256": "c6218d53644d2fc2d252ec94ee3a5324861b4748f46073d5ce08435ee4e0a6c5"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-health-and-welfare",
+   "short": "22 M.R.S.",
+   "title": "Maine Revised Statutes, Title 22. HEALTH AND WELFARE",
+   "url": "https://legislature.maine.gov/statutes/22/title22ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/22/title22.docx",
+     "sha256": "82abf3cdc4ad422223f771fc282a57bd5932651dd505a325a8ef2e2f6449c6e4"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-a-health-and-human-services",
+   "short": "22-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 22-A. HEALTH AND HUMAN SERVICES",
+   "url": "https://legislature.maine.gov/statutes/22-A/title22-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/22-A/title22-A.docx",
+     "sha256": "eedf00008e410dc15ec212cbf1b0630b745042cc8c17ecc957be5fcc4644f50a"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-transportation",
+   "short": "23 M.R.S.",
+   "title": "Maine Revised Statutes, Title 23. TRANSPORTATION",
+   "url": "https://legislature.maine.gov/statutes/23/title23ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/23/title23.docx",
+     "sha256": "d000da2fd21216b4da2acf8d2ab9ff53dcf201508edf2e2bc45984ee08f3ce2b"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-insurance",
+   "short": "24 M.R.S.",
+   "title": "Maine Revised Statutes, Title 24. INSURANCE",
+   "url": "https://legislature.maine.gov/statutes/24/title24ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/24/title24.docx",
+     "sha256": "13a327e16914f3497bc8fa7dfd3f7bdb0f5e64a3bf8153d09914dbc48018c15c"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-a-maine-insurance-code",
+   "short": "24-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 24-A. MAINE INSURANCE CODE",
+   "url": "https://legislature.maine.gov/statutes/24-A/title24-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/24-A/title24-A.docx",
+     "sha256": "fb144e3361e456f8c3e5f7d7ba1a52167a038dd53f42a49d91fa32a96638de55"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-internal-security-and-public-safety",
+   "short": "25 M.R.S.",
+   "title": "Maine Revised Statutes, Title 25. INTERNAL SECURITY AND PUBLIC SAFETY",
+   "url": "https://legislature.maine.gov/statutes/25/title25ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/25/title25.docx",
+     "sha256": "6fae40cb1cd0454e6f06bdd2070ade84d53a3a4b9f56b11573b2a34903993940"
+    }
+   ]
+  },
+  {
+   "slug": "title-26-labor-and-industry",
+   "short": "26 M.R.S.",
+   "title": "Maine Revised Statutes, Title 26. LABOR AND INDUSTRY",
+   "url": "https://legislature.maine.gov/statutes/26/title26ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/26/title26.docx",
+     "sha256": "2b14e889a2c579f77c630ec975dea43ea8b214e4df043366bd5df8817429cf03"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-libraries-history-culture-and-art",
+   "short": "27 M.R.S.",
+   "title": "Maine Revised Statutes, Title 27. LIBRARIES, HISTORY, CULTURE AND ART",
+   "url": "https://legislature.maine.gov/statutes/27/title27ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/27/title27.docx",
+     "sha256": "50d2355315ffedb9ce80687a82f9ff6cd0a151379c7612a1ccda7e63a2875c26"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-a-liquors",
+   "short": "28-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 28-A. LIQUORS",
+   "url": "https://legislature.maine.gov/statutes/28-A/title28-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/28-A/title28-A.docx",
+     "sha256": "0b8c865e869e31ad60c8b0b3c115a5b0b44f146fb3c7b8d0519abef9c35b6de9"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-b-cannabis",
+   "short": "28-B M.R.S.",
+   "title": "Maine Revised Statutes, Title 28-B. CANNABIS",
+   "url": "https://legislature.maine.gov/statutes/28-B/title28-Bch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/28-B/title28-B.docx",
+     "sha256": "5e3706186252bfff2392e9a89e463cd49f37bbd24b86701e99f5913d9af4d2b3"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-federally-recognized-indian-tribes",
+   "short": "30 M.R.S.",
+   "title": "Maine Revised Statutes, Title 30. FEDERALLY RECOGNIZED INDIAN TRIBES",
+   "url": "https://legislature.maine.gov/statutes/30/title30ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/30/title30.docx",
+     "sha256": "86c32bf446047981810bdc0c7cf43582b9de79cb12ec6203d91d9ba5d721769d"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-a-municipalities-and-counties",
+   "short": "30-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 30-A. MUNICIPALITIES AND COUNTIES",
+   "url": "https://legislature.maine.gov/statutes/30-A/title30-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/30-A/title30-A.docx",
+     "sha256": "78463a6184ba82481745881b1a71c369eea1e5db95aa4a408352582ad8ca922c"
+    }
+   ]
+  },
+  {
+   "slug": "title-31-partnerships-and-associations",
+   "short": "31 M.R.S.",
+   "title": "Maine Revised Statutes, Title 31. PARTNERSHIPS AND ASSOCIATIONS",
+   "url": "https://legislature.maine.gov/statutes/31/title31ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/31/title31.docx",
+     "sha256": "6834f0fed9cc4d305ce8c2187e1e6cd18979361a45c808d832c502814f7910d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-32-professions-and-occupations",
+   "short": "32 M.R.S.",
+   "title": "Maine Revised Statutes, Title 32. PROFESSIONS AND OCCUPATIONS",
+   "url": "https://legislature.maine.gov/statutes/32/title32ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/32/title32.docx",
+     "sha256": "2bf07c76751c24539ad1db6b7acc8ba2a8e84bc38894af772821c8d430e080ce"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-a-corrections",
+   "short": "34-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 34-A. CORRECTIONS",
+   "url": "https://legislature.maine.gov/statutes/34-A/title34-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/34-A/title34-A.docx",
+     "sha256": "b08f296b977d9672fa80514de94b706fb150405acc7c00dc0f5237a139109fd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-b-behavioral-and-developmental-services",
+   "short": "34-B M.R.S.",
+   "title": "Maine Revised Statutes, Title 34-B. BEHAVIORAL AND DEVELOPMENTAL SERVICES",
+   "url": "https://legislature.maine.gov/statutes/34-B/title34-Bch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/34-B/title34-B.docx",
+     "sha256": "71c26261b89267c898f2cf316974fe3c9c64687ed54fedc3b6361786ce07cfa3"
+    }
+   ]
+  },
+  {
+   "slug": "title-35-a-public-utilities",
+   "short": "35-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 35-A. PUBLIC UTILITIES",
+   "url": "https://legislature.maine.gov/statutes/35-A/title35-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/35-A/title35-A.docx",
+     "sha256": "1c8e7ab0e0347b9b6f432afb0dedcca5733444da0ee5c77111789a564b76814d"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-taxation",
+   "short": "36 M.R.S.",
+   "title": "Maine Revised Statutes, Title 36. TAXATION",
+   "url": "https://legislature.maine.gov/statutes/36/title36ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/36/title36.docx",
+     "sha256": "f1c6127ee905f8df1b1fa92ab7478639d3febfdd07f2196ae41c2f770eab3a0f"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-b-defense-veterans-and-emergency-managemen",
+   "short": "37-B M.R.S.",
+   "title": "Maine Revised Statutes, Title 37-B. DEFENSE, VETERANS AND EMERGENCY MANAGEMENT",
+   "url": "https://legislature.maine.gov/statutes/37-B/title37-Bch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/37-B/title37-B.docx",
+     "sha256": "8d1bfa53e1b240b59280efdd7ff14d51440a44541b97f1ecaceb3be99da81e7f"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-waters-and-navigation",
+   "short": "38 M.R.S.",
+   "title": "Maine Revised Statutes, Title 38. WATERS AND NAVIGATION",
+   "url": "https://legislature.maine.gov/statutes/38/title38ch0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/38/title38.docx",
+     "sha256": "8f430ff1f68a7e4d53649d7d9d9d3706a0fdbb4aaf5441b2bc99b647d966d33a"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-a-workers-compensation",
+   "short": "39-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 39-A. WORKERS' COMPENSATION",
+   "url": "https://legislature.maine.gov/statutes/39-A/title39-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/39-A/title39-A.docx",
+     "sha256": "fdd44bc421408366db0eb8110bafe5395f203bba3ad4c6779d7c5d03f6cf40da"
+    }
+   ]
+  },
+  {
+   "slug": "title-9-a-maine-consumer-credit-code",
+   "short": "9-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 9-A. MAINE CONSUMER CREDIT CODE",
+   "url": "https://legislature.maine.gov/statutes/9-A/title9-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/9-A/title9-A.docx",
+     "sha256": "e4821603bbd8144c81c72605d4e214cbe1f9fbcd39ebc5053e94fb4ea83bb638"
+    }
+   ]
+  },
+  {
+   "slug": "title-29-a-motor-vehicles-and-traffic",
+   "short": "29-A M.R.S.",
+   "title": "Maine Revised Statutes, Title 29-A. MOTOR VEHICLES AND TRAFFIC",
+   "url": "https://legislature.maine.gov/statutes/29-A/title29-Ach0sec0.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/statutes/29-A/title29-A.docx",
+     "sha256": "e3dfd09bb36257541b956360a55cff4c339aefebc3737baeb216680b5a71d6b4"
+    }
+   ]
+  }
+ ]
+}
