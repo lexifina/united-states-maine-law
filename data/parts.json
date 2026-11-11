@@ -64,6 +64,12 @@
     "title-9-a-maine-consumer-credit-code"
    ],
    "sha256": "ce4994891b9550d74ae3811f352a8c0f3af7719dcb346a6a3e8647381e0b1a40"
+  },
+  "83-q1553-title1-sections.json": {
+   "acts": [
+    "title-1-general-provisions"
+   ],
+   "sha256": "ce2376cb8f4bcb6884879ca601175b40f773ede8c5419ae9c30becb99ed9a59f"
   }
  },
  "schema": 1

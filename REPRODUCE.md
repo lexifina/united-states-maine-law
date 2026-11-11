@@ -1,6 +1,6 @@
 # How this repository was made (Maine)
 
-This file is written by the build on 2026-11-06, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -73,16 +73,16 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-9-a-maine-consumer-credit-code` | Maine Revised Statutes, Title 9-A. MAINE CONSUMER CREDIT CODE | 1 | 2026-10-01 to 2026-10-01 |
 | `title-29-a-motor-vehicles-and-traffic` | Maine Revised Statutes, Title 29-A. MOTOR VEHICLES AND TRAFFIC | 1 | 2026-10-01 to 2026-10-01 |
 
-The build made 54 commits:
+The build made 108 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 54 | first version of an act |
+| 108 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-06.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
 - 54 tags.
@@ -97,7 +97,7 @@ When a law gives no date of its own, the default rule applies: 1 M.R.S. section 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8082d59d99259e2a54b2b8897a9edf000e02549a9733e237971ff5f1211ec398` (62866615 bytes).
+- Corpus: sha256 `7645fd8b225f92e55d407f9561b20b2c82aaaacf2cb493df32ff4ec1577eec5b` (63279851 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -120,6 +120,7 @@ No second build of this corpus has been compared yet.
 - Each added title is an oldest-version-available baseline dated by the source disclaimer stating current through 1 October 2026. This does not assert that every provision commenced on that day.
 - Titles with no current section heading, or structured content that has not been independently verified, are excluded from this part.
 - Titles 9-A and 29-A follow the other whole-title files (one text file per title, dated by the disclaimer's current-through date). Each holds one native Word equation (OMML), written in place as linear text: a fraction as numerator/denominator (a side holding a space or an operator in parentheses), a delimiter group inside its own brackets, a superscript as ^(...). Only those brackets and the ^ mark are added; every letter, digit and operator is the publication's. Formulas: 9-A: (((settlement payment)/(payment amount))^(365/(term days))-1); 29-A: W=500(LN/(N-1)+12N+36).
+- title-1-general-provisions: chapter and section boundaries come from headings in the official Word document. The concatenated units equal the unchanged published title text byte for byte and match the official Word body after whitespace normalization. The version date and source hash are unchanged.
 
 ## What AI did and did not do
 
@@ -134,3 +135,4 @@ Model use at data-build time:
 - GPT-6 wrote deterministic parsing and verification code; no legal words were generated, corrected or translated by a model. No OCR was used.
 - GPT-6 wrote deterministic parsing and verification code; no legal words were generated, corrected or translated by a model. No OCR was used.
 - none
+- GPT-6 wrote the deterministic section splitter; no legal words were generated, corrected or translated by a model.
