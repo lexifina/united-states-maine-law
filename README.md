@@ -24,18 +24,18 @@ The Constitution and all 53 current normative titles of the Maine Revised Statut
 | `title-9-b-financial-institutions/` | Maine Revised Statutes, Title 9-B. FINANCIAL INSTITUTIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-10-commerce-and-trade/` | Maine Revised Statutes, Title 10. COMMERCE AND TRADE | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-11-uniform-commercial-code/` | Maine Revised Statutes, Title 11. UNIFORM COMMERCIAL CODE | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
-| `title-12-conservation/` | Maine Revised Statutes, Title 12. CONSERVATION | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-13-corporations/` | Maine Revised Statutes, Title 13. CORPORATIONS | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-13-b-maine-nonprofit-corporation-act/` | Maine Revised Statutes, Title 13-B. MAINE NONPROFIT CORPORATION ACT | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-14-court-procedure-civil/` | Maine Revised Statutes, Title 14. COURT PROCEDURE -- CIVIL | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-15-court-procedure-criminal/` | Maine Revised Statutes, Title 15. COURT PROCEDURE -- CRIMINAL | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-16-court-procedure-evidence/` | Maine Revised Statutes, Title 16. COURT PROCEDURE -- EVIDENCE | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-17-crimes/` | Maine Revised Statutes, Title 17. CRIMES | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-18-decedents-estates-and-fiduciary-relation/` | Maine Revised Statutes, Title 18. DECEDENTS' ESTATES AND FIDUCIARY RELATIONS | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-18-b-trusts/` | Maine Revised Statutes, Title 18-B. TRUSTS | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-18-c-probate-code/` | Maine Revised Statutes, Title 18-C. PROBATE CODE | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-19-a-domestic-relations/` | Maine Revised Statutes, Title 19-A. DOMESTIC RELATIONS | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-20-education/` | Maine Revised Statutes, Title 20. EDUCATION | 1 | One complete title file; section history retained; source date 2026-10-01 |
+| `title-12-conservation/` | Maine Revised Statutes, Title 12. CONSERVATION | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-13-corporations/` | Maine Revised Statutes, Title 13. CORPORATIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-13-b-maine-nonprofit-corporation-act/` | Maine Revised Statutes, Title 13-B. MAINE NONPROFIT CORPORATION ACT | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-14-court-procedure-civil/` | Maine Revised Statutes, Title 14. COURT PROCEDURE -- CIVIL | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-15-court-procedure-criminal/` | Maine Revised Statutes, Title 15. COURT PROCEDURE -- CRIMINAL | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-16-court-procedure-evidence/` | Maine Revised Statutes, Title 16. COURT PROCEDURE -- EVIDENCE | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-17-crimes/` | Maine Revised Statutes, Title 17. CRIMES | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-18-decedents-estates-and-fiduciary-relation/` | Maine Revised Statutes, Title 18. DECEDENTS' ESTATES AND FIDUCIARY RELATIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-18-b-trusts/` | Maine Revised Statutes, Title 18-B. TRUSTS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-18-c-probate-code/` | Maine Revised Statutes, Title 18-C. PROBATE CODE | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-19-a-domestic-relations/` | Maine Revised Statutes, Title 19-A. DOMESTIC RELATIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-20-education/` | Maine Revised Statutes, Title 20. EDUCATION | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-20-a-education/` | Maine Revised Statutes, Title 20-A. EDUCATION | 1 | One complete title file; section history retained; source date 2026-10-01 |
 | `title-21-a-elections/` | Maine Revised Statutes, Title 21-A. ELECTIONS | 1 | One complete title file; section history retained; source date 2026-10-01 |
 | `title-22-health-and-welfare/` | Maine Revised Statutes, Title 22. HEALTH AND WELFARE | 1 | One complete title file; section history retained; source date 2026-10-01 |
@@ -61,7 +61,7 @@ The Constitution and all 53 current normative titles of the Maine Revised Statut
 | `title-38-waters-and-navigation/` | Maine Revised Statutes, Title 38. WATERS AND NAVIGATION | 1 | One complete title file; section history retained; source date 2026-10-01 |
 | `title-39-a-workers-compensation/` | Maine Revised Statutes, Title 39-A. WORKERS' COMPENSATION | 1 | One complete title file; section history retained; source date 2026-10-01 |
 
-Additional titles retain the complete official title text, including chapter headings, section-history notes and repeal placeholders. Titles 1–11, including Titles 7-A and 9-B, are arranged in chapter and section files without changing their wording; Title 9-A retains its complete title file. The original Constitution and Titles 13-C, 17-A and 33 retain their provision files.
+Additional titles retain the complete official title text, including chapter headings, section-history notes and repeal placeholders. Titles 1–20, including Titles 7-A, 9-B, 13-B, 18-B, 18-C and 19-A, are arranged in chapter and section files without changing their wording; Title 9-A retains its complete title file. The original Constitution and Titles 13-C, 17-A and 33 retain their provision files.
 
 The statutory source says its text is current through 1 October 2026. This is the consolidation date of each baseline, not the commencement of every provision. The Constitution retains its existing source-date record. Earlier consolidated versions are not added in this batch.
 

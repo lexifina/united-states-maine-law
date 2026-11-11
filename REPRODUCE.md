@@ -73,7 +73,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-9-a-maine-consumer-credit-code` | Maine Revised Statutes, Title 9-A. MAINE CONSUMER CREDIT CODE | 1 | 2026-10-01 to 2026-10-01 |
 | `title-29-a-motor-vehicles-and-traffic` | Maine Revised Statutes, Title 29-A. MOTOR VEHICLES AND TRAFFIC | 1 | 2026-10-01 to 2026-10-01 |
 
-The build made 67 commits:
+The build made 79 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -97,7 +97,7 @@ When a law gives no date of its own, the default rule applies: 1 M.R.S. section 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6ee62db96994145262c160a229c60d31bbea13d48b9a315741b7c48ab0be1e34` (75846109 bytes).
+- Corpus: sha256 `093cbf7e778c46c69e68abdfb155f25d1f294d559e9d2556246f290b21c51b25` (86496028 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -133,6 +133,18 @@ No second build of this corpus has been compared yet.
 - title-9-b-financial-institutions: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
 - title-10-commerce-and-trade: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
 - title-11-uniform-commercial-code: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-12-conservation: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-13-corporations: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-13-b-maine-nonprofit-corporation-act: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-14-court-procedure-civil: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-15-court-procedure-criminal: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-16-court-procedure-evidence: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-17-crimes: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-18-decedents-estates-and-fiduciary-relation: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-18-b-trusts: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-18-c-probate-code: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-19-a-domestic-relations: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-20-education: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
 
 ## What AI did and did not do
 
@@ -148,4 +160,6 @@ Model use at data-build time:
 - GPT-6 wrote deterministic parsing and verification code; no legal words were generated, corrected or translated by a model. No OCR was used.
 - none
 - GPT-6 wrote the deterministic section splitter; no legal words were generated, corrected or translated by a model.
+- GPT-6 wrote deterministic batch arrangement and verification code; no legal words were generated, corrected or translated by a model.
+- GPT-6 wrote deterministic batch arrangement and verification code; no legal words were generated, corrected or translated by a model.
 - GPT-6 wrote deterministic batch arrangement and verification code; no legal words were generated, corrected or translated by a model.
