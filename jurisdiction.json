@@ -4,7 +4,7 @@
   "name": "Maine",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-maine-law",
-  "build": "52 selected current-text acts, including the Constitution; additional titles use one complete file per title; no earlier consolidated versions added.",
+  "build": "54 current-text acts: the Constitution and 53 normative statute titles. Thirteen additional titles have chapter and section files; the remaining additional titles use complete title files. No earlier consolidated versions added.",
   "register_date": "2026-10-30",
   "parent": "US"
 }

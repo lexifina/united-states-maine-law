@@ -79,7 +79,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 1,
+     "units": 29,
      "source_url": "https://legislature.maine.gov/statutes/2/title2.docx",
      "sha256": "faa0bdff69542a3d25d409d1d9e546bdefeafbb966baa585c7f2c40c5bcfc47d"
     }
@@ -93,7 +93,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 1,
+     "units": 296,
      "source_url": "https://legislature.maine.gov/statutes/3/title3.docx",
      "sha256": "652122481309d151dcc8b9b400fc535e97d3f8a007f80987da6a7ca891d00ab0"
     }
@@ -107,7 +107,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 1,
+     "units": 469,
      "source_url": "https://legislature.maine.gov/statutes/4/title4.docx",
      "sha256": "23fa3b976bc171c2de76ef8a5c425475579a62ab11ce60ac0d90e90287c74790"
     }
@@ -121,7 +121,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 1,
+     "units": 2490,
      "source_url": "https://legislature.maine.gov/statutes/5/title5.docx",
      "sha256": "9631ac8608f96a19fec1b82e4b4536fe9e24fa61ebd9483610bd1699b08c7568"
     }
@@ -135,7 +135,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 1,
+     "units": 93,
      "source_url": "https://legislature.maine.gov/statutes/6/title6.docx",
      "sha256": "3cf46f79fbf4a2a75175042c3a9440bceb9b7bfa38ae0c5d1bc917c34c99b784"
     }
@@ -149,7 +149,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 1,
+     "units": 1257,
      "source_url": "https://legislature.maine.gov/statutes/7/title7.docx",
      "sha256": "1c5483d89c2264a1b129be781a553c63dbf5a4e73a614eeff0ae5b52ca01f792"
     }
@@ -163,7 +163,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 1,
+     "units": 11,
      "source_url": "https://legislature.maine.gov/statutes/7-A/title7-A.docx",
      "sha256": "9efc24a2c85d1a480dab2fdc119c8dcef74a47233c9d51263baa1e2eb9c4195f"
     }
@@ -177,7 +177,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 1,
+     "units": 477,
      "source_url": "https://legislature.maine.gov/statutes/8/title8.docx",
      "sha256": "ff548a51304d6e1611cb03db35f006ef14159d39013c1379f6f4812aa7088378"
     }
@@ -191,7 +191,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 1,
+     "units": 600,
      "source_url": "https://legislature.maine.gov/statutes/9/title9.docx",
      "sha256": "126d69d7260992cab31ce587e08e18bd44104796c3981ee3779d516375389075"
     }
@@ -205,7 +205,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 1,
+     "units": 511,
      "source_url": "https://legislature.maine.gov/statutes/9-B/title9-B.docx",
      "sha256": "af311b1b9f19a62f108fc3adefa2c5f61cbc5a0159a1812c10667d43a8b18ef2"
     }
@@ -219,7 +219,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 1,
+     "units": 1563,
      "source_url": "https://legislature.maine.gov/statutes/10/title10.docx",
      "sha256": "76f67386a48fae79b01e6bf23083941a147924e9f4041273685c3e77c0c7cc4d"
     }
@@ -233,7 +233,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 1,
+     "units": 914,
      "source_url": "https://legislature.maine.gov/statutes/11/title11.docx",
      "sha256": "0e7519a7a0b95da4c5e9ebc67d5bb12d95f0f47aec420c5e88cdb9a51765e0b7"
     }

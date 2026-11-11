@@ -2,7 +2,7 @@
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Maine, United States, which global-law reads at `united-states/maine/acts/`.
 
-The Constitution and selected current titles of the Maine Revised Statutes, published by the Maine Legislature, Office of the Revisor of Statutes.
+The Constitution and all 53 current normative titles of the Maine Revised Statutes, published by the Maine Legislature, Office of the Revisor of Statutes.
 
 | Folder | Act | Versions | Text |
 | --- | --- | ---: | --- |
@@ -10,19 +10,20 @@ The Constitution and selected current titles of the Maine Revised Statutes, publ
 | `criminal-code/` | Maine Revised Statutes, Title 17-A. Maine Criminal Code | 1 | One file per provision; source date 2026-10-01 |
 | `property/` | Maine Revised Statutes, Title 33. Property | 1 | One file per provision; source date 2026-10-01 |
 | `business-corporation-act/` | Maine Revised Statutes, Title 13-C. Maine Business Corporation Act | 1 | One file per provision; source date 2026-10-01 |
-| `title-1-general-provisions/` | Maine Revised Statutes, Title 1. GENERAL PROVISIONS | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-2-executive/` | Maine Revised Statutes, Title 2. EXECUTIVE | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-3-legislature/` | Maine Revised Statutes, Title 3. LEGISLATURE | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-4-judiciary/` | Maine Revised Statutes, Title 4. JUDICIARY | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-5-administrative-procedures-and-services/` | Maine Revised Statutes, Title 5. ADMINISTRATIVE PROCEDURES AND SERVICES | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-6-aeronautics/` | Maine Revised Statutes, Title 6. AERONAUTICS | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-7-agriculture-and-animals/` | Maine Revised Statutes, Title 7. AGRICULTURE AND ANIMALS | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-7-a-agriculture-conservation-and-forestry/` | Maine Revised Statutes, Title 7-A. AGRICULTURE, CONSERVATION AND FORESTRY | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-8-amusements-and-sports/` | Maine Revised Statutes, Title 8. AMUSEMENTS AND SPORTS | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-9-banks-and-financial-institutions/` | Maine Revised Statutes, Title 9. BANKS AND FINANCIAL INSTITUTIONS | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-9-b-financial-institutions/` | Maine Revised Statutes, Title 9-B. FINANCIAL INSTITUTIONS | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-10-commerce-and-trade/` | Maine Revised Statutes, Title 10. COMMERCE AND TRADE | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-11-uniform-commercial-code/` | Maine Revised Statutes, Title 11. UNIFORM COMMERCIAL CODE | 1 | One complete title file; section history retained; source date 2026-10-01 |
+| `title-1-general-provisions/` | Maine Revised Statutes, Title 1. GENERAL PROVISIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-2-executive/` | Maine Revised Statutes, Title 2. EXECUTIVE | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-3-legislature/` | Maine Revised Statutes, Title 3. LEGISLATURE | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-4-judiciary/` | Maine Revised Statutes, Title 4. JUDICIARY | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-5-administrative-procedures-and-services/` | Maine Revised Statutes, Title 5. ADMINISTRATIVE PROCEDURES AND SERVICES | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-6-aeronautics/` | Maine Revised Statutes, Title 6. AERONAUTICS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-7-agriculture-and-animals/` | Maine Revised Statutes, Title 7. AGRICULTURE AND ANIMALS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-7-a-agriculture-conservation-and-forestry/` | Maine Revised Statutes, Title 7-A. AGRICULTURE, CONSERVATION AND FORESTRY | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-8-amusements-and-sports/` | Maine Revised Statutes, Title 8. AMUSEMENTS AND SPORTS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-9-banks-and-financial-institutions/` | Maine Revised Statutes, Title 9. BANKS AND FINANCIAL INSTITUTIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-9-a-maine-consumer-credit-code/` | Maine Revised Statutes, Title 9-A. MAINE CONSUMER CREDIT CODE | 1 | One complete title file, including native Word formula text; source date 2026-10-01 |
+| `title-9-b-financial-institutions/` | Maine Revised Statutes, Title 9-B. FINANCIAL INSTITUTIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-10-commerce-and-trade/` | Maine Revised Statutes, Title 10. COMMERCE AND TRADE | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-11-uniform-commercial-code/` | Maine Revised Statutes, Title 11. UNIFORM COMMERCIAL CODE | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-12-conservation/` | Maine Revised Statutes, Title 12. CONSERVATION | 1 | One complete title file; section history retained; source date 2026-10-01 |
 | `title-13-corporations/` | Maine Revised Statutes, Title 13. CORPORATIONS | 1 | One complete title file; section history retained; source date 2026-10-01 |
 | `title-13-b-maine-nonprofit-corporation-act/` | Maine Revised Statutes, Title 13-B. MAINE NONPROFIT CORPORATION ACT | 1 | One complete title file; section history retained; source date 2026-10-01 |
@@ -47,6 +48,7 @@ The Constitution and selected current titles of the Maine Revised Statutes, publ
 | `title-27-libraries-history-culture-and-art/` | Maine Revised Statutes, Title 27. LIBRARIES, HISTORY, CULTURE AND ART | 1 | One complete title file; section history retained; source date 2026-10-01 |
 | `title-28-a-liquors/` | Maine Revised Statutes, Title 28-A. LIQUORS | 1 | One complete title file; section history retained; source date 2026-10-01 |
 | `title-28-b-cannabis/` | Maine Revised Statutes, Title 28-B. CANNABIS | 1 | One complete title file; section history retained; source date 2026-10-01 |
+| `title-29-a-motor-vehicles-and-traffic/` | Maine Revised Statutes, Title 29-A. MOTOR VEHICLES AND TRAFFIC | 1 | One complete title file, including native Word formula text; source date 2026-10-01 |
 | `title-30-federally-recognized-indian-tribes/` | Maine Revised Statutes, Title 30. FEDERALLY RECOGNIZED INDIAN TRIBES | 1 | One complete title file; section history retained; source date 2026-10-01 |
 | `title-30-a-municipalities-and-counties/` | Maine Revised Statutes, Title 30-A. MUNICIPALITIES AND COUNTIES | 1 | One complete title file; section history retained; source date 2026-10-01 |
 | `title-31-partnerships-and-associations/` | Maine Revised Statutes, Title 31. PARTNERSHIPS AND ASSOCIATIONS | 1 | One complete title file; section history retained; source date 2026-10-01 |
@@ -59,11 +61,11 @@ The Constitution and selected current titles of the Maine Revised Statutes, publ
 | `title-38-waters-and-navigation/` | Maine Revised Statutes, Title 38. WATERS AND NAVIGATION | 1 | One complete title file; section history retained; source date 2026-10-01 |
 | `title-39-a-workers-compensation/` | Maine Revised Statutes, Title 39-A. WORKERS' COMPENSATION | 1 | One complete title file; section history retained; source date 2026-10-01 |
 
-Additional titles retain the complete official title text, including chapter headings, section-history notes and repeal placeholders. The original Constitution and Titles 13-C, 17-A and 33 retain their provision files.
+Additional titles retain the complete official title text, including chapter headings, section-history notes and repeal placeholders. Titles 1–11, including Titles 7-A and 9-B, are arranged in chapter and section files without changing their wording; Title 9-A retains its complete title file. The original Constitution and Titles 13-C, 17-A and 33 retain their provision files.
 
 The statutory source says its text is current through 1 October 2026. This is the consolidation date of each baseline, not the commencement of every provision. The Constitution retains its existing source-date record. Earlier consolidated versions are not added in this batch.
 
-Titles 9-A and 29-A are excluded from the additional title files pending verification of their mathematical formulas. Wholly repealed titles with no current normative section are excluded. The record does not cover all session laws or administrative rules.
+Wholly repealed titles with no current normative section are excluded. The record does not cover all session laws or administrative rules.
 
 Official source: <https://legislature.maine.gov/statutes/>. Constitution: <https://legislature.maine.gov/doc/10674>.
 

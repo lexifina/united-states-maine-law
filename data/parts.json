@@ -70,6 +70,23 @@
     "title-1-general-provisions"
    ],
    "sha256": "ce2376cb8f4bcb6884879ca601175b40f773ede8c5419ae9c30becb99ed9a59f"
+  },
+  "84-q1564-sections.json": {
+   "acts": [
+    "title-10-commerce-and-trade",
+    "title-11-uniform-commercial-code",
+    "title-2-executive",
+    "title-3-legislature",
+    "title-4-judiciary",
+    "title-5-administrative-procedures-and-services",
+    "title-6-aeronautics",
+    "title-7-a-agriculture-conservation-and-forestry",
+    "title-7-agriculture-and-animals",
+    "title-8-amusements-and-sports",
+    "title-9-b-financial-institutions",
+    "title-9-banks-and-financial-institutions"
+   ],
+   "sha256": "4d884133d418cd111507aa7ffa5e48910b1ec461cf5d35495a5ea4ba8a7630e0"
   }
  },
  "schema": 1
