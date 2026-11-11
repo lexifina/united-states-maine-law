@@ -36,13 +36,13 @@ The Constitution and all 53 current normative titles of the Maine Revised Statut
 | `title-18-c-probate-code/` | Maine Revised Statutes, Title 18-C. PROBATE CODE | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-19-a-domestic-relations/` | Maine Revised Statutes, Title 19-A. DOMESTIC RELATIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-20-education/` | Maine Revised Statutes, Title 20. EDUCATION | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
-| `title-20-a-education/` | Maine Revised Statutes, Title 20-A. EDUCATION | 1 | One complete title file; section history retained; source date 2026-10-01 |
+| `title-20-a-education/` | Maine Revised Statutes, Title 20-A. EDUCATION | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-21-a-elections/` | Maine Revised Statutes, Title 21-A. ELECTIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
-| `title-22-health-and-welfare/` | Maine Revised Statutes, Title 22. HEALTH AND WELFARE | 1 | One complete title file; section history retained; source date 2026-10-01 |
+| `title-22-health-and-welfare/` | Maine Revised Statutes, Title 22. HEALTH AND WELFARE | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-22-a-health-and-human-services/` | Maine Revised Statutes, Title 22-A. HEALTH AND HUMAN SERVICES | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-23-transportation/` | Maine Revised Statutes, Title 23. TRANSPORTATION | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-24-insurance/` | Maine Revised Statutes, Title 24. INSURANCE | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
-| `title-24-a-maine-insurance-code/` | Maine Revised Statutes, Title 24-A. MAINE INSURANCE CODE | 1 | One complete title file; section history retained; source date 2026-10-01 |
+| `title-24-a-maine-insurance-code/` | Maine Revised Statutes, Title 24-A. MAINE INSURANCE CODE | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-25-internal-security-and-public-safety/` | Maine Revised Statutes, Title 25. INTERNAL SECURITY AND PUBLIC SAFETY | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-26-labor-and-industry/` | Maine Revised Statutes, Title 26. LABOR AND INDUSTRY | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-27-libraries-history-culture-and-art/` | Maine Revised Statutes, Title 27. LIBRARIES, HISTORY, CULTURE AND ART | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
@@ -50,18 +50,18 @@ The Constitution and all 53 current normative titles of the Maine Revised Statut
 | `title-28-b-cannabis/` | Maine Revised Statutes, Title 28-B. CANNABIS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-29-a-motor-vehicles-and-traffic/` | Maine Revised Statutes, Title 29-A. MOTOR VEHICLES AND TRAFFIC | 1 | One complete title file, including native Word formula text; source date 2026-10-01 |
 | `title-30-federally-recognized-indian-tribes/` | Maine Revised Statutes, Title 30. FEDERALLY RECOGNIZED INDIAN TRIBES | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
-| `title-30-a-municipalities-and-counties/` | Maine Revised Statutes, Title 30-A. MUNICIPALITIES AND COUNTIES | 1 | One complete title file; section history retained; source date 2026-10-01 |
+| `title-30-a-municipalities-and-counties/` | Maine Revised Statutes, Title 30-A. MUNICIPALITIES AND COUNTIES | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-31-partnerships-and-associations/` | Maine Revised Statutes, Title 31. PARTNERSHIPS AND ASSOCIATIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
-| `title-32-professions-and-occupations/` | Maine Revised Statutes, Title 32. PROFESSIONS AND OCCUPATIONS | 1 | One complete title file; section history retained; source date 2026-10-01 |
+| `title-32-professions-and-occupations/` | Maine Revised Statutes, Title 32. PROFESSIONS AND OCCUPATIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-34-a-corrections/` | Maine Revised Statutes, Title 34-A. CORRECTIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
-| `title-34-b-behavioral-and-developmental-services/` | Maine Revised Statutes, Title 34-B. BEHAVIORAL AND DEVELOPMENTAL SERVICES | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-35-a-public-utilities/` | Maine Revised Statutes, Title 35-A. PUBLIC UTILITIES | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-36-taxation/` | Maine Revised Statutes, Title 36. TAXATION | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-37-b-defense-veterans-and-emergency-managemen/` | Maine Revised Statutes, Title 37-B. DEFENSE, VETERANS AND EMERGENCY MANAGEMENT | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-38-waters-and-navigation/` | Maine Revised Statutes, Title 38. WATERS AND NAVIGATION | 1 | One complete title file; section history retained; source date 2026-10-01 |
-| `title-39-a-workers-compensation/` | Maine Revised Statutes, Title 39-A. WORKERS' COMPENSATION | 1 | One complete title file; section history retained; source date 2026-10-01 |
+| `title-34-b-behavioral-and-developmental-services/` | Maine Revised Statutes, Title 34-B. BEHAVIORAL AND DEVELOPMENTAL SERVICES | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-35-a-public-utilities/` | Maine Revised Statutes, Title 35-A. PUBLIC UTILITIES | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-36-taxation/` | Maine Revised Statutes, Title 36. TAXATION | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-37-b-defense-veterans-and-emergency-managemen/` | Maine Revised Statutes, Title 37-B. DEFENSE, VETERANS AND EMERGENCY MANAGEMENT | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-38-waters-and-navigation/` | Maine Revised Statutes, Title 38. WATERS AND NAVIGATION | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
+| `title-39-a-workers-compensation/` | Maine Revised Statutes, Title 39-A. WORKERS' COMPENSATION | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 
-Additional titles retain the complete official title text, including chapter headings, section-history notes and repeal placeholders. Titles 1–20, including Titles 7-A, 9-B, 13-B, 18-B, 18-C and 19-A, are arranged in chapter and section files without changing their wording; Title 9-A retains its complete title file. The original Constitution and Titles 13-C, 17-A and 33 retain their provision files. Twelve further statutory titles, including 21-A and 34-A, are arranged in chapter and section files without changing their wording.
+The statutory titles retain the complete official wording, including chapter headings, section-history notes and repeal placeholders. Titles 9-A and 29-A retain complete title files containing native Word formula text; the other titles use chapter and section files or their original provision files.
 
 The statutory source says its text is current through 1 October 2026. This is the consolidation date of each baseline, not the commencement of every provision. The Constitution retains its existing source-date record. Earlier consolidated versions are not added in this batch.
 

@@ -126,6 +126,22 @@
     "title-34-a-corrections"
    ],
    "sha256": "3cde862235771e09f19eb5b6046611ed5310e2f0f970c794e7a64450cf4f1d39"
+  },
+  "88-q1592-sections.json": {
+   "acts": [
+    "title-20-a-education",
+    "title-22-health-and-welfare",
+    "title-24-a-maine-insurance-code",
+    "title-30-a-municipalities-and-counties",
+    "title-32-professions-and-occupations",
+    "title-34-b-behavioral-and-developmental-services",
+    "title-35-a-public-utilities",
+    "title-36-taxation",
+    "title-37-b-defense-veterans-and-emergency-managemen",
+    "title-38-waters-and-navigation",
+    "title-39-a-workers-compensation"
+   ],
+   "sha256": "52fefcc4a70ea30ab554877b7a8e3c9acf7cf2c68197769a2b47dc69a2d8ad66"
   }
  },
  "schema": 1

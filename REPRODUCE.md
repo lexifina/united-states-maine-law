@@ -1,6 +1,6 @@
 # How this repository was made (Maine)
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -73,7 +73,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-9-a-maine-consumer-credit-code` | Maine Revised Statutes, Title 9-A. MAINE CONSUMER CREDIT CODE | 1 | 2026-10-01 to 2026-10-01 |
 | `title-29-a-motor-vehicles-and-traffic` | Maine Revised Statutes, Title 29-A. MOTOR VEHICLES AND TRAFFIC | 1 | 2026-10-01 to 2026-10-01 |
 
-The build made 91 commits:
+The build made 102 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -82,7 +82,7 @@ The build made 91 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
 - 54 tags.
@@ -97,7 +97,7 @@ When a law gives no date of its own, the default rule applies: 1 M.R.S. section 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6acba6ba208a03e6d4568ec9f6375dbd67c99a130bace3b5bc281e1031158ebc` (95254805 bytes).
+- Corpus: sha256 `3f42b20a39ba83640dc53192d560207176f1cc1ce041dc0de6781e54faceff42` (126974508 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -157,6 +157,17 @@ No second build of this corpus has been compared yet.
 - title-30-federally-recognized-indian-tribes: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
 - title-31-partnerships-and-associations: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
 - title-34-a-corrections: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-20-a-education: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-22-health-and-welfare: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-24-a-maine-insurance-code: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-30-a-municipalities-and-counties: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-32-professions-and-occupations: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-34-b-behavioral-and-developmental-services: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-35-a-public-utilities: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-36-taxation: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-37-b-defense-veterans-and-emergency-managemen: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-38-waters-and-navigation: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- title-39-a-workers-compensation: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
 
 ## What AI did and did not do
 
@@ -172,6 +183,7 @@ Model use at data-build time:
 - GPT-6 wrote deterministic parsing and verification code; no legal words were generated, corrected or translated by a model. No OCR was used.
 - none
 - GPT-6 wrote the deterministic section splitter; no legal words were generated, corrected or translated by a model.
+- GPT-6 wrote deterministic batch arrangement and verification code; no legal words were generated, corrected or translated by a model.
 - GPT-6 wrote deterministic batch arrangement and verification code; no legal words were generated, corrected or translated by a model.
 - GPT-6 wrote deterministic batch arrangement and verification code; no legal words were generated, corrected or translated by a model.
 - GPT-6 wrote deterministic batch arrangement and verification code; no legal words were generated, corrected or translated by a model.
