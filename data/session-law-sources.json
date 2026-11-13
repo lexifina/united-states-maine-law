@@ -1,0 +1,11 @@
+{
+  "publisher": "Maine Legislature, Office of the Revisor of Statutes",
+  "legislature": 132,
+  "source": "https://legislature.maine.gov/ros/LawsOfMaine/#Law/132/R1/",
+  "effective_date_source": "https://legislature.maine.gov/ros/LOM/LOM132nd/otherDocuments.html",
+  "sessions": [
+    {"session": "R1", "year": 2025, "public_law_listing_rows": 17, "general_effective_date": "2025-06-20"},
+    {"session": "S1", "year": 2025, "public_law_listing_rows": 483, "general_effective_date": "2025-09-24"}
+  ],
+  "note": "General session dates do not override an individual law's emergency clause or other express commencement provision. Listing rows are not a count of current normative acts. No session-law text is included by this inventory."
+}
