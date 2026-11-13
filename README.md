@@ -274,11 +274,36 @@ Session laws as enacted:
 | `public-law-2025-chapter-0395/` | An Act Regarding Municipal Road Standards | 1 | Session law as enacted; effective 2025-09-24 |
 | `public-law-2025-chapter-0400/` | An Act to Protect Individuals from the Threatened Unauthorized Dissemination of Certain Private Images, Including Artificially Generated Private Images | 1 | Session law as enacted; effective 2025-09-24 |
 
+| `public-law-2025-chapter-0428/` | An Act to Clarify Licensing Jurisdiction for Manufactured Housing Communities | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0437/` | An Act to Update the Laws Governing Education in the Unorganized Territory | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0438/` | An Act to Amend the Law Governing the Accrual of Earned Paid Leave | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0441/` | An Act to Provide Funding for Sexual Assault Services | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0442/` | An Act to Increase the Total Amount of Credits Authorized Under the Maine Seed Capital Tax Credit Program | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0443/` | An Act to Improve Women's Health and Economic Security by Funding Family Planning Services | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0444/` | An Act to Increase the Maximum Amount of the Historic Property Rehabilitation Tax Credit That May be Taken in a Year | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0449/` | An Act Regarding Large Recovery Residences | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0452/` | An Act to Ensure Consistency of Income Tax Deductions for Retired Members of the Uniformed Services | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0454/` | An Act to Authorize the Maine Governmental Facilities Authority to Issue Additional Securities for the Replacement of the Legislative Management System for the Senate and the House of Representatives | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0456/` | An Act to Preserve Heating and Energy Choice by Prohibiting a Municipality from Prohibiting a Particular Energy System or Energy Distributor | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0462/` | An Act to Authorize the Use of Funds Resulting from the Issuance of Securities by the Maine Governmental Facilities Authority for the Purpose of Developing or Improving New or Existing Court Facilities in Penobscot County | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0464/` | An Act to Clarify Residency Requirements for the Maine School of Science and Mathematics | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0467/` | An Act to Clarify the Status of Energy Storage Systems with Regard to the Business Equipment Tax Exemption and the Business Equipment Tax Reimbursement Program | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0469/` | An Act to Amend the Laws Regarding the Mining Excise Tax | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0473/` | An Act to Clarify the Requirements for Accessing Nonformulary Drugs and Drugs Used to Treat Serious Mental Illness | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0475/` | An Act to Amend the Statutory Balance Limit on the Finance Authority of Maine's Loan Insurance Reserves for General Fund Transfers | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0477/` | An Act to Promote the Production of Natural Resources Bioproducts by Amending the Renewable Chemicals Tax Credit | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0478/` | An Act to Require Insurance Coverage for Covered Dental Services Provided by Licensed Dental Hygienists | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0480/` | An Act to Address Maine's Housing Crisis by Limiting Municipal Impact Fees on Housing Development | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0485/` | An Act to Expand the State's Workforce by Supporting the Transition from Incarceration to Employment | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0489/` | An Act to Promote Food Processing and Manufacturing Facility Expansion and Create Jobs | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0490/` | An Act to Amend the Laws Regarding Legislative Reimbursement | 1 | Session law as enacted; effective 2025-09-24 |
+| `public-law-2025-chapter-0499/` | An Act to Increase the Maine Historic Property Rehabilitation Tax Credit in Rural Areas | 1 | Session law as enacted; effective 2025-09-24 |
+
 The statutory titles retain the complete official wording, including chapter headings, section-history notes and repeal placeholders. Titles 9-A and 29-A use section files containing native Word formula text; the other titles use chapter and section files or their original provision files.
 
 The statutory source says its text is current through 1 October 2026. This is the consolidation date of each baseline, not the commencement of every provision. The Constitution retains its existing source-date record. Earlier consolidated versions are not added in this batch.
 
-Wholly repealed titles with no current normative section are excluded. The record also contains 200 selected 2025 public laws as enacted, with approval and effective dates supplied by the official sources. These enactments are separate from the consolidated titles and do not reconstruct their earlier wording. The record does not cover all session laws or administrative rules.
+Wholly repealed titles with no current normative section are excluded. The record also contains 224 selected 2025 public laws as enacted, with approval and effective dates supplied by the official sources. These enactments are separate from the consolidated titles and do not reconstruct their earlier wording. The record does not cover all session laws or administrative rules.
 
 Official source: <https://legislature.maine.gov/statutes/>. Constitution: <https://legislature.maine.gov/doc/10674>.
 

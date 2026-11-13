@@ -369,6 +369,35 @@
     "public-law-2025-chapter-0400"
    ],
    "sha256": "d0c122c296d95823d03b196cab33597feee48998f52618f1f7d747cb09185c19"
+  },
+  "94-q1967-session-laws.json": {
+   "acts": [
+    "public-law-2025-chapter-0428",
+    "public-law-2025-chapter-0437",
+    "public-law-2025-chapter-0438",
+    "public-law-2025-chapter-0441",
+    "public-law-2025-chapter-0442",
+    "public-law-2025-chapter-0443",
+    "public-law-2025-chapter-0444",
+    "public-law-2025-chapter-0449",
+    "public-law-2025-chapter-0452",
+    "public-law-2025-chapter-0454",
+    "public-law-2025-chapter-0456",
+    "public-law-2025-chapter-0462",
+    "public-law-2025-chapter-0464",
+    "public-law-2025-chapter-0467",
+    "public-law-2025-chapter-0469",
+    "public-law-2025-chapter-0473",
+    "public-law-2025-chapter-0475",
+    "public-law-2025-chapter-0477",
+    "public-law-2025-chapter-0478",
+    "public-law-2025-chapter-0480",
+    "public-law-2025-chapter-0485",
+    "public-law-2025-chapter-0489",
+    "public-law-2025-chapter-0490",
+    "public-law-2025-chapter-0499"
+   ],
+   "sha256": "561a18821f4e4dea18c85704b3f3cd1248f4b2c199110e052448d3b33dbf5b06"
   }
  },
  "schema": 1
