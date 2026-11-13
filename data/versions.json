@@ -1,0 +1,1875 @@
+{
+ "country": "US-ME",
+ "acts": [
+  {
+   "slug": "public-law-2025-chapter-0007",
+   "short": "PL 2025, c. 7",
+   "title": "An Act Regarding Licensure of Emergency Medical Services Persons",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=113389",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=146196",
+     "sha256": "70055f1c7a12261650eef6e222ec63ddb33e0e999e2bf073e42b3dbebbc3b211"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0008",
+   "short": "PL 2025, c. 8",
+   "title": "An Act to Amend the Laws Governing the Taste Testing of Wine and Malt Liquor to Facilitate Marketing by Wholesalers",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=113391",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=146453",
+     "sha256": "7c2b1c8df71f395ccb7009cd7a12026a22fc12e39ffa1f6fff0a09ec3130ac9a"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0019",
+   "short": "PL 2025, c. 19",
+   "title": "An Act to Extend the Law Governing Electric Power and Service Residential Rates for Military Veterans' Organizations",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=115406",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=146575",
+     "sha256": "7a80bce37781b0e92440f4b420a42f3f02d1575ae668d0190a2f04862a479b0c"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0022",
+   "short": "PL 2025, c. 22",
+   "title": "An Act to Provide a Court Authority to Issue Proximity Restrictions in Protection from Abuse Orders",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=115402",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=146618",
+     "sha256": "81f61bda231d36cc0ea4b49660a7e6a143c95e9724f6e78b1e1c6a6275f140b7"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0027",
+   "short": "PL 2025, c. 27",
+   "title": "An Act to Amend the Hunting Laws Related to the Training of Dogs and Open Training Seasons",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=115961",
+   "versions": [
+    {
+     "from": "2025-04-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=146677",
+     "sha256": "d4115b9bf9fc434a3be64a360628bf5f41126c27979c544a3904468041eebccf"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0028",
+   "short": "PL 2025, c. 28",
+   "title": "An Act Regarding the Emptying of Elver Fyke Nets",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=115955",
+   "versions": [
+    {
+     "from": "2025-04-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=146682",
+     "sha256": "cb285651e089f02a23851f108f33e19a02a7c66b7846b32a45f9afbe9c58c887"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0034",
+   "short": "PL 2025, c. 34",
+   "title": "An Act to Clarify the Law Regarding Prior Authorization for Air Ambulances",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=116019",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=146777",
+     "sha256": "53c13757caa44f74bf2c75852bcf47a16dd9d4cbabeef4a121bfa1b6178e3d4d"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0036",
+   "short": "PL 2025, c. 36",
+   "title": "An Act Concerning the Restoration of Electricity During Emergencies for Certain Medically Vulnerable Individuals Who Rely on Electronic Medical Apparatuses",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=116029",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=146770",
+     "sha256": "96b52a2306f9292e0b80526bcd6b728ab6476846843a85e8f2084ec689a25db7"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0041",
+   "short": "PL 2025, c. 41",
+   "title": "An Act to Provide an Exception to a Fishing Prohibition near the Crooked Brook Dam",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=116288",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=146867",
+     "sha256": "181186f6e7efa84362394aedb2426c59611f9325527405efd078a3ea8fee0f9f"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0044",
+   "short": "PL 2025, c. 44",
+   "title": "An Act to Support Removal of Overboard Discharge Systems",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=116284",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=146862",
+     "sha256": "f3b2015a63f8a71c3c57e612d4bbb48498df37cc31166e06763277bfeee89b32"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0051",
+   "short": "PL 2025, c. 51",
+   "title": "An Act to Require the Issuance of Maine Agricultural Fair Licenses Every 4 Years",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=116302",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=146917",
+     "sha256": "bbe301efd72de55bb7dfc9dd4dcc00f8e167b3fbbf837dedf3289de954d0117c"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0060",
+   "short": "PL 2025, c. 60",
+   "title": "An Act to Provide for a Vessel Breakdown License Exception for Commercial Halibut Fishing License Holders",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=117310",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147075",
+     "sha256": "72cdba8e86cd331c00e13543c49c0e26c3421f9694276e2f73c6fefccff0883c"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0061",
+   "short": "PL 2025, c. 61",
+   "title": "An Act to Amend the Definition of \"Transient Occupancy\" in the Laws Governing the Maine Land Use Planning Commission",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=117308",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147028",
+     "sha256": "2984df5022be76a00570856a99dc5ac5178ae308959221df0e93ba90543ef652"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0062",
+   "short": "PL 2025, c. 62",
+   "title": "An Act to Update Waste Discharge License Fees",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=117306",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147025",
+     "sha256": "0ce0a1e14f92955db83bb59e11cbc76c5ab743687dc9431af0d29e2323f3917e"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0071",
+   "short": "PL 2025, c. 71",
+   "title": "An Act Regarding the Establishment of Fees and Fee Caps for Dental Provider Licensing and Permits",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=117659",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147250",
+     "sha256": "d03e53c7ecfea1daf222d8eba2a6ceaac4669b3f898ad8b567edf129dad7b29c"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0072",
+   "short": "PL 2025, c. 72",
+   "title": "An Act Regarding Confidential Information Gathered for Forest Fire Emergency Response and Planning",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=117665",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147238",
+     "sha256": "13e83f79240cd87f89ee281ed93b51d3eb2ba7d2422d295056eb31ae6aac824e"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0084",
+   "short": "PL 2025, c. 84",
+   "title": "An Act to Support Immersive Outdoor Education by Establishing the Outdoor School for All Maine Students Program",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118033",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147433",
+     "sha256": "b2764e389897ab73b9a82439fecabfff9e26c49fcda02e742375b248e4815c12"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0086",
+   "short": "PL 2025, c. 86",
+   "title": "An Act to Amend the Law Governing the Membership of the Government Oversight Committee",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118029",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147437",
+     "sha256": "5921fabe5502e95700203fd90907c766592acf3788f2b67087a0450458a33094"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0087",
+   "short": "PL 2025, c. 87",
+   "title": "An Act to Expand the Number of On-premises Retail Liquor Licenses a Liquor Manufacturer May Be Issued",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118031",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147540",
+     "sha256": "9e4001ec7d0744324a46882af3e2134c368b3169cd820d22eac33e16d246e515"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0099",
+   "short": "PL 2025, c. 99",
+   "title": "An Act to Protect the Confidentiality of Information of Individual Customers of a Public Utility",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118092",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147283",
+     "sha256": "644b0b53fb014f6f92f815c12ff5ed0cd8370cd4c25f53789dadbde7270b0a42"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0110",
+   "short": "PL 2025, c. 110",
+   "title": "An Act to Clarify, Align and Amend Provisions of the Maine Revised Statutes, Title 35-A",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118114",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147493",
+     "sha256": "57e3a0e0e3740e4615f0145428c62da18d88749ce1e849c8ba5125f717fd7d0e"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0112",
+   "short": "PL 2025, c. 112",
+   "title": "An Act to Update the Laws Regarding Education",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118110",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147255",
+     "sha256": "91adacc5fcb0fc3220362b0eb3065dfc24506daf3a3f3c2734062b55f32cacb4"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0116",
+   "short": "PL 2025, c. 116",
+   "title": "An Act to Enhance Protections Regarding Invasive Aquatic Plant and Animal Infestations in Inland Waters of the State",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118174",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147107",
+     "sha256": "52c50eab6a0f81810b443cc49c8a018bf8f8abc3348918dc41247d5728ee4904"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0121",
+   "short": "PL 2025, c. 121",
+   "title": "An Act to Extend the Period of Time a Dentist May Operate the Practice of a Deceased or Incapacitated Dentist",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118384",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147742",
+     "sha256": "3ad4116a83b7d1f4dfe87c19241f079f48a84d1cf45dc2a1a09e0fdede176684"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0122",
+   "short": "PL 2025, c. 122",
+   "title": "An Act to Allow Coastal Seawalls to Be Raised by up to 2 Feet in Order to Accommodate Predicted Sea Level Rise",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118386",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147759",
+     "sha256": "a2d338d704bcf3a5e0f9f0ca42fd29421bf3aa82f6da296063dd1af4a3917d3b"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0127",
+   "short": "PL 2025, c. 127",
+   "title": "An Act to Increase Oversight of Fatalities of and Serious Injuries to Adults Subject to Public Guardianship",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118502",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147895",
+     "sha256": "1f20e50b37be9cb0a16385e041e4af34c88bd381845ea3dcdca2d726c1f88740"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0134",
+   "short": "PL 2025, c. 134",
+   "title": "An Act to Require Motor Vehicle Certificates of Registration to Include a Space to List an Emergency Contact",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118514",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147763",
+     "sha256": "a41ee98e69df9f02ea065886bacd744c6a0dcc121e7de8b2bf90a5123484a516"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0145",
+   "short": "PL 2025, c. 145",
+   "title": "An Act to Expand Access and Reduce Barriers to Access to Naloxone Hydrochloride and Other Opioid Overdose-reversing Medications",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118504",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147891",
+     "sha256": "35c8a596e1e4198de4a7bd3197ecd588f3f35706078fb2ec8e01c0257ce6ff4b"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0146",
+   "short": "PL 2025, c. 146",
+   "title": "An Act to Promote an Innovation-driven Economy by Increasing Research and Development Spending",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118530",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147850",
+     "sha256": "09d69b439d8de251742c9d1245369d3e90b243ed419552eae53f48a529fc963f"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0148",
+   "short": "PL 2025, c. 148",
+   "title": "An Act to Require a Person Operating a Watercraft for Recreational Purposes to Ensure All Children Under 13 Years of Age Wear United States Coast Guard Approved Personal Flotation Devices",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118526",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147897",
+     "sha256": "fbefe6253326e8b2bebfee163cbf8ee66d909e106af2d5a1b92c2549899a0e81"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0149",
+   "short": "PL 2025, c. 149",
+   "title": "An Act to Support Access to General Assistance at Municipal General Assistance Offices and Designated Places",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118540",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147755",
+     "sha256": "b7f7d1c41a52576a7d356ca97eb000583a4a827507eb7e51f9f2d6feda575527"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0150",
+   "short": "PL 2025, c. 150",
+   "title": "An Act to Modernize the Formulary for Naturopathic Doctors",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118582",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147798",
+     "sha256": "873efd60abc84c781c088097511f790b5a337c4c159f30bf1ce2e3e4ccf927ce"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0155",
+   "short": "PL 2025, c. 155",
+   "title": "An Act to Create a For-hire Charter Boat Operator License and to Require Individuals Recreationally Fishing for Halibut in Coastal Waters to Register with the Saltwater Recreational Fishing Registry",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118704",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147908",
+     "sha256": "887d94e2b8fda3b57ad1602a9fbd961ca82d72bbbb9b4cdf8c419fcfe93a2ce7"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0156",
+   "short": "PL 2025, c. 156",
+   "title": "An Act to Prohibit Municipalities from Barring the Creation of Homeless Shelters",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118724",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147761",
+     "sha256": "3997098edd49d71ffde3027b3435b61a39f923a76eab6e1b335ac697ad6f71da"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0160",
+   "short": "PL 2025, c. 160",
+   "title": "An Act to Authorize the Commissioner of Marine Resources to Add Limited-access Area Fishing Days During the Scallop Season",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118718",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147905",
+     "sha256": "94932817910df3156dc2cb6ca3049e8abcad413ce86128836551e8e793e16218"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0172",
+   "short": "PL 2025, c. 172",
+   "title": "An Act to Protect Groundwater and Surface Waters from Perfluoroalkyl and Polyfluoroalkyl Substances from Landfill Leachate",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118728",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147836",
+     "sha256": "73b22acfe2000003127527ae3b91911b5ecde11e141109b7cfef212a7b5b6699"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0176",
+   "short": "PL 2025, c. 176",
+   "title": "An Act to Amend the Maine Litter Control Act",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=118911",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147422",
+     "sha256": "0ae6ae1bb61db9eddd76ef17581720296afdd2b71391ae1085983a8ce6d9abe7"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0185",
+   "short": "PL 2025, c. 185",
+   "title": "An Act to Extend a One-year Lobbying Prohibition to Partisan and Nonpartisan Staff of the Legislature",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119286",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147790",
+     "sha256": "7a62b0e3328897f13eaf49de03aae41f166da010c59e1b380ce717dc843007b7"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0187",
+   "short": "PL 2025, c. 187",
+   "title": "An Act to Implement the Recommendations of the Right to Know Advisory Committee Concerning State Boards and Commissions",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119296",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147768",
+     "sha256": "2d0cb424f62da0332582312d4792e7e1042d63bfa41d879be7039c554c4d7195"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0189",
+   "short": "PL 2025, c. 189",
+   "title": "An Act to Support Maine Eating and Drinking Establishments by Allowing Vendors to Operate on the Premises of an Establishment with a Liquor License",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119344",
+   "versions": [
+    {
+     "from": "2025-06-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148054",
+     "sha256": "5329dbf217b508201e23629749cb0f9805391fdec343495e83818522660736b1"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0190",
+   "short": "PL 2025, c. 190",
+   "title": "An Act to Allow the Use of a Siren in a Vehicle Used by a Harbor Master or Deputy Harbor Master",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119348",
+   "versions": [
+    {
+     "from": "2025-06-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148083",
+     "sha256": "8527407b334e8fa126166631dfe207f3ff304b6ded0baf5d563c353c8dabc511"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0194",
+   "short": "PL 2025, c. 194",
+   "title": "An Act to Include the Declaration of an Emergency by the President of the United States as a Basis to Allow the Governor to Provide Disaster Relief to Local Governments",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119398",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147988",
+     "sha256": "39f4b3351c64c76ddca2928c959eab513f370f6a8bb398ae6c504cee452d47a6"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0195",
+   "short": "PL 2025, c. 195",
+   "title": "An Act to Expand the Membership of the Homeland Security Advisory Council",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119404",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148069",
+     "sha256": "ace93c3aaf63d53f993ba4590c1aea3ad7217a6beaf551f2b48440e52d98bae1"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0196",
+   "short": "PL 2025, c. 196",
+   "title": "An Act to Clarify the Public Utilities Commission's Authority to Establish Time-of-use Pricing for Standard-offer Service",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119410",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148121",
+     "sha256": "bf9ab4713a7e7822bb78c91363ffd0db64790b75ac3948c60c86976a1fcacb2a"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0200",
+   "short": "PL 2025, c. 200",
+   "title": "An Act to Allow Unaccompanied and Emancipated Minors to Access Their Vital Records At No Cost",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119418",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148012",
+     "sha256": "452c07163772016c60dce6dfe9b29cbcd50a97574408234d89be2430ac9cc2c3"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0215",
+   "short": "PL 2025, c. 215",
+   "title": "An Act to Prevent Financial Exploitation of Vulnerable Adults",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119440",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147994",
+     "sha256": "3e183cfc8f794b252bc5976d5b6b43d1d967180869ae7e1549d28bda3bdef826"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0224",
+   "short": "PL 2025, c. 224",
+   "title": "An Act Regarding Campaign Finance Disclosure",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119579",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148259",
+     "sha256": "133b6e881cdb9a108981d350967fd3780b7aad54ec03359e87508c5d4e4efa29"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0225",
+   "short": "PL 2025, c. 225",
+   "title": "An Act to Amend the Laws Pertaining to Elver Fishing",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119569",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148237",
+     "sha256": "a92709edf3c16bf6dd84ac64bdd93df091da673c9881d12847bb4c8e4fff1594"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0226",
+   "short": "PL 2025, c. 226",
+   "title": "An Act to Support Municipal and County Actions on Dam Ownership and to Make Other Changes to the Laws Regulating Release from Dam Ownership",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119567",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148249",
+     "sha256": "d31aff59221e9c717a4400f47acc519da20ef6b86212a311e8f5dd809e75b516"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0237",
+   "short": "PL 2025, c. 237",
+   "title": "An Act to Update the Laws Governing the Licensing of Intermediate Care Facilities for Persons with Intellectual Disabilities",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119575",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148175",
+     "sha256": "bf3c9e3b066c335803d281a22a331adb4b9c5e574ea0c980d67bf55ec87bbca8"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0240",
+   "short": "PL 2025, c. 240",
+   "title": "An Act to Amend Certain Definitions in the Child and Family Services and Child Protection Act",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119621",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148282",
+     "sha256": "3229019e36495412603554e786a5947089a638d705a1ffde56ebec5d3037501b"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0241",
+   "short": "PL 2025, c. 241",
+   "title": "An Act to Delay Implementation of Certain Recent Changes to the Beverage Container Redemption Law and to Make Other Necessary Changes to That Law",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119631",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148277",
+     "sha256": "bd70927da5cde4c4e29946c1484264d5478d97eeeaa720d1b2a28f4e6b9badb1"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0254",
+   "short": "PL 2025, c. 254",
+   "title": "An Act to Improve Access to Grant Funding for the Maine Farms for the Future Program",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119627",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148199",
+     "sha256": "eff60a3770f2a5f6d6806062fca04f2be9d3526a58829638b0111f1d752aa2ab"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0261",
+   "short": "PL 2025, c. 261",
+   "title": "An Act to Increase the Maximum Small Claim Limit",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119730",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148346",
+     "sha256": "be4f208d0954b741a57d88613cb3a7eb80c48fd5628a05181be5a2b3ae77b348"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0263",
+   "short": "PL 2025, c. 263",
+   "title": "An Act to Update Language on Setback Variances for Single-family Dwellings",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119748",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148357",
+     "sha256": "5857e5e93eb33b9355e06da21bbaa287c584ef7a4c5258d924f008a5992de57e"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0265",
+   "short": "PL 2025, c. 265",
+   "title": "An Act to Establish a Fund and Council to Support Working Waterfronts",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119728",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148340",
+     "sha256": "c6642a2d7626227f9aba3a96fc40fae245abbb9fc2073020b386b661c71da83b"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0273",
+   "short": "PL 2025, c. 273",
+   "title": "An Act to Amend the Law Governing Dedimus Justices",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119891",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148469",
+     "sha256": "3325b24d3cf04dc2bad79fe0b92ace0824ccdd0a59678505be2e0918ae34e8a1"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0275",
+   "short": "PL 2025, c. 275",
+   "title": "An Act to Protect Holders of Distressed Mortgages from Fraud",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119881",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148522",
+     "sha256": "b3394b168e1953bddf7228fa75fa6e71797b9945dbf4fe1beea2c172fc06d71c"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0281",
+   "short": "PL 2025, c. 281",
+   "title": "An Act to Amend the Law Governing Facilities Approved by the State Harness Racing Commission to Sell Pari-mutuel Pools and Common Pari-mutuel Pools for Simulcast Racing",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119893",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148306",
+     "sha256": "13c3b3bb590ec0f258dd20b1f9d501135164c30c6bc1aee473c9d965e6b6c7a4"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0282",
+   "short": "PL 2025, c. 282",
+   "title": "An Act to Require Legislative Approval of Proposed Permanent Changes to the Overnight Docking of State Ferries on Islands",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119895",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148422",
+     "sha256": "18e7f4ced0acf95f4eea63a3116a743404e2cc9cbd840ee89ace5dd05f50d8a1"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0285",
+   "short": "PL 2025, c. 285",
+   "title": "An Act to Regulate Virtual Currency Kiosks",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119935",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148477",
+     "sha256": "e9c37b8f006a72953e7a1a76932b8b39edf7b3d5e41ad0ff00a0367e4c08be6f"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0286",
+   "short": "PL 2025, c. 286",
+   "title": "An Act to Facilitate the Reconstruction of Storm-damaged Commercial Fisheries Facilities and Infrastructure",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119971",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148331",
+     "sha256": "70f250101f44200349535c1c0c8d20ab69ea05256e57f030bec21f1cc2547cc6"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0289",
+   "short": "PL 2025, c. 289",
+   "title": "An Act Regarding the Transfer of Moose Permits to Disabled Veterans",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119953",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148400",
+     "sha256": "b8722bdb2a71f3c5f47ac33c4dda6ca6e9feca48a700faa8c13869699de86e83"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0290",
+   "short": "PL 2025, c. 290",
+   "title": "An Act to Amend the Membership of the Washington County Budget Advisory Committee",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119945",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148413",
+     "sha256": "6720085fadd2d28cc16c7ee21fe7126c560f815546462adfaf9f49896399dcc6"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0299",
+   "short": "PL 2025, c. 299",
+   "title": "An Act Regarding the Brunswick Naval Air Station Job Increment Financing Fund",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=119931",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148467",
+     "sha256": "820a3d693b2c0f79795df76dffaab3447e31fd370432fe3162ed2680328424bf"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0309",
+   "short": "PL 2025, c. 309",
+   "title": "An Act to Protect the Right to Food",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120121",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148067",
+     "sha256": "b7b2fc8f0f55d9e70a41d7cac0d9c29e490cdcc136f5a3eb5ef93c0445af5dcf"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0310",
+   "short": "PL 2025, c. 310",
+   "title": "An Act to Expand Opportunities to Invest Municipal Tax Increment Financing Revenues",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120125",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148007",
+     "sha256": "fc49da938cd9ea57e263c61cd4c43b18a2bcd196b752cb4c85dd788bdf6d666c"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0311",
+   "short": "PL 2025, c. 311",
+   "title": "An Act to Prohibit Deceptive Pricing in the Rental of Short-term Lodging and in the Sale of Tickets",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120139",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148014",
+     "sha256": "06b67352ef5491b60b9b8b0d9685b37cd89bd23527dafe080d0e5baf2feaaf91"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0312",
+   "short": "PL 2025, c. 312",
+   "title": "An Act Regarding Eligibility to Apply for a Department of Education Diploma",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120133",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148119",
+     "sha256": "94336ee3f1de8bf7637ae12e88559bc56d5d480f2452e3a8847b3edd88b21b4e"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0315",
+   "short": "PL 2025, c. 315",
+   "title": "An Act to Regulate Alcoholic Beverage Competitions",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120137",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148036",
+     "sha256": "35d8de4e84b6a206cb1c30f5c00333b2054c194da3aa2e61831ddf2c1fea7d81"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0328",
+   "short": "PL 2025, c. 328",
+   "title": "An Act to Increase Fees Paid to Registers of Deeds",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120226",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148168",
+     "sha256": "31b92df707ee13e68c9011af4d6a4310bf869c42ad1ab23bac62ba6173e57705"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0330",
+   "short": "PL 2025, c. 330",
+   "title": "An Act to Clarify the Release of Information by the Department of Health and Human Services in the Law Regarding Automatic Referrals",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120336",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148616",
+     "sha256": "0a45571dc75a62fe9c16ebd0507a7bc531d355fd8da060b1c68d0711f615fce3"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0337",
+   "short": "PL 2025, c. 337",
+   "title": "An Act to Expand Municipal Volunteer Program Eligibility Requirements in the Municipal Property Tax Assistance Laws",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120318",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148626",
+     "sha256": "7c6346234011e128686ae57ffb5e961fde6f886603f73beb850f3a0257bd03cb"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0340",
+   "short": "PL 2025, c. 340",
+   "title": "An Act Regarding the Approval of Transmission Lines",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120344",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148302",
+     "sha256": "92e02b686af947f0b24e603354e2dd5158118d2ee8b5b5b5333f01b02ac9740e"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0358",
+   "short": "PL 2025, c. 358",
+   "title": "An Act to Expand Direct Health Care Service Arrangements",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120412",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148715",
+     "sha256": "53b65d091ac5c579c8da4f47012528d688d6902cbdeeeb96f89bc5f07ae3752e"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0361",
+   "short": "PL 2025, c. 361",
+   "title": "An Act Regarding the Bind-over and Detention of Juveniles",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120384",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148752",
+     "sha256": "3992158d1ac76fb26ce3a45ba0c1b12025b0c9152496775702585f8fb1c0eb4c"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0367",
+   "short": "PL 2025, c. 367",
+   "title": "An Act Regarding the Regulation of Tobacco",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120390",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148736",
+     "sha256": "837f834fdd628f4a835700ece4013ee01ff43d3b41248c36d2c8c537fc50b68b"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0369",
+   "short": "PL 2025, c. 369",
+   "title": "An Act to Continue Funding for the Health Insurance Consumer Assistance Program",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120436",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148322",
+     "sha256": "57da4801022ba0f48ef78e87cbe9381e5fcadf310131ec99efb8fc96b23225b5"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0376",
+   "short": "PL 2025, c. 376",
+   "title": "An Act to Protect Maine Consumers by Simplifying Subscription and Health Club Membership Cancellations",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120454",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148794",
+     "sha256": "24ee04b2e5bdcbab87f1f94b7c2898a82adaa889b84b21035bd192f9d1c2fc76"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0382",
+   "short": "PL 2025, c. 382",
+   "title": "An Act to Authorize the Display of an Inherent Resolve Campaign Medal Decal on a Special Veterans License Plate and Authorize Certain Other Service Members to Receive Special Commemorative Decals",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120464",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147232",
+     "sha256": "f671a02118acbe0396b05e3855205b9383cba18a4d976d817afe191bf0173d37"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0386",
+   "short": "PL 2025, c. 386",
+   "title": "An Act to Advance a Clean Energy Economy by Updating Renewable and Clean Resource Procurement Laws",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120468",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148686",
+     "sha256": "ebe11c49f2659d90e806b1a65b7dc693d9884458377060b252cd281d94ee0f66"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0391",
+   "short": "PL 2025, c. 391",
+   "title": "An Act to Ensure Fair and Equitable Recovery of Post-restructuring Stranded Costs",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120502",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148783",
+     "sha256": "6e9fb73705adc6fb3d326b809a1f535a42aed281836dae169305a94fe17ccb5d"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0393",
+   "short": "PL 2025, c. 393",
+   "title": "An Act to Improve the Growth Management Program Laws",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120498",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148896",
+     "sha256": "f4b2a9d517e57eae76496388ea36e428aebc1af48d1ef3a03252ad49973a886b"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0396",
+   "short": "PL 2025, c. 396",
+   "title": "An Act to Amend the Law Governing the Competitive Skills Scholarship Program and Establish the Community Workforce Connections Program",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120508",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148479",
+     "sha256": "2d6f9179e10dbfb5c575c5040dff19574405ccb08a2a5c57aedcdb1269ff4487"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0397",
+   "short": "PL 2025, c. 397",
+   "title": "An Act to Amend the Laws Governing Elections",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120490",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148555",
+     "sha256": "ac736cd7e208ec413c84919c0120b8f64c4e1b065aeaa7cf9884ef6fae180efe"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0404",
+   "short": "PL 2025, c. 404",
+   "title": "An Act to Establish Net Neutrality",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120540",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148433",
+     "sha256": "d8088e2a82e1ec941ac86e84aff27ea30dcbfc4884d1272f6f3ae01d1c96a8f9"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0415",
+   "short": "PL 2025, c. 415",
+   "title": "An Act to Make Technical Changes to the Laws Governing the Maine Commission on Public Defense Services",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120546",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148370",
+     "sha256": "88dc872ce9a5650e81dffb53fb5e73fdff2adabee5a60530d5e5b37a07d2a969"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0417",
+   "short": "PL 2025, c. 417",
+   "title": "An Act to Prohibit the Doxing of a Minor and to Authorize a Related Civil Action",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120551",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148594",
+     "sha256": "1710d53257df28a865da31b50f01f5f130ed360d3337ed48361c07e6657c2a57"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0418",
+   "short": "PL 2025, c. 418",
+   "title": "An Act to Require Minimum Pay for Reporting to Work",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120557",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148596",
+     "sha256": "6d75c38be0ea1c038a8e24e92273290e10a13a21725be83d9c46dbb3ae294fb2"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0426",
+   "short": "PL 2025, c. 426",
+   "title": "An Act to Require the Attorney General to Create and Update Biennially a Model Residential Lease",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120676",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148622",
+     "sha256": "291427da623c01bd64fe7d0673f3d62d2b3e927e4222fb480223e9f08b554154"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0430",
+   "short": "PL 2025, c. 430",
+   "title": "An Act to Reduce Costs and Increase Customer Protections for the State's Net Energy Billing Programs",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120694",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148908",
+     "sha256": "21cc55bc6a7980e4570f52cf9b8154b59c8efc07bedff8956c0fdc0efa2d23ab"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0432",
+   "short": "PL 2025, c. 432",
+   "title": "An Act to Update References to the United States Internal Revenue Code of 1986 Contained in the Maine Revised Statutes",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120700",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=146709",
+     "sha256": "c84e94e9006f7ba4c2062bf652bd92405fef8fdeff9f32965219f6d45e78364e"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0440",
+   "short": "PL 2025, c. 440",
+   "title": "An Act to Reduce Cost and Increase Access to Disease Prevention by Expanding the Universal Childhood Immunization Program to Include Adults",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120720",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148816",
+     "sha256": "73c7d2d4cec529b796a1cbb9aaa7c83257450936ce084c138aa580d05d01468f"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0445",
+   "short": "PL 2025, c. 445",
+   "title": "An Act to Require Health Insurance Coverage for Federally Approved Nonprescription Oral Hormonal Contraceptives and Nonprescription Emergency Contraceptives",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120710",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147546",
+     "sha256": "d55f4ce88bcfb9db8cbf1bf751b7668d82779e9bb3378a24ec17c595f6ddcf50"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0446",
+   "short": "PL 2025, c. 446",
+   "title": "An Act to Provide 2 Hearing Aids to MaineCare Members with Diagnosed Hearing Loss",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120718",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148983",
+     "sha256": "9df1f46be2b2e8ca154254cb907c25e7afa66af7ba61ca8a6c2e9d612d3d0b45"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0450",
+   "short": "PL 2025, c. 450",
+   "title": "An Act to Update Major Policy-influencing Positions Within the Maine Human Rights Commission",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120728",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=147756",
+     "sha256": "4c25dcb8568c5add51a33beebb5b4db28d8dba7d3111e5cfdd48c9573328680a"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0453",
+   "short": "PL 2025, c. 453",
+   "title": "An Act to Prevent Student Homelessness",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120768",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=149032",
+     "sha256": "75d3bca169f57a802c0268747735ed1b6138ba34303655f4650cc816c6347572"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0457",
+   "short": "PL 2025, c. 457",
+   "title": "An Act to Support Informed Community Self-determination in Emergency Medical Services Planning",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120832",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=149000",
+     "sha256": "2d10cb45f4962ff6437de2525c7b9b4ebbdfac968c754637ce2a51017d24e7a8"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0459",
+   "short": "PL 2025, c. 459",
+   "title": "An Act to Increase Support for Statewide Emergency Broadcast Messaging",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120834",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=149097",
+     "sha256": "e7a2c9f162dbb76e6163a0eab2e1557d56bb5ccb595bb9f13b28114bdd8c347b"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0460",
+   "short": "PL 2025, c. 460",
+   "title": "An Act to Sustain Emergency Homeless Shelters in Maine",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120836",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=149059",
+     "sha256": "f253bacd4b127ee44ba32b2f7eef18feb4b11a6a3257173a6d9987826b71cd1d"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0468",
+   "short": "PL 2025, c. 468",
+   "title": "An Act to Require MaineCare to Reimburse for Lactation Services in the Homes of Eligible Persons",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120788",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148628",
+     "sha256": "456354f0301d779073d5ca288c573cf06b661b2ee702291882cccff68e0ab8a2"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0481",
+   "short": "PL 2025, c. 481",
+   "title": "An Act to Enhance the Protection of High-value Natural Resources Statewide",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120750",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=149049",
+     "sha256": "6a97044bf57301c6037fff3d2107b1b96d01115f5eab5af936f64fc860f8de2b"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0482",
+   "short": "PL 2025, c. 482",
+   "title": "An Act to Allow a Legislator to Choose to Be Paid on an Annual Basis",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120796",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148530",
+     "sha256": "2fedd19b5db8454e00652c8b75b9d128681ad4f971f245f819a3036f6fddf736"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0483",
+   "short": "PL 2025, c. 483",
+   "title": "An Act to Clarify and Increase Access to HIV Prevention Medications",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120810",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148655",
+     "sha256": "700c45b1a0de792aecb0bc1bec5f7ad5700731a584357763f7ef9ca9a8d27b01"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0488",
+   "short": "PL 2025, c. 488",
+   "title": "An Act to Require Hospitals and Hospital-affiliated Providers to Provide Financial Assistance Programs for Medical Care",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120786",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148650",
+     "sha256": "4a1a0e13933b1ecb0e96b450ed23d2fbacbe2b34887268ac8acb32bd7aff9470"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0491",
+   "short": "PL 2025, c. 491",
+   "title": "An Act to Implement the Recommendations of the Emergency Medical Services' Board and the Blue Ribbon Commission to Study Emergency Medical Services in the State",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120770",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148579",
+     "sha256": "e931606cf80dc5a2c093399ee782ce0db9384a6008a9031e901a3b7622ecf481"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0493",
+   "short": "PL 2025, c. 493",
+   "title": "An Act to Prohibit the Sale of Tobacco Products in Pharmacies and Retail Establishments Containing Pharmacies",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120851",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148992",
+     "sha256": "7fcc7c8fba771aa1444f747bf61d411b1a743279d540e45a317e4aba712b1374"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0496",
+   "short": "PL 2025, c. 496",
+   "title": "An Act to Allow an Attorney for the State to Determine Whether to Charge Certain Class E Crimes as Civil Violations",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120855",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148851",
+     "sha256": "de561d23db2684e8aaaf55a9c91ad7a867bc6f7ecd679156f10353b9e5d1596d"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0497",
+   "short": "PL 2025, c. 497",
+   "title": "An Act Regarding the New Markets Tax Credit and the Maine New Markets Capital Investment Program",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120859",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=148828",
+     "sha256": "8c5bc8782dde11c361d4fd72d87f5593d3001dfd5276b0834569355d78f30669"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-2025-chapter-0498",
+   "short": "PL 2025, c. 498",
+   "title": "An Act to Support Workforce Development by Establishing the Housing Stability Fund",
+   "url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getDocById/?docId=120863",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legislature.maine.gov/ros/LawsOfMaine/breeze/Law/getWordDocById/?requestItemId=149088",
+     "sha256": "882039ec9bfb3c385cc26b91afcd74d16298470e5ece1674686a3fbda73c166b"
+    }
+   ]
+  }
+ ]
+}
