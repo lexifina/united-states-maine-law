@@ -737,7 +737,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 1,
+     "units": 374,
      "source_url": "https://legislature.maine.gov/statutes/9-A/title9-A.docx",
      "sha256": "e4821603bbd8144c81c72605d4e214cbe1f9fbcd39ebc5053e94fb4ea83bb638"
     }
@@ -751,7 +751,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 1,
+     "units": 626,
      "source_url": "https://legislature.maine.gov/statutes/29-A/title29-A.docx",
      "sha256": "e3dfd09bb36257541b956360a55cff4c339aefebc3737baeb216680b5a71d6b4"
     }

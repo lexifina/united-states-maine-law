@@ -73,7 +73,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-9-a-maine-consumer-credit-code` | Maine Revised Statutes, Title 9-A. MAINE CONSUMER CREDIT CODE | 1 | 2026-10-01 to 2026-10-01 |
 | `title-29-a-motor-vehicles-and-traffic` | Maine Revised Statutes, Title 29-A. MOTOR VEHICLES AND TRAFFIC | 1 | 2026-10-01 to 2026-10-01 |
 
-The build made 102 commits:
+The build made 104 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -97,7 +97,7 @@ When a law gives no date of its own, the default rule applies: 1 M.R.S. section 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `3f42b20a39ba83640dc53192d560207176f1cc1ce041dc0de6781e54faceff42` (126974508 bytes).
+- Corpus: sha256 `5bdf01f507cec703c2e964d379324cb4b36a40c5429b414e1f4562a4f3e1ad7a` (129293814 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -168,6 +168,7 @@ No second build of this corpus has been compared yet.
 - title-37-b-defense-veterans-and-emergency-managemen: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
 - title-38-waters-and-navigation: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
 - title-39-a-workers-compensation: chapter and section boundaries follow official title headings. Concatenated units preserve the original whole-title text byte for byte and match the official Word body after whitespace normalization. Source hash and consolidation date are unchanged. Repeated section numbers remain separate units in publication order.
+- Titles 9-A and 29-A: section boundaries follow headings in the official Word files. Concatenated units reproduce each unchanged published whole-title blob byte for byte, including the previously verified linear text of each native Word formula. Official source hashes and consolidation dates are unchanged.
 
 ## What AI did and did not do
 
@@ -188,3 +189,4 @@ Model use at data-build time:
 - GPT-6 wrote deterministic batch arrangement and verification code; no legal words were generated, corrected or translated by a model.
 - GPT-6 wrote deterministic batch arrangement and verification code; no legal words were generated, corrected or translated by a model.
 - GPT-6 wrote deterministic batch arrangement and verification code; no legal words were generated, corrected or translated by a model.
+- GPT-6 wrote deterministic section arrangement and verification code; no legal words were generated, corrected or translated by a model.

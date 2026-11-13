@@ -20,7 +20,7 @@ The Constitution and all 53 current normative titles of the Maine Revised Statut
 | `title-7-a-agriculture-conservation-and-forestry/` | Maine Revised Statutes, Title 7-A. AGRICULTURE, CONSERVATION AND FORESTRY | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-8-amusements-and-sports/` | Maine Revised Statutes, Title 8. AMUSEMENTS AND SPORTS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-9-banks-and-financial-institutions/` | Maine Revised Statutes, Title 9. BANKS AND FINANCIAL INSTITUTIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
-| `title-9-a-maine-consumer-credit-code/` | Maine Revised Statutes, Title 9-A. MAINE CONSUMER CREDIT CODE | 1 | One complete title file, including native Word formula text; source date 2026-10-01 |
+| `title-9-a-maine-consumer-credit-code/` | Maine Revised Statutes, Title 9-A. MAINE CONSUMER CREDIT CODE | 1 | Section files, including native Word formula text; source date 2026-10-01 |
 | `title-9-b-financial-institutions/` | Maine Revised Statutes, Title 9-B. FINANCIAL INSTITUTIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-10-commerce-and-trade/` | Maine Revised Statutes, Title 10. COMMERCE AND TRADE | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-11-uniform-commercial-code/` | Maine Revised Statutes, Title 11. UNIFORM COMMERCIAL CODE | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
@@ -48,7 +48,7 @@ The Constitution and all 53 current normative titles of the Maine Revised Statut
 | `title-27-libraries-history-culture-and-art/` | Maine Revised Statutes, Title 27. LIBRARIES, HISTORY, CULTURE AND ART | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-28-a-liquors/` | Maine Revised Statutes, Title 28-A. LIQUORS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-28-b-cannabis/` | Maine Revised Statutes, Title 28-B. CANNABIS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
-| `title-29-a-motor-vehicles-and-traffic/` | Maine Revised Statutes, Title 29-A. MOTOR VEHICLES AND TRAFFIC | 1 | One complete title file, including native Word formula text; source date 2026-10-01 |
+| `title-29-a-motor-vehicles-and-traffic/` | Maine Revised Statutes, Title 29-A. MOTOR VEHICLES AND TRAFFIC | 1 | Section files, including native Word formula text; source date 2026-10-01 |
 | `title-30-federally-recognized-indian-tribes/` | Maine Revised Statutes, Title 30. FEDERALLY RECOGNIZED INDIAN TRIBES | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-30-a-municipalities-and-counties/` | Maine Revised Statutes, Title 30-A. MUNICIPALITIES AND COUNTIES | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-31-partnerships-and-associations/` | Maine Revised Statutes, Title 31. PARTNERSHIPS AND ASSOCIATIONS | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
@@ -61,7 +61,7 @@ The Constitution and all 53 current normative titles of the Maine Revised Statut
 | `title-38-waters-and-navigation/` | Maine Revised Statutes, Title 38. WATERS AND NAVIGATION | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 | `title-39-a-workers-compensation/` | Maine Revised Statutes, Title 39-A. WORKERS' COMPENSATION | 1 | Chapter and section files; section history retained; source date 2026-10-01 |
 
-The statutory titles retain the complete official wording, including chapter headings, section-history notes and repeal placeholders. Titles 9-A and 29-A retain complete title files containing native Word formula text; the other titles use chapter and section files or their original provision files.
+The statutory titles retain the complete official wording, including chapter headings, section-history notes and repeal placeholders. Titles 9-A and 29-A use section files containing native Word formula text; the other titles use chapter and section files or their original provision files.
 
 The statutory source says its text is current through 1 October 2026. This is the consolidation date of each baseline, not the commencement of every provision. The Constitution retains its existing source-date record. Earlier consolidated versions are not added in this batch.
 
