@@ -1,0 +1,17 @@
+{
+ "corpus": "us/maine/acts",
+ "path": "united-states/maine/acts",
+ "scope": "selected-acts",
+ "acts": 49,
+ "future_branch": "future",
+ "publisher": "Maine Legislature, Office of the Revisor of Statutes",
+ "name": "Maine",
+ "language": "en",
+ "coverage": "49 acts of Maine as enacted, in force from 2025-09-24 to 2026-11-06",
+ "history": "as-enacted",
+ "history_from": "2025-09-24",
+ "record_to": "2026-11-06",
+ "checked_on": "2026-11-13",
+ "record_note": "Texts from Maine Legislature, Office of the Revisor of Statutes.",
+ "in_force_trailer": "In-force"
+}
