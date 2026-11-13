@@ -4,7 +4,7 @@
  "name": "Maine",
  "level": "state",
  "repo": "https://github.com/lexifina/united-states-maine-law",
- "build": "54 current-text acts (Constitution and 53 normative statute titles), plus 120 selected 2025 public laws as enacted. Earlier consolidated versions are not reconstructed.",
+ "build": "54 current-text acts (Constitution and 53 normative statute titles), plus 169 selected 2025 public laws as enacted. Earlier consolidated versions are not reconstructed.",
  "register_date": "2026-10-30",
  "parent": "united-states"
 }
